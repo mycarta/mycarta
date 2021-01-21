@@ -8,7 +8,7 @@
 - ⚡ Fun fact: I currently have a fixation for card tricks
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mycarta)](https://github.com/anuraghazra/github-readme-stats&count_private=true&show_icons=true&theme=radical&hide_border)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mycarta)](https://github.com/anuraghazra/github-readme-stats&hide_border&count_private=true&show_icons=true&theme=radical)
 
 
 ## Blog posts:
