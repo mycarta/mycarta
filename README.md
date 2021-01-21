@@ -18,5 +18,5 @@
 - [Data exploration in Python: distance correlation and variable clustering](https://mycarta.wordpress.com/2019/04/10/data-exploration-in-python-distance-correlation-and-variable-clustering/)
 
 
-## Upcoming articles
-- [Some advice on reproducing figures](https://github.com/softwareunderground/52things/blob/master/chapters/Niccoli_3.md): (to be published): my take on scientific publications reproducibility. This will be a chapter in the upcoming Software Underground book 52 Things You Should Know About Geocomputing (of which I am also one of the editors)
+## Article spotlight
+- [Some advice on reproducing figures](https://github.com/softwareunderground/52things/blob/master/chapters/Niccoli_3.md): (to be published): my take on scientific publications reproducibility. This will be a chapter in the upcoming Software Underground book [52 Things You Should Know About Geocomputing](https://github.com/softwareunderground/52things) (of which I am also one of the editors)
