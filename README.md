@@ -1,6 +1,6 @@
-### Ciao! I'm Matteo 👋
+## Ciao! I'm Matteo 👋
 
-#### I am a passionate Geoscientis interested in Data Science and Visualization
+### I am a passionate Geoscientis interested in Data Science and Visualization
 
 - 🌱 I’m currently learning **Dashoboarding with Panel and Holoviews**
 - 📫 How to reach me: matteo@mycarta.ca
@@ -12,6 +12,7 @@
 
 
 ## Blog posts:
-- Be a geoscience and data science detective: a recent blog post on a project that I presented last June as a lightning talk at the Software Underground Transform2020 virtual conference
-- Busting bad colormaps with Python and Panel: another recent post; this project too lead to a lightning talk at the Transform2020 virtual conference
-- From zero to Jupyter Lab pro on Windows 10:  a very popular blog post
+- [Geoscience Machine Learning bits and bobs] – data completeness(https://mycarta.wordpress.com/2020/09/19/geoscience-machine-learning-bits-and-bobs-data-completeness/)
+- [Be a geoscience and data science detective](https://mycarta.wordpress.com/2020/09/16/be-a-geoscience-and-data-science-detective/)
+- [From zero to JupyterLab pro on Windows 10](https://mycarta.wordpress.com/2019/07/09/from-zero-to-jupyterlab-pro-on-windows-10/)
+- [Data exploration in Python: distance correlation and variable clustering](https://mycarta.wordpress.com/2019/04/10/data-exploration-in-python-distance-correlation-and-variable-clustering/)
