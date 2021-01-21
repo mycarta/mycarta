@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-[![Mycarta's github stats](https://github-readme-stats.vercel.app/api?username=mycarta](https://github.com/mycarta/github-readme-stats&count_private=true)
+[![Mycarta's github stats](https://github-readme-stats.vercel.app/apimycarta](https://github.com/mycarta/github-readme-stats&count_private=true)
