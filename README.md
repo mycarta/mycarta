@@ -13,7 +13,8 @@
 ## Spotlight
 [Busting bad colormaps with Python and Panel](https://mybinder.org/v2/gh/mycarta/Colormap-distorsions-Panel-app/master?urlpath=%2Fpanel%2FDemonstrate_colormap_distortions_interactive_Panel): a web-based app to show the effects of using a bad colormaps; built with `Panel`, `Matplotlib`, and a touch of `Scipy`
 
-## Favorite pet project
+## Ongoing favorite project
+[A tutorial on practical applications of FFT in Geophysics](https://github.com/mycarta/2D_FFT_filter_tutorial/blob/master/52-things_tutorial.ipynb): 
 
 ## Blog posts
 - [Geoscience Machine Learning bits and bobs – data completeness](https://mycarta.wordpress.com/2020/09/19/geoscience-machine-learning-bits-and-bobs-data-completeness/)
