@@ -11,7 +11,7 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mycarta)](https://github.com/anuraghazra/github-readme-stats&count_private=true&show_icons=true&theme=radical&hide_border=true)
 
 ## Spotlight
-[Busting bad colormaps with Python and Panel](https://mybinder.org/v2/gh/mycarta/Colormap-distorsions-Panel-app/master?urlpath=%2Fpanel%2FDemonstrate_colormap_distortions_interactive_Panel): a web-based app to show the effects of using a bad colormaps; built with `Panel`, `Matplotlib`, and a touch of `Scipy`
+[Busting bad colormaps with Python and Panel](https://mybinder.org/v2/gh/mycarta/Colormap-distorsions-Panel-app/master?urlpath=%2Fpanel%2FDemonstrate_colormap_distortions_interactive_Panel): a web-based app to show the effects of using a bad colormaps; built with `Panel`, `Matplotlib`, a touch of `Scipy`, and a lot of passion!
 
 ## Blog posts
 - [Geoscience Machine Learning bits and bobs – data completeness](https://mycarta.wordpress.com/2020/09/19/geoscience-machine-learning-bits-and-bobs-data-completeness/)
