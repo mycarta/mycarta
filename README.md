@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[![Mycarta's github stats](https://github-readme-stats.vercel.app/api?username=mycarta](https://github.com/mycarta/github-readme-stats&count_private=true)
