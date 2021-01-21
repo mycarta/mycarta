@@ -13,9 +13,6 @@
 ## Spotlight
 [Busting bad colormaps with Python and Panel](https://mybinder.org/v2/gh/mycarta/Colormap-distorsions-Panel-app/master?urlpath=%2Fpanel%2FDemonstrate_colormap_distortions_interactive_Panel): a web-based app to show the effects of using a bad colormaps; built with `Panel`, `Matplotlib`, and a touch of `Scipy`
 
-## Ongoing favorite project
-[A tutorial on practical applications of FFT in Geophysics](https://github.com/mycarta/2D_FFT_filter_tutorial/blob/master/52-things_tutorial.ipynb): 
-
 ## Blog posts
 - [Geoscience Machine Learning bits and bobs – data completeness](https://mycarta.wordpress.com/2020/09/19/geoscience-machine-learning-bits-and-bobs-data-completeness/)
 - [Be a geoscience and data science detective](https://mycarta.wordpress.com/2020/09/16/be-a-geoscience-and-data-science-detective/)
@@ -25,6 +22,10 @@
 
 ## Upcoming articles
 - [Some advice on reproducing figures](https://github.com/softwareunderground/52things/blob/master/chapters/Niccoli_3.md): (to be published): my take on scientific publications reproducibility. This will be a chapter in the upcoming Software Underground book [52 Things You Should Know About Geocomputing](https://github.com/softwareunderground/52things) (of which I am also one of the editors)
+- [Keep on improving your Geo-computing projects](https://github.com/softwareunderground/52things/blob/master/chapters/Niccoli_2.md)
+
+
+## Hackathons and competitions
 - 
 
 
