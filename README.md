@@ -21,12 +21,10 @@
 
 
 ## Upcoming articles
-- [Some advice on reproducing figures](https://github.com/softwareunderground/52things/blob/master/chapters/Niccoli_3.md): (to be published): my take on scientific publications reproducibility. This will be a chapter in the upcoming Software Underground book [52 Things You Should Know About Geocomputing](https://github.com/softwareunderground/52things) (of which I am also one of the editors)
+- [Some advice on reproducing figures](https://github.com/softwareunderground/52things/blob/master/chapters/Niccoli_3.md)(https://github.com/softwareunderground/52things) (of which I am also one of the editors)
 - [Keep on improving your Geo-computing projects](https://github.com/softwareunderground/52things/blob/master/chapters/Niccoli_2.md)
-
 
 ## Hackathons and competitions
 - 
 
 
-WordPressLinkedInTwitterCustom linkCustom link
