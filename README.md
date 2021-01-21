@@ -21,7 +21,7 @@
 
 
 ## Upcoming articles
-- [Some advice on reproducing figures](https://github.com/softwareunderground/52things/blob/master/chapters/Niccoli_3.md)(https://github.com/softwareunderground/52things) (of which I am also one of the editors)
+- [Some advice on reproducing figures](https://github.com/softwareunderground/52things/blob/master/chapters/Niccoli_3.md)
 - [Keep on improving your Geo-computing projects](https://github.com/softwareunderground/52things/blob/master/chapters/Niccoli_2.md)
 
 ## Hackathons and competitions
