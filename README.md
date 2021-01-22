@@ -10,7 +10,7 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mycarta&theme=blue-green&show_icons=true&custom_title= )](https://github.com/anuraghazra/github-readme-stats&count_private=true)
 
 ## Portfolio highlight
-- **Contribution**: [rainbow](https://github.com/mycarta/rainbow) - a tool to recover data from scientific images with unknown colourmaps, a project by [Matt Hall](https://github.com/kwinkunks/) - read more about it in [Matt's blog post](https://agilescientific.com/blog/2017/5/31/unweaving-the-rainbow) 
+- **Contribution**: [Rainbow](https://github.com/mycarta/rainbow) - a tool to recover data from scientific images with unknown colourmaps, a project by [Matt Hall](https://github.com/kwinkunks/) - read more about it in [Matt's blog post](https://agilescientific.com/blog/2017/5/31/unweaving-the-rainbow) 
 
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 
