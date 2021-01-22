@@ -27,5 +27,5 @@
 ## Hackathons and competitions
 - 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mycarta)](https://github.com/anuraghazra/github-readme-stats&count_private=true&show_icons=true&hide_border=true&custom_title="test"&theme=radical)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mycarta)](https://github.com/anuraghazra/github-readme-stats&count_private=true&show_icons=true&theme=radical)
 
