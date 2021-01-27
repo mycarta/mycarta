@@ -1,6 +1,6 @@
 ## Ciao! I'm Matteo 👋
 
-### I am a passionate Geoscientis interested in Data Science and Visualization
+### I am a passionate Geoscientist interested in Data Science and Visualization
 
 - 🌱 I’m currently learning: **Dashboarding with Panel and Holoviews**
 - 📫 How to reach me: matteo@mycarta.ca
