@@ -2,7 +2,7 @@
 
 ### I am a passionate Geoscientist interested in Data Science and Visualization
 
-- 🌱 I’m currently learning: **Dashboarding with Panel and Holoviews**
+- 🐍 I’m currently learning: **Dashboarding with Panel and Holoviews**
 - 📫 How to reach me: matteo@mycarta.ca
 - ✏️ Hobby: drawing
 - 🃏 Fun fact: I currently have a fixation with card tricks
