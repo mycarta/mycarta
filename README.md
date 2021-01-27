@@ -24,7 +24,7 @@
 - [Data exploration in Python: distance correlation and variable clustering](https://mycarta.wordpress.com/2019/04/10/data-exploration-in-python-distance-correlation-and-variable-clustering/)
 
 ## Tutorials
-![cartoon](https://mycarta.files.wordpress.com/2019/03/workflow.png
+![cartoon](https://mycarta.files.wordpress.com/2019/03/workflow.png)
 
 ## Hackathons and sprints
 - [2015 Calgary Hackathon](https://agilescientific.com/blog/2015/5/15/canadian-codeshow). The hackathon was organized by [Agile Scientific](https://github.com/agile-geoscience); with teammates [Evan Saltman](https://github.com/epsalt) and [Elwyn Galloway], and special guest [Ben Bougher](https://github.com/ben-bougher) from Agile, built `Sketch2model`, a turns back-of-the-napkin geological sketches into synthetic seismic sections. You can read about it in [Elwyin's blog post](https://scibbatical.wordpress.com/2016/05/02/sketch2model/) and [this one of mine](https://mycarta.wordpress.com/2016/07/22/sketch2model-linking-edges-with-mathematical-morphology/).
