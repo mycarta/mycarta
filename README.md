@@ -23,14 +23,16 @@
 - [From zero to JupyterLab pro on Windows 10](https://mycarta.wordpress.com/2019/07/09/from-zero-to-jupyterlab-pro-on-windows-10/)
 - [Data exploration in Python: distance correlation and variable clustering](https://mycarta.wordpress.com/2019/04/10/data-exploration-in-python-distance-correlation-and-variable-clustering/)
 
-## Hackathons, sprints, contests
+## Tutorials
+![cartoon](https://mycarta.files.wordpress.com/2019/03/workflow.png
+
+## Hackathons and sprints
 - [2015 Calgary Hackathon](https://agilescientific.com/blog/2015/5/15/canadian-codeshow). The hackathon was organized by [Agile Scientific](https://github.com/agile-geoscience); with teammates [Evan Saltman](https://github.com/epsalt) and [Elwyn Galloway], and special guest [Ben Bougher](https://github.com/ben-bougher) from Agile, built `Sketch2model`, a turns back-of-the-napkin geological sketches into synthetic seismic sections. You can read about it in [Elwyin's blog post](https://scibbatical.wordpress.com/2016/05/02/sketch2model/) and [this one of mine](https://mycarta.wordpress.com/2016/07/22/sketch2model-linking-edges-with-mathematical-morphology/).
-- [2018 Anaheim Geophysics Sprint]
-- [2020 Hackathon, Transform virtual conference](https://softwareunderground.org/blog/2020/6/18/transform-2020). The hackathon was organized by the Software Underground group. With teammates [Matt Hall](https://github.com/kwinkunks) and [Dan Austin](), and a few other contributors, edited several chapters of the upcoming book [52 Things You Should Know About Geocomputing](https://mycarta.wordpress.com/2020/01/30/about-52-things-you-should-know-about-geocomputing/). You can watch a video [recording of the final presentation](https://youtu.be/VRoSIjqDj-g?t=277) on the group's YouTube channel here.
+- [2018 Santa Ana SEG Geophysics Sprint](https://agilescientific.com/blog/2018/10/18/cafe-con-leche). The sprint was organized by [Agile Scientific](https://github.com/agile-geoscience) ahead of the Annual SEG Geophysics Conference. With [Volo Vragov](https://github.com/vragov), worked on some [Geophysical inversion optimization code](https://mycarta.wordpress.com/2018/10/28/geophysics-python-sprint-2018-day-2-and-beyond-part-i/) for the [Bruges Python library](https://github.com/agile-geoscience/bruges).
+- [2020 Hackathon, Transform virtual conference](https://softwareunderground.org/blog/2020/6/18/transform-2020). The hackathon was organized by the Software Underground group. With teammates [Matt Hall](https://github.com/kwinkunks) and [Dan Austin](https://github.com/esadan), and a few other contributors, edited several chapters of the upcoming book [52 Things You Should Know About Geocomputing](https://mycarta.wordpress.com/2020/01/30/about-52-things-you-should-know-about-geocomputing/). You can watch a video [recording of the final presentation](https://youtu.be/VRoSIjqDj-g?t=277) on the group's YouTube channel here.
 
-
-## Stuff I would redo differently
-- Today I would definitely build this one in Python: [A study of Ricker wavelets in MS Excel (2016)](https://mycarta.wordpress.com/2016/02/04/a-study-of-ricker-wavelets-in-ms-excel/)
+## Stuff I would do differently
+- These days I would definitely build this one in Python: [A study of Ricker wavelets in MS Excel (2016)](https://mycarta.wordpress.com/2016/02/04/a-study-of-ricker-wavelets-in-ms-excel/)
 
 ## Upcoming articles
 - [Some advice on reproducing scientific figures](https://github.com/softwareunderground/52things/blob/master/chapters/Niccoli_3.md)
