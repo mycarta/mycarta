@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning: **Dashboarding with Panel and Holoviews**
 - 📫 How to reach me: matteo@mycarta.ca
 - ✏️ Hobby: drawing
-- 🃏 :black_joker:	 Fun fact: I currently have a fixation with card tricks
+- 🃏 Fun fact: I currently have a fixation with card tricks
 
 ## GitHub Stats
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mycarta&theme=blue-green&show_icons=true&custom_title= )](https://github.com/anuraghazra/github-readme-stats&count_private=true)
