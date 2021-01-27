@@ -8,7 +8,9 @@
 
 ## GitHub Stats
 <p align="center">
+ 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mycarta&theme=blue-green&show_icons=true&custom_title= )](https://github.com/anuraghazra/github-readme-stats&count_private=true)
+
 </p>
 
 ## Portfolio highlight
