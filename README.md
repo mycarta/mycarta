@@ -25,7 +25,7 @@
 - [Data exploration in Python: distance correlation and variable clustering](https://mycarta.wordpress.com/2019/04/10/data-exploration-in-python-distance-correlation-and-variable-clustering/)
 
 ## Tutorials
-[Working with 3D seismic data in Python using segyio, numpy, Scikit-image]: a notebook to demonstrate how to:
+[Working with 3D seismic data in Python using segyio, numpy, Scikit-image](https://github.com/equinor/segyio-notebooks/blob/master/notebooks/basic/01_basic_tutorial.ipynb): a notebook to demonstrate how to:
 - read a seismic amplitude volume and a seismic similarity volume as `numpy` arrays using `segyio`
 - manipulate the similarity to create a discontinuity / fault volume
 - create a fault mask and display a couple of amplitude time slices with superimposed faults
