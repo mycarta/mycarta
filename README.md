@@ -19,14 +19,7 @@
   <img width="650" src="https://github.com/mycarta/Colormap-distorsions-Panel-app/blob/master/for%20readme/new_gif.gif">
 </p>
 
-## Blog posts
-- [Geoscience Machine Learning bits and bobs – data completeness](https://mycarta.wordpress.com/2020/09/19/geoscience-machine-learning-bits-and-bobs-data-completeness/)
-- [Be a geoscience and data science detective](https://mycarta.wordpress.com/2020/09/16/be-a-geoscience-and-data-science-detective/)
-- [From zero to JupyterLab pro on Windows 10](https://mycarta.wordpress.com/2019/07/09/from-zero-to-jupyterlab-pro-on-windows-10/)
-- [Data exploration in Python: distance correlation and variable clustering](https://mycarta.wordpress.com/2019/04/10/data-exploration-in-python-distance-correlation-and-variable-clustering/)
-
-## Tutorials
-[Working with 3D seismic data in Python using segyio, numpy, Scikit-image](https://github.com/equinor/segyio-notebooks/blob/master/notebooks/basic/01_basic_tutorial.ipynb). A notebook to demonstrate how to:
+- **Tutorial**: [Working with 3D seismic data in Python using segyio, numpy, Scikit-image](https://github.com/equinor/segyio-notebooks/blob/master/notebooks/basic/01_basic_tutorial.ipynb). A notebook to demonstrate how to:
 - read a seismic amplitude volume and a seismic similarity volume as `numpy` arrays using `segyio`
 - manipulate the similarity to create a discontinuity / fault volume
 - create a fault mask and display a couple of amplitude time slices with superimposed faults
@@ -34,6 +27,15 @@
 <p align="center">
   <img width="650" src="https://mycarta.files.wordpress.com/2019/03/workflow.png">
 </p>
+
+## Blog posts
+- [Geoscience Machine Learning bits and bobs – data completeness](https://mycarta.wordpress.com/2020/09/19/geoscience-machine-learning-bits-and-bobs-data-completeness/)
+- [Be a geoscience and data science detective](https://mycarta.wordpress.com/2020/09/16/be-a-geoscience-and-data-science-detective/)
+- [From zero to JupyterLab pro on Windows 10](https://mycarta.wordpress.com/2019/07/09/from-zero-to-jupyterlab-pro-on-windows-10/)
+- [Data exploration in Python: distance correlation and variable clustering](https://mycarta.wordpress.com/2019/04/10/data-exploration-in-python-distance-correlation-and-variable-clustering/)
+
+## Tutorial
+
 
 ## Hackathons and sprints
 - [2015 Calgary Hackathon](https://agilescientific.com/blog/2015/5/15/canadian-codeshow). The hackathon was organized by [Agile Scientific](https://github.com/agile-geoscience). With teammates [Evan Saltman](https://github.com/epsalt) and [Elwyn Galloway](https://github.com/scibbatical), and special guest [Ben Bougher](https://github.com/ben-bougher) from Agile, built `Sketch2model`, a turns back-of-the-napkin geological sketches into synthetic seismic sections. You can read about it in [Elwyin's blog post](https://scibbatical.wordpress.com/2016/05/02/sketch2model/) and [this one of mine](https://mycarta.wordpress.com/2016/07/22/sketch2model-linking-edges-with-mathematical-morphology/)
