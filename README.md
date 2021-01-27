@@ -7,11 +7,8 @@
 - ⚡ Fun fact: I currently have a fixation with card tricks
 
 ## GitHub Stats
-<p align="center">
- 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mycarta&theme=blue-green&show_icons=true&custom_title= )](https://github.com/anuraghazra/github-readme-stats&count_private=true)
 
-</p>
 
 ## Portfolio highlight
  [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
