@@ -26,10 +26,10 @@
 </p>
 
 - **Tutorial**: [Working with 3D seismic data in Python using segyio, numpy, Scikit-image](https://github.com/equinor/segyio-notebooks/blob/master/notebooks/basic/01_basic_tutorial.ipynb). A notebook to demonstrate how to:
-- read a seismic amplitude volume and a seismic similarity volume as `numpy` arrays using `segyio`
-- manipulate the similarity to create a discontinuity / fault volume
-- create a fault mask and display a couple of amplitude time slices with superimposed faults
-- write the fault volume to SEG-Y file re-using the headers from the input file
+1. read a seismic amplitude volume and a seismic similarity volume as `numpy` arrays using `segyio`
+2. manipulate the similarity to create a discontinuity / fault volume
+3. create a fault mask and display a couple of amplitude time slices with superimposed faults
+4. write the fault volume to SEG-Y file re-using the headers from the input file
 <p align="center">
   <img width="650" src="https://mycarta.files.wordpress.com/2019/03/workflow.png">
 </p>
