@@ -3,9 +3,10 @@
 ### I am a passionate Geoscientist interested in Data Science and Visualization
 
 - 🐍 I’m currently learning: **Dashboarding with Panel and Holoviews**
-- 📫 How to reach me: matteo@mycarta.ca
+- 📗 I’m currently reading: [Become a Leader in Data Science](https://www.manning.com/books/become-a-leader-in-data-science)
 - ✏️ Hobby: drawing
-- 🃏 Fun fact: I currently have a fixation with magic card tricks
+- 🃏 Fun fact: I currently have a fixation with magic card tricks and Rubik's cube
+- 📫 How to reach me: matteo@mycarta.ca
 
 ## GitHub Stats
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mycarta&theme=blue-green&show_icons=true&custom_title= )](https://github.com/anuraghazra/github-readme-stats&count_private=true)
