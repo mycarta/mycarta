@@ -50,7 +50,7 @@
 
 ## Published articles (in Geophysical literature)
 - [Introduction to Classification with SVMs](https://csegrecorder.com/assets/pdfs/2018/2018-01-RECORDER-Machine_Learning_in_Geoscience_V.pdf). Article (with [Jupyter notebooks](https://github.com/CSEG/Machine-Learning-CSEG-special-issue/tree/master/Matteo_Niccoli)) offering an intuitive understanding of SVMs using toy datasets inspired by classification problems in geophysics.
-- [Mapping and validating lineaments](https://library.seg.org/doi/10.1190/tle34080948.1). Article (with Jupyter notebook) demonstrating how to extract and enhance geologic lineaments from gravity data, and colocate them into a single map to increase confidence.
+- [Mapping and validating lineaments](https://library.seg.org/doi/10.1190/tle34080948.1). Article (with [Jupyter notebook](https://github.com/seg/tutorials-2015/blob/master/1508_Mapping_and_validating_lineaments/1508_Mapping_and_validating_lineaments.ipynb)) demonstrating how to extract and enhance geologic lineaments from gravity data, and colocate them into a single map to increase confidence.
 
 ## Upcoming articles
 - [Some advice on reproducing scientific figures](https://github.com/softwareunderground/52things/blob/master/chapters/Niccoli_3.md)
