@@ -55,4 +55,5 @@
 ## Upcoming articles
 - [Some advice on reproducing scientific figures](https://github.com/softwareunderground/52things/blob/master/chapters/Niccoli_3.md)
 - [Keep on improving your Geocomputing projects](https://github.com/softwareunderground/52things/blob/master/chapters/Niccoli_2.md)
+- [Prototype colourmaps for fault interpretation](https://github.com/softwareunderground/52things/blob/master/chapters/Niccoli_1.md)
 
