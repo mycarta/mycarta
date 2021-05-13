@@ -49,11 +49,10 @@
 - [2020 Hackathon, Transform virtual conference](https://softwareunderground.org/blog/2020/6/18/transform-2020). The hackathon was organized by the Software Underground group. With teammates [Matt Hall](https://github.com/kwinkunks) and [Dan Austin](https://github.com/esadan), and a few other contributors, edited several chapters of the upcoming book [52 Things You Should Know About Geocomputing](https://mycarta.wordpress.com/2020/01/30/about-52-things-you-should-know-about-geocomputing/). You can watch a video recording of the final presentation [here on the group's YouTube channel](https://youtu.be/VRoSIjqDj-g?t=277) 
 - [2021 Hackathon, Transform virtual conference](https://github.com/softwareunderground/transform-2021-hackathon/discussions). More details coming soon...
 
-## Courses and certificates
-**edX Foundations of Data Science Certificate:** 
-- [x] [1. Computational Thinking with Python](https://courses.edx.org/certificates/a5d76bfe8eff4a43bfc70c356745b3f6)
-- [x] [2. Inferential Thinking through Simulations](https://courses.edx.org/certificates/5ad5a7c792c04d5a9371b2f7fc97d253)
-- [] 3. Machine Learning and Predictions
+## edX Foundations of Data Science Certificate
+- [x] [Computational Thinking with Python](https://courses.edx.org/certificates/a5d76bfe8eff4a43bfc70c356745b3f6)
+- [x] [Inferential Thinking through Simulations](https://courses.edx.org/certificates/5ad5a7c792c04d5a9371b2f7fc97d253)
+- [] Machine Learning and Predictions
 
 
 ## Stuff I would do differently
