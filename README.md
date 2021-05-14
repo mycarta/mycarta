@@ -55,7 +55,7 @@
 ## edX Foundations of Data Science Certificate
 - [x] [Computational Thinking with Python](https://courses.edx.org/certificates/a5d76bfe8eff4a43bfc70c356745b3f6)
 - [x] [Inferential Thinking through Simulations](https://courses.edx.org/certificates/5ad5a7c792c04d5a9371b2f7fc97d253)
-- [o] Machine Learning and Predictions
+- [ ] Machine Learning and Predictions
 
 
 ## Stuff I would do differently
