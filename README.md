@@ -20,8 +20,6 @@
 - [Be a geoscience and data science detective](https://mycarta.wordpress.com/2020/09/16/be-a-geoscience-and-data-science-detective/)
 - [From zero to JupyterLab pro on Windows 10](https://mycarta.wordpress.com/2019/07/09/from-zero-to-jupyterlab-pro-on-windows-10/)
 - [Visual data exploration in Python – correlation, confidence, spuriousness](https://mycarta.wordpress.com/2019/03/17/visual-data-exploration-in-python-correlation-confidence-spuriousness/)
-- [Data exploration in Python: distance correlation and variable clustering](https://mycarta.wordpress.com/2019/04/10/data-exploration-in-python-distance-correlation-and-variable-clustering/)
-- [Geoscience Machine Learning bits and bobs – data completeness](https://mycarta.wordpress.com/2020/09/19/geoscience-machine-learning-bits-and-bobs-data-completeness/)
 
 ## Portfolio highlight
  [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
@@ -50,13 +48,17 @@
 - [2021 Hackathon, Transform virtual conference](https://github.com/softwareunderground/transform-2021-hackathon/discussions). More details coming soon...
 - [2021 Geothermal Hackathon, Agile Scientific](https://events.agilescientific.com/event/geothermal-2021/ideas). More details coming soon...
 
-
+## Some EDA visulization favourites
+- Enhanced `Seaborn` pairgrid matrix: one of the things I always do wehn I start looking at a multivariate probelm is to explore possible associations between features and target; one way I've found really useful is to "enhance"  the standard `Seaborn` pairgrid matrix by labeling each bivariate scatter plot with the distance correlation colored by p-value, and also rearrage the plots by the results of clustering analysis, like in the example below (you can read more about it [here](https://mycarta.wordpress.com/2019/04/10/data-exploration-in-python-distance-correlation-and-variable-clustering/)): 
+<p align="center">
+  <img width="650" src="https://mycarta.files.wordpress.com/2019/04/matrix_sorted_predictors.png">
+</p>
+- 
 
 ## edX Foundations of Data Science Certificate
 - [x] [Computational Thinking with Python](https://courses.edx.org/certificates/a5d76bfe8eff4a43bfc70c356745b3f6)
 - [x] [Inferential Thinking through Simulations](https://courses.edx.org/certificates/5ad5a7c792c04d5a9371b2f7fc97d253)
 - [ ] Machine Learning and Predictions
-
 
 ## Stuff I would do differently
 - These days I would definitely build this one in Python: [A study of Ricker wavelets in MS Excel (2016)](https://mycarta.wordpress.com/2016/02/04/a-study-of-ricker-wavelets-in-ms-excel/)
