@@ -38,7 +38,7 @@
     - create a fault mask and display a couple of amplitude time slices with superimposed faults
     - write the fault volume to SEG-Y file re-using the headers from the input file
 <p align="center">
-  <img width="650" src="https://mycarta.files.wordpress.com/2019/03/workflow.png">
+  <img width="450" src="https://mycarta.files.wordpress.com/2019/03/workflow.png">
 </p>
 
 ## Hackathons and sprints
