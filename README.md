@@ -1,9 +1,10 @@
-## Ciao! I'm Matteo 👋
+## Ciao! 👋 I'm Matteo (he/him)
 
 ### I am a passionate Geoscientist interested in Data Science and Visualization
 
 - 🐍 I’m currently learning: Dashboarding with [Panel](https://panel.holoviz.org/getting_started/) and [Holoviews](http://holoviews.org/user_guide/Dashboards.html) 
-- 📗 I’m currently reading: [Deep Learning for Coders with fastai and PyTorch](https://www.amazon.ca/Deep-Learning-Coders-fastai-PyTorch/dp/1492045527) and [Grokking Algorithms](https://www.manning.com/books/grokking-algorithms)
+- 📗 I’m currently reading: [Deep Learning for Coders with fastai and PyTorch](https://www.amazon.ca/Deep-Learning-Coders-fastai-PyTorch/dp/1492045527) and [How to LEad in Data Science](https://www.manning.com/books/how-to-lead-in-data-science)
+- 📗 Past favourite: - [Grokking Algorithms](https://www.manning.com/books/grokking-algorithms)
 - 🎥 I'm currently watching: [Calling Bullshit in the Age of Big Data](https://youtube.com/playlist?list=PLPnZfvKID1Sje5jWxt-4CSZD7bUI4gSPS)
 - ✏️ Hobby: drawing, juggling
 - 🃏 Fun fact: a recent fixation with card tricks and Rubik's cube
@@ -63,6 +64,9 @@
 - [x] [Computational Thinking with Python](https://courses.edx.org/certificates/a5d76bfe8eff4a43bfc70c356745b3f6)
 - [x] [Inferential Thinking through Simulations](https://courses.edx.org/certificates/5ad5a7c792c04d5a9371b2f7fc97d253)
 - [ ] Machine Learning and Predictions
+
+## Kaggle Certificates
+- [x] - [Machine learning explainability](https://www.kaggle.com/learn/certification/mycarta/machine-learning-explainability)
 
 ## Stuff I would do differently
 - These days I would definitely build this one in Python: [A study of Ricker wavelets in MS Excel (2016)](https://mycarta.wordpress.com/2016/02/04/a-study-of-ricker-wavelets-in-ms-excel/)
