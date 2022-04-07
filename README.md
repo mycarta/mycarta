@@ -3,7 +3,7 @@
 ### I am a passionate Geoscientist interested in Data Science and Visualization
 
 - 🐍 I’m currently learning: Dashboarding with [Panel](https://panel.holoviz.org/getting_started/) and [Holoviews](http://holoviews.org/user_guide/Dashboards.html) 
-- 📗 I’m currently reading: [Deep Learning for Coders with fastai and PyTorch](https://www.amazon.ca/Deep-Learning-Coders-fastai-PyTorch/dp/1492045527) and [How to LEad in Data Science](https://www.manning.com/books/how-to-lead-in-data-science)
+- 📗 I’m currently reading: [Deep Learning for Coders with fastai and PyTorch](https://www.amazon.ca/Deep-Learning-Coders-fastai-PyTorch/dp/1492045527) and [How to Lead in Data Science](https://www.manning.com/books/how-to-lead-in-data-science)
 - 📗 Past favourite: - [Grokking Algorithms](https://www.manning.com/books/grokking-algorithms)
 - 🎥 I'm currently watching: [Calling Bullshit in the Age of Big Data](https://youtube.com/playlist?list=PLPnZfvKID1Sje5jWxt-4CSZD7bUI4gSPS)
 - ✏️ Hobby: drawing, juggling
