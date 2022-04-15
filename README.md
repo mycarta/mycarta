@@ -60,10 +60,10 @@
   <img width="500" src="https://mycarta.files.wordpress.com/2020/09/missingno_completeness_animation-1.gif">
 </p>
 
-## edX Foundations of Data Science Certificate
+## edX Foundations of Data Science Professional Certificate
 - [x] [Computational Thinking with Python](https://courses.edx.org/certificates/a5d76bfe8eff4a43bfc70c356745b3f6)
 - [x] [Inferential Thinking through Simulations](https://courses.edx.org/certificates/5ad5a7c792c04d5a9371b2f7fc97d253)
-- [ ] Machine Learning and Predictions
+- [x] Machine Learning and Predictions
 
 ## Kaggle Certificates
 - [x] - [Machine learning explainability](https://www.kaggle.com/learn/certification/mycarta/machine-learning-explainability)
