@@ -4,7 +4,7 @@
 
 - 🐍 I’m currently learning: Dashboarding with [Panel](https://panel.holoviz.org/getting_started/) and [Holoviews](http://holoviews.org/user_guide/Dashboards.html) 
 - 📗 I’m currently reading: [Deep Learning for Coders with fastai and PyTorch](https://www.amazon.ca/Deep-Learning-Coders-fastai-PyTorch/dp/1492045527) and [How to Lead in Data Science](https://www.manning.com/books/how-to-lead-in-data-science)
-- 📗 Past favourite: - [Grokking Algorithms](https://www.manning.com/books/grokking-algorithms)
+- 📗 Past favourite: [Grokking Algorithms](https://www.manning.com/books/grokking-algorithms)
 - 🎥 I'm currently watching: [Calling Bullshit in the Age of Big Data](https://youtube.com/playlist?list=PLPnZfvKID1Sje5jWxt-4CSZD7bUI4gSPS)
 - ✏️ Hobby: drawing, juggling
 - 🃏 Fun fact: a recent fixation with card tricks and Rubik's cube
@@ -60,13 +60,19 @@
   <img width="500" src="https://mycarta.files.wordpress.com/2020/09/missingno_completeness_animation-1.gif">
 </p>
 
-## edX Foundations of Data Science Professional [Certificate](https://credentials.edx.org/credentials/3ff1fe712ebe4e6bb47093928883d765/)
+## edX Foundations of Data Science [Professional Certificate](https://credentials.edx.org/credentials/3ff1fe712ebe4e6bb47093928883d765/)
 - [x] [Computational Thinking with Python](https://courses.edx.org/certificates/a5d76bfe8eff4a43bfc70c356745b3f6)
 - [x] [Inferential Thinking through Simulations](https://courses.edx.org/certificates/5ad5a7c792c04d5a9371b2f7fc97d253)
 - [x] [Machine Learning and Predictions](https://courses.edx.org/certificates/02807f521af04f3db11ce95e01e62625)
 
-## Kaggle Certificates
-- [x] - [Machine learning explainability](https://www.kaggle.com/learn/certification/mycarta/machine-learning-explainability)
+## AI, Ethics, ML explainability
+- [x] [AI for Everyone][https://www.coursera.org/account/accomplishments/certificate/W9V3WB6GADC4], Coursera
+- [x] [Machine learning explainability](https://www.kaggle.com/learn/certification/mycarta/machine-learning-explainability), Kaggle
+- [x] edX Race, Gender and Workplace Equity [Professional Certificate](https://credentials.edx.org/credentials/da6b5edb91eb43ca808d960407a84601/)
+
+## Unit testing
+- [x] [Test-Driven Development With PyTest](https://realpython.com/certificates/96ecff0f-2d92-422f-b3d8-f6790a03f872/), Real Python
+- [ ] Enhance your python unit testing using Coverage, Coursera Project Network
 
 ## Stuff I would do differently
 - These days I would definitely build this one in Python: [A study of Ricker wavelets in MS Excel (2016)](https://mycarta.wordpress.com/2016/02/04/a-study-of-ricker-wavelets-in-ms-excel/)
