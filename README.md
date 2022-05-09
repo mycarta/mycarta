@@ -80,7 +80,7 @@
 - [x] [Race, Gender and Workplace Equity](https://credentials.edx.org/credentials/da6b5edb91eb43ca808d960407a84601/), Professional Certificate, edX
 
 ### Communication tools
-- [x] Enhance Organizational Communications with Slack. [Coursera hands-on project](https://www.coursera.org/account/accomplishments/certificate/JEBLDLJQLSZN)
+- [x] [Enhance Organizational Communications with Slack](https://www.coursera.org/account/accomplishments/certificate/JEBLDLJQLSZN), Coursera Project Network
 
 ## Stuff I would do differently
 - These days I would definitely build this one in Python: [A study of Ricker wavelets in MS Excel (2016)](https://mycarta.wordpress.com/2016/02/04/a-study-of-ricker-wavelets-in-ms-excel/)
