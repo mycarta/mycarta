@@ -60,7 +60,7 @@
   <img width="500" src="https://mycarta.files.wordpress.com/2020/09/missingno_completeness_animation-1.gif">
 </p>
 
-## Courses
+## Courses and projects
 
 ### Foundations of Data Science - Professional Certificate, edX
 - [x] [Computational Thinking with Python](https://courses.edx.org/certificates/a5d76bfe8eff4a43bfc70c356745b3f6)
@@ -72,14 +72,17 @@
 - [x] [Machine learning explainability](https://www.kaggle.com/learn/certification/mycarta/machine-learning-explainability), Kaggle
 - [x] [Race, Gender and Workplace Equity](https://credentials.edx.org/credentials/da6b5edb91eb43ca808d960407a84601/), Professional Certificate, edX
 
-### Unit testing
+### Python unit testing
 - [x] [Test-Driven Development With PyTest](https://realpython.com/certificates/96ecff0f-2d92-422f-b3d8-f6790a03f872/), Real Python
 - [ ] Enhance your python unit testing using Coverage, Coursera Project Network
+
+### Communication tools
+- Enhance Organizational Communications with Slack. [Coursera hands-on project](https://www.coursera.org/account/accomplishments/certificate/JEBLDLJQLSZN).
 
 ## Stuff I would do differently
 - These days I would definitely build this one in Python: [A study of Ricker wavelets in MS Excel (2016)](https://mycarta.wordpress.com/2016/02/04/a-study-of-ricker-wavelets-in-ms-excel/)
 
-## Upcoming articles
+## Upcoming articles and tutorials
 - [Some advice on reproducing scientific figures](https://github.com/softwareunderground/52things/blob/master/chapters/Niccoli_3.md)
 - [Keep on improving your Geocomputing projects](https://github.com/softwareunderground/52things/blob/master/chapters/Niccoli_2.md)
 - [Prototype colourmaps for fault interpretation](https://github.com/softwareunderground/52things/blob/master/chapters/Niccoli_1.md)
