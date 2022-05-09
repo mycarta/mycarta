@@ -67,14 +67,17 @@
 - [x] [Inferential Thinking through Simulations](https://courses.edx.org/certificates/5ad5a7c792c04d5a9371b2f7fc97d253)
 - [x] [Machine Learning and Predictions](https://courses.edx.org/certificates/02807f521af04f3db11ce95e01e62625)
 
-### AI, Ethics, ML explainability
-- [x] [AI for Everyone](https://www.coursera.org/account/accomplishments/certificate/W9V3WB6GADC4), Coursera
-- [x] [Machine learning explainability](https://www.kaggle.com/learn/certification/mycarta/machine-learning-explainability), Kaggle
-- [x] [Race, Gender and Workplace Equity](https://credentials.edx.org/credentials/da6b5edb91eb43ca808d960407a84601/), Professional Certificate, edX
+### GIS and Geospatial
+- [] [Climate Geospatial Analysis on Python with Xarray]()
 
 ### Python unit testing
 - [x] [Test-Driven Development With PyTest](https://realpython.com/certificates/96ecff0f-2d92-422f-b3d8-f6790a03f872/), Real Python
 - [ ] Enhance your python unit testing using Coverage, Coursera Project Network
+
+### AI, Ethics, ML explainability
+- [x] [AI for Everyone](https://www.coursera.org/account/accomplishments/certificate/W9V3WB6GADC4), Coursera
+- [x] [Machine learning explainability](https://www.kaggle.com/learn/certification/mycarta/machine-learning-explainability), Kaggle
+- [x] [Race, Gender and Workplace Equity](https://credentials.edx.org/credentials/da6b5edb91eb43ca808d960407a84601/), Professional Certificate, edX
 
 ### Communication tools
 - [x] Enhance Organizational Communications with Slack. [Coursera hands-on project](https://www.coursera.org/account/accomplishments/certificate/JEBLDLJQLSZN)
