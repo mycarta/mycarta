@@ -77,7 +77,7 @@
 - [ ] Enhance your python unit testing using Coverage, Coursera Project Network
 
 ### Communication tools
-- Enhance Organizational Communications with Slack. [Coursera hands-on project](https://www.coursera.org/account/accomplishments/certificate/JEBLDLJQLSZN).
+- [x] Enhance Organizational Communications with Slack. [Coursera hands-on project](https://www.coursera.org/account/accomplishments/certificate/JEBLDLJQLSZN).
 
 ## Stuff I would do differently
 - These days I would definitely build this one in Python: [A study of Ricker wavelets in MS Excel (2016)](https://mycarta.wordpress.com/2016/02/04/a-study-of-ricker-wavelets-in-ms-excel/)
