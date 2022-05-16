@@ -67,12 +67,15 @@
 - [x] [Inferential Thinking through Simulations](https://courses.edx.org/certificates/5ad5a7c792c04d5a9371b2f7fc97d253)
 - [x] [Machine Learning and Predictions](https://courses.edx.org/certificates/02807f521af04f3db11ce95e01e62625)
 
+### Data Science
+- [ ] Pandas, Kaggle
+
 ### GIS and Geospatial
-- [] [Climate Geospatial Analysis on Python with Xarray]()
+- [x] [Climate Geospatial Analysis on Python with Xarray]()
 
 ### Python unit testing
 - [x] [Test-Driven Development With PyTest](https://realpython.com/certificates/96ecff0f-2d92-422f-b3d8-f6790a03f872/), Real Python
-- [ ] Enhance your python unit testing using Coverage, Coursera Project Network
+- [x] Enhance your python unit testing using Coverage, Coursera Project Network
 
 ### AI, Ethics, ML explainability
 - [x] [AI for Everyone](https://www.coursera.org/account/accomplishments/certificate/W9V3WB6GADC4), Coursera
