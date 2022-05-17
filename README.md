@@ -60,7 +60,7 @@
   <img width="500" src="https://mycarta.files.wordpress.com/2020/09/missingno_completeness_animation-1.gif">
 </p>
 
-## Online courses and projects roadmap
+## OMy personal Data Science learning roadmap
 
 ### Foundations of Data Science [Professional Certificate](https://credentials.edx.org/credentials/3ff1fe712ebe4e6bb47093928883d765/) (edX)
 - [x] [Computational Thinking with Python](https://courses.edx.org/certificates/a5d76bfe8eff4a43bfc70c356745b3f6)
@@ -70,18 +70,24 @@
 ### Data Science
 - [x] [Pandas](https://www.kaggle.com/learn/certification/mycarta/pandas), Kaggle
 - [ ] Intermediate Machine Learning, Kaggle
+- [ ] Web Scraping With Beautiful Soup and Python, Real Python
 - [ ] Time Series, Kaggle
 - [ ] Intro to SQL, Kaggle
 - [ ] Advanced SQL, Kaggle
+- [ ] SQL for Data Analysis
 
 ### GIS and Geospatial
 - [ ] Geospatial Analysis, Kaggle
 - [x] [Climate Geospatial Analysis in Python with Xarray](https://www.coursera.org/account/accomplishments/certificate/VMKXGAQKGGFP),  Coursera Project Network
+- [ ] ARSET - Fundamentals of Remote Sensing, NASA Applied Science
+- [ ] ARSET - Introduction to Synthetic Aperture Radar, NASA Applied Science
+- [ ] ARSET - Humanitarian Applications Using NASA Earth Observations, NASA Applied Science
 
-### Python unit testing
+### Python unit testing and debugging
 - [x] [Test-Driven Development With PyTest](https://realpython.com/certificates/96ecff0f-2d92-422f-b3d8-f6790a03f872/), Real Python
 - [ ] Raising and Handling Python Exceptions, Real Python
 - [x] [Enhance your python unit testing using Coverage](https://www.coursera.org/account/accomplishments/certificate/TGYBNFKE3DJW), Coursera Project Network
+- [ ] Software Debugging, Coursera
 
 ### AI, Deep Learning, Ethics, ML explainability
 - [x] [AI for Everyone](https://www.coursera.org/account/accomplishments/certificate/W9V3WB6GADC4), Coursera
