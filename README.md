@@ -83,7 +83,7 @@
 - [x] [AI for Everyone](https://www.coursera.org/account/accomplishments/certificate/W9V3WB6GADC4), Coursera
 - [x] [Machine learning explainability](https://www.kaggle.com/learn/certification/mycarta/machine-learning-explainability), Kaggle
 - [ ] Intro to AI Ethics, Kaggle
-- [x] [Race, Gender and Workplace Equity](https://credentials.edx.org/credentials/da6b5edb91eb43ca808d960407a84601/), Professional Certificate, edX
+- [x] [Race, Gender and Workplace Equity](https://credentials.edx.org/credentials/da6b5edb91eb43ca808d960407a84601/), Professional Certificate (4 courses), edX
 
 ### Communication tools
 - [x] [Enhance Organizational Communications with Slack](https://www.coursera.org/account/accomplishments/certificate/JEBLDLJQLSZN), Coursera Project Network
