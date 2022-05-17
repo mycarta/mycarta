@@ -60,7 +60,7 @@
   <img width="500" src="https://mycarta.files.wordpress.com/2020/09/missingno_completeness_animation-1.gif">
 </p>
 
-## My personal Data Science learning roadmap
+## My personal and eclectic Data Science learning roadmap (~40% completerd)
 
 ### Foundations of Data Science [Professional Certificate](https://credentials.edx.org/credentials/3ff1fe712ebe4e6bb47093928883d765/) (edX)
 - [x] [Computational Thinking with Python](https://courses.edx.org/certificates/a5d76bfe8eff4a43bfc70c356745b3f6)
@@ -94,6 +94,8 @@
 - [x] [Machine learning explainability](https://www.kaggle.com/learn/certification/mycarta/machine-learning-explainability), Kaggle
 - [x] [Race, Gender and Workplace Equity](https://credentials.edx.org/credentials/da6b5edb91eb43ca808d960407a84601/), Professional Certificate (4 courses), edX
 - [ ] Intro to AI Ethics, Kaggle
+- [ ] Intro to Deep Learning, Kaggle
+- [ ] Computer Vision, Kaggle
 - [ ] Practical Deep Learning for Coders, fastai
 - [ ] Practical Data Ethics, fastai
 
