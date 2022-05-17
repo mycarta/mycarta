@@ -3,7 +3,7 @@
 ### I am a passionate Geoscientist interested in Data Science and Visualization
 
 - 🐍 I’m currently learning: Dashboarding with [Panel](https://panel.holoviz.org/getting_started/) and [Holoviews](http://holoviews.org/user_guide/Dashboards.html) 
-- 📗 I’m currently reading: [Deep Learning for Coders with fastai and PyTorch](https://www.amazon.ca/Deep-Learning-Coders-fastai-PyTorch/dp/1492045527) and [How to Lead in Data Science](https://www.manning.com/books/how-to-lead-in-data-science)
+- 📗 I’m currently reading: [How to Lead in Data Science](https://www.manning.com/books/how-to-lead-in-data-science)
 - 📗 Past favourite: [Grokking Algorithms](https://www.manning.com/books/grokking-algorithms)
 - 🎥 I'm currently watching: [Calling Bullshit in the Age of Big Data](https://youtube.com/playlist?list=PLPnZfvKID1Sje5jWxt-4CSZD7bUI4gSPS)
 - ✏️ Hobby: drawing, juggling
@@ -69,7 +69,10 @@
 
 ### Data Science
 - [x] [Pandas](https://www.kaggle.com/learn/certification/mycarta/pandas), Kaggle
-- [ ] TIme Series, Kaggle
+- [ ] Intermediate Machine Learning, Kaggle
+- [ ] Time Series, Kaggle
+- [ ] Intro to SQL, Kaggle
+- [ ] Advanced SQL, Kaggle
 
 ### GIS and Geospatial
 - [ ] Geospatial Analysis, Kaggle
@@ -80,11 +83,12 @@
 - [ ] Raising and Handling Python Exceptions, Real Python
 - [x] [Enhance your python unit testing using Coverage](https://www.coursera.org/account/accomplishments/certificate/TGYBNFKE3DJW), Coursera Project Network
 
-### AI, Ethics, ML explainability
+### AI, Deep Learning, Ethics, ML explainability
 - [x] [AI for Everyone](https://www.coursera.org/account/accomplishments/certificate/W9V3WB6GADC4), Coursera
 - [x] [Machine learning explainability](https://www.kaggle.com/learn/certification/mycarta/machine-learning-explainability), Kaggle
 - [ ] Intro to AI Ethics, Kaggle
 - [x] [Race, Gender and Workplace Equity](https://credentials.edx.org/credentials/da6b5edb91eb43ca808d960407a84601/), Professional Certificate (4 courses), edX
+- [ ] [Deep Learning for Coders with fastai and PyTorch](https://www.amazon.ca/Deep-Learning-Coders-fastai-PyTorch/dp/1492045527)  
 
 ### Communication tools
 - [x] [Enhance Organizational Communications with Slack](https://www.coursera.org/account/accomplishments/certificate/JEBLDLJQLSZN), Coursera Project Network
