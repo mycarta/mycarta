@@ -92,9 +92,10 @@
 ### AI, Deep Learning, Ethics, ML explainability
 - [x] [AI for Everyone](https://www.coursera.org/account/accomplishments/certificate/W9V3WB6GADC4), Coursera
 - [x] [Machine learning explainability](https://www.kaggle.com/learn/certification/mycarta/machine-learning-explainability), Kaggle
-- [ ] Intro to AI Ethics, Kaggle
 - [x] [Race, Gender and Workplace Equity](https://credentials.edx.org/credentials/da6b5edb91eb43ca808d960407a84601/), Professional Certificate (4 courses), edX
-- [ ] [Deep Learning for Coders with fastai and PyTorch](https://www.amazon.ca/Deep-Learning-Coders-fastai-PyTorch/dp/1492045527)  
+- [ ] Intro to AI Ethics, Kaggle
+- [ ] Practical Deep Learning for Coders, fastai
+- [ ] Practical Data Ethics, fastai
 
 ### Communication tools
 - [x] [Enhance Organizational Communications with Slack](https://www.coursera.org/account/accomplishments/certificate/JEBLDLJQLSZN), Coursera Project Network
