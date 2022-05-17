@@ -74,7 +74,7 @@
 - [ ] Time Series, Kaggle
 - [ ] Intro to SQL, Kaggle
 - [ ] Advanced SQL, Kaggle
-- [ ] SQL for Data Analysis
+- [ ] SQL for Data Analysis, Coursera
 
 ### GIS and Geospatial
 - [ ] Geospatial Analysis, Kaggle
