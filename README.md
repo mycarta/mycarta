@@ -68,7 +68,7 @@
 - [x] [Machine Learning and Predictions](https://courses.edx.org/certificates/02807f521af04f3db11ce95e01e62625)
 
 ### Data Science
-- [ ] Pandas, Kaggle
+- [x] [Pandas](https://www.kaggle.com/learn/certification/mycarta/pandas), Kaggle
 - [ ] TIme Series, Kaggle
 
 ### GIS and Geospatial
