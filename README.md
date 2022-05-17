@@ -60,7 +60,7 @@
   <img width="500" src="https://mycarta.files.wordpress.com/2020/09/missingno_completeness_animation-1.gif">
 </p>
 
-## My personal and eclectic Data Science learning roadmap (~40% completed)
+## My personal and eclectic Data Science learning roadmap (~40% of p,lanned courses completed)
 
 ### Foundations of Data Science [Professional Certificate](https://credentials.edx.org/credentials/3ff1fe712ebe4e6bb47093928883d765/) (edX)
 - [x] [Computational Thinking with Python](https://courses.edx.org/certificates/a5d76bfe8eff4a43bfc70c356745b3f6)
