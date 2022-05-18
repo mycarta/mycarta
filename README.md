@@ -71,6 +71,7 @@
 
 ### Data Science
 - [x] [Pandas](https://www.kaggle.com/learn/certification/mycarta/pandas), Kaggle
+- [x] 15 Mistakes to Avoid in Data Science, LinkedIn Learning
 - [ ] Intermediate Machine Learning, Kaggle
 - [ ] Web Scraping With Beautiful Soup and Python, Real Python
 - [ ] Time Series, Kaggle
