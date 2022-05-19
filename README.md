@@ -64,12 +64,19 @@
 
 ## My personal Data Science roadmap (~40% courses completed)
 
+### Python development, unit testing, and debugging
+- [x] Introduction to Visual Studio Code, Real Python
+- [x] [Test-Driven Development With PyTest](https://realpython.com/certificates/96ecff0f-2d92-422f-b3d8-f6790a03f872/), Real Python
+- [ ] Raising and Handling Python Exceptions, Real Python
+- [x] [Enhance your Python unit testing using Coverage](https://www.coursera.org/account/accomplishments/certificate/TGYBNFKE3DJW), Coursera Project Network
+- [ ] Software Debugging, Coursera
+
 ### Foundations of Data Science [Professional Certificate](https://credentials.edx.org/credentials/3ff1fe712ebe4e6bb47093928883d765/) (edX)
 - [x] [Computational Thinking with Python](https://courses.edx.org/certificates/a5d76bfe8eff4a43bfc70c356745b3f6)
 - [x] [Inferential Thinking through Simulations](https://courses.edx.org/certificates/5ad5a7c792c04d5a9371b2f7fc97d253)
 - [x] [Machine Learning and Predictions](https://courses.edx.org/certificates/02807f521af04f3db11ce95e01e62625)
 
-### Data Science
+### Intermediate Data Science
 - [x] [Pandas](https://www.kaggle.com/learn/certification/mycarta/pandas), Kaggle
 - [x] [15 Mistakes to Avoid in Data Science](https://www.linkedin.com/learning/certificates/80c3a9379c2a96b55083dab7f651cf99ea2b01d52c56ea4684e22befeb06cfdb?trk=share_certificate), LinkedIn Learning
 - [ ] Intermediate Machine Learning, Kaggle
@@ -85,13 +92,6 @@
 - [ ] ARSET - Fundamentals of Remote Sensing, NASA Applied Science
 - [ ] ARSET - Introduction to Synthetic Aperture Radar, NASA Applied Science
 - [ ] ARSET - Humanitarian Applications Using NASA Earth Observations, NASA Applied Science
-
-### Python development, unit testing, and debugging
-- [x] Introduction to Visual Studio Code, Real Python
-- [x] [Test-Driven Development With PyTest](https://realpython.com/certificates/96ecff0f-2d92-422f-b3d8-f6790a03f872/), Real Python
-- [ ] Raising and Handling Python Exceptions, Real Python
-- [x] [Enhance your Python unit testing using Coverage](https://www.coursera.org/account/accomplishments/certificate/TGYBNFKE3DJW), Coursera Project Network
-- [ ] Software Debugging, Coursera
 
 ### AI, Deep Learning, Ethics, ML explainability
 - [x] [AI for Everyone](https://www.coursera.org/account/accomplishments/certificate/W9V3WB6GADC4), Coursera
