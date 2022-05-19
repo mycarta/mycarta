@@ -103,10 +103,10 @@
 - [ ] Practical Data Ethics, fastai
 
 ### Race, Gender and Workplace Equity [Professional Certificate](https://credentials.edx.org/credentials/da6b5edb91eb43ca808d960407a84601/), edX
-- [x] [Understanding Gender Equity]([https://courses.edx.org/certificates/a5d76bfe8eff4a43bfc70c356745b3f6](https://courses.edx.org/certificates/a052cc54020b465096d2cf5c1c557877))
-- [x] [Facing Racism and Emotional Tax in the Workplace]([https://courses.edx.org/certificates/5ad5a7c792c04d5a9371b2f7fc97d253](https://courses.edx.org/certificates/ab3dc247ac9149bfb20ead074daf22ed))
-- [x] [Communication Skills for Dialoguing Across Difference]([https://courses.edx.org/certificates/02807f521af04f3db11ce95e01e62625](https://courses.edx.org/certificates/e73a19e937274de1b790cf3dcc02fc7a))
-- [x] [Unconscious Bias: From Awareness to Action](h[ttps://courses.edx.org/certificates/02807f521af04f3db11ce95e01e62625](https://courses.edx.org/certificates/62d405fb03794ae4bdc4d05bf53d757d))
+- [x] [Understanding Gender Equity](https://courses.edx.org/certificates/a052cc54020b465096d2cf5c1c557877)
+- [x] [Facing Racism and Emotional Tax in the Workplace](https://courses.edx.org/certificates/ab3dc247ac9149bfb20ead074daf22ed)
+- [x] [Communication Skills for Dialoguing Across Difference](https://courses.edx.org/certificates/e73a19e937274de1b790cf3dcc02fc7a)
+- [x] [Unconscious Bias: From Awareness to Action](https://courses.edx.org/certificates/62d405fb03794ae4bdc4d05bf53d757d)
 
 ### Communication tools
 - [x] [Enhance Organizational Communications with Slack](https://www.coursera.org/account/accomplishments/certificate/JEBLDLJQLSZN), Coursera Project Network
