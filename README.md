@@ -48,7 +48,7 @@
 <img width="650" alt="Screen Shot 2022-05-26 at 9 57 02 PM" src="https://user-images.githubusercontent.com/7424763/170626329-7ecdac24-c612-4fd1-921c-8b4ba6788534.png">
 </p>
 
-  - There's also a 3D model of the Yoder Tilley tetrahedron for basalt classification. In this visualization the tetrahedron isbroken to separate the Quartz Tholeiite, Oliving Tholeiite, and Alkali Basalt sub-volumes and show the critical planes of silica saturation and silica under-saturation. For the 3D sketchfab version of the model, I used a DXF export and re-rendered using Rhino3D. Check it out [on Sketchfab](https://sketchfab.com/3d-models/basalt-classification-yoder-tilley-tetrahedron-4d5b741603424850af8946c7316d059a) .
+   - There's also a 3D model of the Yoder Tilley tetrahedron for basalt classification. In this visualization the tetrahedron isbroken to separate the Quartz Tholeiite, Oliving Tholeiite, and Alkali Basalt sub-volumes and show the critical planes of silica saturation and silica under-saturation. For the 3D sketchfab version of the model, I used a DXF export and re-rendered using Rhino3D. Check it out [on Sketchfab](https://sketchfab.com/3d-models/basalt-classification-yoder-tilley-tetrahedron-4d5b741603424850af8946c7316d059a) .
 
 
 - **My first package(work in progress)**: [cmaptools](https://pypi.org/project/cmaptools/), _a collection of functions to analyze and fix bad colormaps_. This is my project for the tutorialthe [Publishing your first Python package](https://transform.softwareunderground.org/2022-first-python-package/overview), attended at the Software Underground [Transform 2022 virtual conference](https://transform.softwareunderground.org/overview). Github [repo here](https://github.com/mycarta/cmaptools).
