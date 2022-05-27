@@ -45,7 +45,7 @@
 - **3D visualizations**
 - 3D model of the ternary system quartz – nepheline – kalsilite, also called petrogeny’s “residua” system, is used to describe the composition of many cooled residual magma. This was an advanced pet project while I was a student in Geology at the University of Rome, Italy. It involved using AutoCAD and 3D Studio Max to create a WRLM file. For the 3D sketchfab version of the model, I used a DXF export and re-rendered using Rhino3D. Check it out [on Sketchfab](https://sketchfab.com/3d-models/ternary-system-quartz-nepheline-kalsilite-c8225185f7004ad0a23533ca191b0c6b)
 <p align="center">
-<img width="1516" alt="Screen Shot 2022-05-26 at 9 57 02 PM" src="https://user-images.githubusercontent.com/7424763/170626329-7ecdac24-c612-4fd1-921c-8b4ba6788534.png">
+<img width="650" alt="Screen Shot 2022-05-26 at 9 57 02 PM" src="https://user-images.githubusercontent.com/7424763/170626329-7ecdac24-c612-4fd1-921c-8b4ba6788534.png">
 </p>
 - 3D model of the Yoder Tilley tetrahedron for basalt classification. In this visualization the tetrahedron isbroken to separate the Quartz Tholeiite, Oliving Tholeiite, and Alkali Basalt sub-volumes and show the critical planes of silica saturation and silica under-saturation. For the 3D sketchfab version of the model, I used a DXF export and re-rendered using Rhino3D. Check it out [on Sketchfab]([https://sketchfab.com/3d-models/ternary-system-quartz-nepheline-kalsilite-c8225185f7004ad0a23533ca191b0c6b](https://sketchfab.com/3d-models/basalt-classification-yoder-tilley-tetrahedron-4d5b741603424850af8946c7316d059a)
 
