@@ -97,6 +97,7 @@
 ### GIS and Geospatial
 - [x] Geospatial Analysis, Kaggle
 - [x] [Climate Geospatial Analysis in Python with Xarray](https://www.coursera.org/account/accomplishments/certificate/VMKXGAQKGGFP),  Coursera Project Network
+- [x] Monitoring Changes in Surface Water Using Satellite Image Data, Manning Liv Project
 - [ ] ARSET - Fundamentals of Remote Sensing, NASA Applied Science
 - [ ] ARSET - Introduction to Synthetic Aperture Radar, NASA Applied Science
 - [ ] ARSET - Humanitarian Applications Using NASA Earth Observations, NASA Applied Science
