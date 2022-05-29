@@ -54,11 +54,11 @@
 
 3D comparison in CIELAB color space of colormaps
 <p align="center">
-![jet](https://user-images.githubusercontent.com/7424763/170847059-1afa96d0-7231-4005-98d1-14e5cbe90061.gif)
+<img width="400" src="ttps://user-images.githubusercontent.com/7424763/170847059-1afa96d0-7231-4005-98d1-14e5cbe90061.gif">
 </p>
 
 <p align="center">
-![cubicyf](https://user-images.githubusercontent.com/7424763/170847071-92754fca-ac6a-40c0-be7a-40f88a2172c1.gif)
+<img width="400" src="https://user-images.githubusercontent.com/7424763/170847071-92754fca-ac6a-40c0-be7a-40f88a2172c1.gif">
 </p>
 
 ## Hackathons and sprints
