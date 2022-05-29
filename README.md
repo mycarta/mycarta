@@ -79,7 +79,12 @@
   <img width="500" src="https://mycarta.files.wordpress.com/2020/09/missingno_completeness_animation-1.gif">
 </p>
 
-## My personal Data Science roadmap: courses, guided projects (~40% courses and projects completed), books
+## Library
+OK, it looks like it has become very trendy these days to post a picture your datascience library. So, I am doing it too then, here is my collection of books, with a focus on statistics, Machine Learning, and computative geoscience (… and keeping myself honest about what I have not read, yet…).
+
+![DS_BOOKS](https://user-images.githubusercontent.com/7424763/170873518-fdae9db3-9b94-4c43-9784-2199331f5373.PNG)
+
+## My personal Data Science roadmap: courses, guided projects (~40% ccompleted)
 <details>
   <summary>Click to expand this section</summary>
 
@@ -99,6 +104,7 @@
 - [x] [Pandas](https://www.kaggle.com/learn/certification/mycarta/pandas), Kaggle
 - [x] [15 Mistakes to Avoid in Data Science](https://www.linkedin.com/learning/certificates/80c3a9379c2a96b55083dab7f651cf99ea2b01d52c56ea4684e22befeb06cfdb?trk=share_certificate), LinkedIn Learning
 - [x] Intermediate Machine Learning, Kaggle
+- [ ] Refactoring Pandas, Meta Snake
 - [ ] Web Scraping With Beautiful Soup and Python, Real Python
 - [ ] Time Series, Kaggle
 - [ ] Intro to SQL, Kaggle
@@ -108,7 +114,6 @@
 ### Analytics
 - [x] Spotfire Essentials, I and II, Ruths.ai (now Petro.ai)
 - [ ] Spotfire - The Complete TIBCO Spotfire Course, Udemy
- 
 
 ### GIS and Geospatial
 - [x] Geospatial Analysis, Kaggle
