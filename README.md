@@ -52,7 +52,7 @@
 <img width="650" alt="Screen Shot 2022-05-26 at 9 57 02 PM" src="https://user-images.githubusercontent.com/7424763/170626329-7ecdac24-c612-4fd1-921c-8b4ba6788534.png">
 </p>
 
-- 3D colormap paths in CIELAB color space. Details in [this blog post](https://mycarta.wordpress.com/2013/02/21/perceptual-rainbow-palette-the-method/). For example, below I compare the path for the classic Jet (top) vs a more perceptual rainbow that I created, called CubicYF (bottom). I generated the animations using the [3D color inspector plugin](https://imagej.nih.gov/ij/plugins/color-inspector.html) for ImageJ:
+- 3D paths of colormap in CIELAB color space. These are a very useful way to analyze a colormap as they show clearly where abrupt chages in contrast happen; these are responsible for artifacts in mapping when these colormaps are used (more details in [this blog post](https://mycarta.wordpress.com/2013/02/21/perceptual-rainbow-palette-the-method/) ). As example in the two animations below (produced using the [3D color inspector plugin](https://imagej.nih.gov/ij/plugins/color-inspector.html) for ImageJ), notice the may abrupt changes in the path for the classic Jet colormap (top) and compary to the regular piraling path of a more perceptual rainbow, called CubicYF (bottom), which I created:
 <p align="center">
 <img width="400" src="https://user-images.githubusercontent.com/7424763/170847059-1afa96d0-7231-4005-98d1-14e5cbe90061.gif">
 </p>
