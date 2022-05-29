@@ -79,7 +79,7 @@
   <img width="500" src="https://mycarta.files.wordpress.com/2020/09/missingno_completeness_animation-1.gif">
 </p>
 
-## My personal Data Science roadmap: books, courses, guided projects (~40% courses completed)
+## My personal Data Science roadmap: courses, guided projects (~40% courses and projects completed), books
 <details>
   <summary>Click to expand this section</summary>
 
