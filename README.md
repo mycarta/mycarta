@@ -80,9 +80,10 @@
 </p>
 
 ## Library
-OK, it looks like it has become very trendy these days to post a picture your datascience library. So, I am doing it too then, here is my collection of books, with a focus on statistics, Machine Learning, and computative geoscience (… and keeping myself honest about what I have not read, yet…).
-
-![DS_BOOKS](https://user-images.githubusercontent.com/7424763/170873518-fdae9db3-9b94-4c43-9784-2199331f5373.PNG)
+OK, it looks like it has become very trendy these days to post a picture your datascience library. So, I am doing it too then, here is my collection of books, with a focus on computative geoscience (… and keeping myself honest about what I have not read, yet…):
+<p align="center">
+  <img width="650" src="https://user-images.githubusercontent.com/7424763/170873518-fdae9db3-9b94-4c43-9784-2199331f5373.PNG">
+</p>
 
 ## My personal Data Science roadmap: courses, guided projects (~40% ccompleted)
 <details>
