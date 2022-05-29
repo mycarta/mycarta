@@ -85,7 +85,7 @@ OK, it looks like it has become very trendy these days to post a picture your da
   <img width="650" src="https://user-images.githubusercontent.com/7424763/170873518-fdae9db3-9b94-4c43-9784-2199331f5373.PNG">
 </p>
 
-## My personal Data Science roadmap: courses, guided projects (~40% ccompleted)
+## My personal Data Science roadmap: certificates, courses, guided projects (~40% ccompleted)
 <details>
   <summary>Click to expand this section</summary>
 
