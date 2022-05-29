@@ -52,9 +52,9 @@
 <img width="650" alt="Screen Shot 2022-05-26 at 9 57 02 PM" src="https://user-images.githubusercontent.com/7424763/170626329-7ecdac24-c612-4fd1-921c-8b4ba6788534.png">
 </p>
 
-3D comparison in CIELAB color space of colormaps
+- 3D coolormap paths in CIELAB color space. For example, below I compare the path for the classic Jet (top) vs a more perceptual rainbow that I created, called CubicYF (bottom). I generated the animations using the [3D color inspector plugin](https://imagej.nih.gov/ij/plugins/color-inspector.html) for ImageJ:
 <p align="center">
-<img width="400" src="ttps://user-images.githubusercontent.com/7424763/170847059-1afa96d0-7231-4005-98d1-14e5cbe90061.gif">
+<img width="400" src="https://user-images.githubusercontent.com/7424763/170847059-1afa96d0-7231-4005-98d1-14e5cbe90061.gif">
 </p>
 
 <p align="center">
