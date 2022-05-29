@@ -81,7 +81,7 @@
 
 ## My personal Data Science roadmap: books, courses, guided projects (~40% courses completed)
 <details>
-  <summary>Click to expand!</summary>
+  <summary>Click to expand this section</summary>
 
 ### Python development, unit testing, and debugging
 - [x] Introduction to Visual Studio Code, Real Python
@@ -104,6 +104,11 @@
 - [ ] Intro to SQL, Kaggle
 - [ ] Advanced SQL, Kaggle
 - [ ] SQL for Data Analysis, Coursera
+ 
+### Analytics
+- [x] Spotfire Essentials, I and II, Ruths.ai (now Petro.ai)
+- [ ] Spotfire - The Complete TIBCO Spotfire Course, Udemy
+ 
 
 ### GIS and Geospatial
 - [x] Geospatial Analysis, Kaggle
@@ -130,14 +135,13 @@
 
 ### Communication tools
 - [x] [Enhance Organizational Communications with Slack](https://www.coursera.org/account/accomplishments/certificate/JEBLDLJQLSZN), Coursera Project Network
+</details>
 
 ## Upcoming articles and tutorials
 ##### For 52 Things You Should Know About Geocomputing: A crowdsourced collection of articles from practitioners, reviewed and edited by the Software Underground community:
 - [Some advice on reproducing scientific figures](https://curvenote.com/@swung/52-things-geocomputing/niccoli-advice-on-reproducing-figures)
 - [Keep on improving your Geocomputing projects](https://curvenote.com/@swung/52-things-geocomputing/niccoli-keep-on-improving-geocomputing-projects)
 - [Prototype colourmaps for fault interpretation](https://curvenote.com/@swung/52-things-geocomputing/niccoli-prototype-colormaps-for-faults)
-</details>
-
 
 ## Stuff I would do differently
 - These days I would definitely build this one in Python: [A study of Ricker wavelets in MS Excel (2016)](https://mycarta.wordpress.com/2016/02/04/a-study-of-ricker-wavelets-in-ms-excel/)
