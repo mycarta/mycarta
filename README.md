@@ -119,10 +119,11 @@ OK, it looks like it has become very trendy these days to post a picture your da
 ### GIS and Geospatial
 - [x] Geospatial Analysis, Kaggle
 - [x] [Climate Geospatial Analysis in Python with Xarray](https://www.coursera.org/account/accomplishments/certificate/VMKXGAQKGGFP),  Coursera Project Network
-- [x] Monitoring Changes in Surface Water Using Satellite Image Data, Manning Liv Project
+- [x] Monitoring Changes in Surface Water Using Satellite Image Data, Manning Live Project
 - [ ] ARSET - Fundamentals of Remote Sensing, NASA Applied Science
 - [ ] ARSET - Introduction to Synthetic Aperture Radar, NASA Applied Science
 - [ ] ARSET - Humanitarian Applications Using NASA Earth Observations, NASA Applied Science
+- [ ] End-to-End Machine Learning for Rain Prediction, Manning Live Project
 
 ### AI, Deep Learning, Ethics, ML explainability
 - [x] [AI for Everyone](https://www.coursera.org/account/accomplishments/certificate/W9V3WB6GADC4), Coursera
