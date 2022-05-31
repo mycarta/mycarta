@@ -102,7 +102,7 @@ It looks like it has become very trendy these days to post a picture your datasc
 
 ## My personal Data Science roadmap
 <details>
-  <summary>#### Click here to expand the roadmap section</summary>
+  <summary>Click here to expand the roadmap section</summary>
 
 ### Python development, unit testing, and debugging
 - [x] Introduction to Visual Studio Code, Real Python
