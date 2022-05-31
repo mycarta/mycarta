@@ -13,14 +13,14 @@
 
 # Table of Contents
 1. [GitHub and Stack Overflow Stats](#GitHub-and-Stack-Overflow-Stats)
-2. [Published articles (in Geophysical literature)](#Published articles (in Geophysical literature))
+2. [Articles published in Geophysical literature](#Articles-published-in-Geophysical-literature)
 3. [Featured blog posts](#Featured-blog-posts)
 4. [Portfolio highlight](#Portfolio-highlight)
 5. [3D visualizations](#3D-visualizations)
 6. [Hackathons and sprints](#Hackathons-and-sprints)
 7. [Exploratory Data Analysis favourites](#Exploratory-Data-Analysis-favourites)
 8. [Library](#Library)
-9. [My personal Data Science roadmap: certificates, courses, guided projects (~40% completed)](#My-personal-Data-Science-roadmap:-certificates,-courses,-guided-projects-(~40%-completed))
+9. [My personal Data Science roadmap: certificates, courses, guided projects ~40% completed](#My-personal-Data-Science-roadmap:-certificates,-courses,-guided-projects-~40%-completed)
 10. [Upcoming articles and tutorials](#Upcoming-articles-and-tutorials)
 
 ## GitHub and Stack Overflow Stats
@@ -28,7 +28,7 @@
 
 <a href="https://stackexchange.com/users/1025180"><img src="https://stackexchange.com/users/flair/1025180.png?theme=dark" width="300" height="76" alt="profile for MyCarta on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for MyCarta on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
 
-## Published articles (in Geophysical literature)
+## Articles published in Geophysical literature
 - [Introduction to Classification with SVMs](https://csegrecorder.com/assets/pdfs/2018/2018-01-RECORDER-Machine_Learning_in_Geoscience_V.pdf). Article (with [Jupyter notebooks](https://github.com/CSEG/Machine-Learning-CSEG-special-issue/tree/master/Matteo_Niccoli)) offering an intuitive understanding of SVMs using toy datasets inspired by classification problems in geophysics.
 - [Mapping and validating lineaments](https://library.seg.org/doi/10.1190/tle34080948.1). Article (with [Jupyter notebook](https://github.com/seg/tutorials-2015/blob/master/1508_Mapping_and_validating_lineamenti/1508_Mapping_and_validating_lineaments.ipynb)) demonstrating how to extract and enhance geologic lineaments from gravity data, and colocate them into a single map to increase confidence.
 
