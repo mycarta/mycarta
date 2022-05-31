@@ -11,11 +11,11 @@
 - 📫 How to reach me: matteo@mycarta.ca
 - 🐦 On Twitter I am [@my_carta](https://twitter.com/My_Carta)
 
-
 ## GitHub Stats
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mycarta&theme=blue-green&show_icons=true&custom_title= )](https://github.com/anuraghazra/github-readme-stats&count_private=true)
 
-<a href="https://stackexchange.com/users/1025180"><img src="https://stackexchange.com/users/flair/1025180.png" width="208" height="58" alt="profile for MyCarta on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for MyCarta on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
+## Stack Overflow reputation
+<a href="https://stackexchange.com/users/1025180"><img src="https://stackexchange.com/users/flair/1025180.png?theme=dark" width="208" height="58" alt="profile for MyCarta on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for MyCarta on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
 
 ## Published articles (in Geophysical literature)
 - [Introduction to Classification with SVMs](https://csegrecorder.com/assets/pdfs/2018/2018-01-RECORDER-Machine_Learning_in_Geoscience_V.pdf). Article (with [Jupyter notebooks](https://github.com/CSEG/Machine-Learning-CSEG-special-issue/tree/master/Matteo_Niccoli)) offering an intuitive understanding of SVMs using toy datasets inspired by classification problems in geophysics.
