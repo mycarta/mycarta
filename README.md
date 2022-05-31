@@ -20,7 +20,7 @@
 6. [Hackathons and sprints](#Hackathons-and-sprints)
 7. [Exploratory Data Analysis favourites](#Exploratory-Data-Analysis-favourites)
 8. [Library](#Library)
-9. [My personal Data Science roadmap | certificates, courses, guided projects ~40% completed](#My-personal-Data-Science-roadmap-|-certificates,-courses,-guided-projects-~40%-completed)
+9. [My personal Data Science roadmap: certificates, courses, guided projects ~40% completed](#My-personal-Data-Science-roadmap:-certificates,-courses,-guided-projects-~40%-completed)
 10. [Upcoming articles and tutorials](#Upcoming-articles-and-tutorials)
 
 ## GitHub and Stack Overflow Stats
@@ -100,7 +100,7 @@ OK, it looks like it has become very trendy these days to post a picture your da
   <img width="650" src="https://user-images.githubusercontent.com/7424763/170873518-fdae9db3-9b94-4c43-9784-2199331f5373.PNG">
 </p>
 
-## My personal Data Science roadmap | certificates, courses, guided projects ~40% completed
+## My personal Data Science roadmap: certificates, courses, guided projects ~40% completed
 <details>
   <summary>Click to expand this section</summary>
 
