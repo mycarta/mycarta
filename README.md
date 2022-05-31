@@ -1,6 +1,6 @@
 ## Ciao! 👋 I'm Matteo (he/him)
 
-### I am a passionate, data-driven geoscientist
+### I am a passionate, actively curious, data-driven geoscientist
 
 - 🐍 I’m currently learning: Dashboarding with [Panel](https://blog.holoviz.org/panel_0.13.0.html) and [Holoviews](http://holoviews.org/user_guide/Dashboards.html) 
 - 📗 I’m currently reading: [How to Lead in Data Science](https://www.manning.com/books/how-to-lead-in-data-science)
