@@ -9,6 +9,8 @@
 - ✏️ Hobby: drawing, juggling
 - 🃏 Fun fact: a recent fixation with card tricks and Rubik's cube
 - 📫 How to reach me: matteo@mycarta.ca
+- [![twitter-icon](https://user-images.githubusercontent.com/7424763/171091289-09d38ee7-456a-498d-9386-61169bc00dc4.png)](https://twitter.com/My_Carta)
+
 
 ## GitHub Stats
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mycarta&theme=blue-green&show_icons=true&custom_title= )](https://github.com/anuraghazra/github-readme-stats&count_private=true)
