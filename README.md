@@ -107,7 +107,7 @@ It looks like it has become very trendy these days to post a picture your datasc
 ### Python development, unit testing, and debugging
 - [x] Introduction to Visual Studio Code, Real Python
 - [x] [Test-Driven Development With PyTest](https://realpython.com/certificates/96ecff0f-2d92-422f-b3d8-f6790a03f872/), Real Python
-- [ ] Raising and Handling Python Exceptions, Real Python
+- [x] Raising and Handling Python Exceptions, Real Python
 - [x] [Enhance your Python unit testing using Coverage](https://www.coursera.org/account/accomplishments/certificate/TGYBNFKE3DJW), Coursera Project Network
 - [ ] Software Debugging, Coursera
 
