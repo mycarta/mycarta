@@ -9,7 +9,9 @@
 - ✏️ Hobby: drawing, juggling
 - 🃏 Fun fact: a recent fixation with card tricks and Rubik's cube
 - 📫 How to reach me: matteo@mycarta.ca
-- [twitter-icon](https://user-images.githubusercontent.com/7424763/171091913-24fe44b2-830d-48bb-87e6-aa6fcc3a739c.png) On Twitter I am [@my_carta](https://twitter.com/My_Carta)
+- <p>
+  <img width="22" src="ttps://user-images.githubusercontent.com/7424763/171091913-24fe44b2-830d-48bb-87e6-aa6fcc3a739c.png)">
+</p>[twitter-icon](h On Twitter I am [@my_carta](https://twitter.com/My_Carta)
 
 
 ## GitHub Stats
