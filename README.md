@@ -128,7 +128,7 @@ It looks like it has become very trendy these days to post a picture your datasc
 - [ ] SQL for Data Analysis, Coursera
  
 ### Analytics
-- [x] Spotfire Essentials, I and II, Ruths.ai (now Petro.ai)
+- [x] [Spotfire Essentials, I & II](https://support.ruths.ai/support/solutions/articles/6000191001-kickstart-how-to-schedule-training), Ruths.ai (now Petro.ai)
 - [ ] Spotfire - The Complete TIBCO Spotfire Course, Udemy
 
 ### GIS and Geospatial
