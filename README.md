@@ -19,7 +19,7 @@
 5. [3D visualizations](#3D-visualizations)
 6. [Hackathons and sprints](#Hackathons-and-sprints)
 7. [Exploratory Data Analysis favourites](#Exploratory-Data-Analysis-favourites)
-8. [Library](#Library)
+8. [Book library](#Book-library)
 9. [My personal Data Science roadmap](#My-personal-Data-Science-roadmap)
 10. [Upcoming articles and tutorials](#Upcoming-articles-and-tutorials)
 
@@ -94,7 +94,7 @@
   <img width="500" src="https://mycarta.files.wordpress.com/2020/09/missingno_completeness_animation-1.gif">
 </p>
 
-## Library
+## Book library
 OK, it looks like it has become very trendy these days to post a picture your datascience library. So, I am doing it too then, here is my collection of books, with a focus on computative geoscience and visualization (… and keeping myself honest about what I have not read, yet…)
 <p align="center">
   <img width="650" src="https://user-images.githubusercontent.com/7424763/170873518-fdae9db3-9b94-4c43-9784-2199331f5373.PNG">
