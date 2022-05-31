@@ -11,6 +11,18 @@
 - 📫 How to reach me: matteo@mycarta.ca
 - 🐦 On Twitter I am [@my_carta](https://twitter.com/My_Carta)
 
+# Table of Contents
+1. ## GitHub and Stack Overflow Stats
+2. ## Published articles (in Geophysical literature)
+3. ## Featured blog posts
+4. ## Portfolio highlight
+5. ## 3D visualizations
+6. ## Hackathons and sprints
+7. ## Exploratory Data Analysis favourites
+8. ## Library
+9. ## My personal Data Science roadmap: certificates, courses, guided projects (~40% completed)
+10. ## Upcoming articles and tutorials
+
 ## GitHub and Stack Overflow Stats
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mycarta&theme=blue-green&show_icons=true&custom_title= )](https://github.com/anuraghazra/github-readme-stats&count_private=true)
 
