@@ -1,5 +1,5 @@
 ## Ciao! 👋 I'm Matteo (he/him)
-/polls 1 '2' "3" 
+/polls Option1 'Option 2' "Option 3" 
 ### I am a passionate, actively curious, data-driven geoscientist
 
 - 🐍 I’m currently learning: Dashboarding with [Panel](https://blog.holoviz.org/panel_0.13.0.html) and [Holoviews](http://holoviews.org/user_guide/Dashboards.html) 
