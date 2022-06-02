@@ -19,7 +19,7 @@
 4. [Portfolio highlight](#Portfolio-highlight)
 5. [3D visualizations](#3D-visualizations)
 6. [Hackathons and sprints](#Hackathons-and-sprints)
-7. [Community engagement](#Community engagement)
+7. [Community engagement](#Community-engagement)
 8. [Exploratory Data Analysis favourites](#Exploratory-Data-Analysis-favourites)
 9. [Book library](#Book-library)
 10. [My personal Data Science roadmap](#My-personal-Data-Science-roadmap)
