@@ -198,7 +198,7 @@ It looks like it has become very trendy these days to post a picture your datasc
 - [Some advice on reproducing scientific figures](https://curvenote.com/@swung/52-things-geocomputing/niccoli-advice-on-reproducing-figures)
 - [Keep on improving your Geocomputing projects](https://curvenote.com/@swung/52-things-geocomputing/niccoli-keep-on-improving-geocomputing-projects)
 - [Prototype colourmaps for fault interpretation](https://curvenote.com/@swung/52-things-geocomputing/niccoli-prototype-colormaps-for-faults)
-- 
+
 -----
 ## Stuff I would do differently
 - These days I would definitely build this one in Python: [A study of Ricker wavelets in MS Excel (2016)](https://mycarta.wordpress.com/2016/02/04/a-study-of-ricker-wavelets-in-ms-excel/)
