@@ -98,7 +98,8 @@
 -----
 ## Coding challenges
 - Completed all the Python challenges at [Coding bat](https://codingbat.com/python) and earned [10-star badge](https://user-images.githubusercontent.com/7424763/171553286-679af98e-e3f4-48bc-951f-02aa31f4edc3.png)
-[snagit1](https://user-images.githubusercontent.com/7424763/171553242-81d3a943-a86f-4e92-9cbe-702195cce783.png)
+
+![snagit1](https://user-images.githubusercontent.com/7424763/171553242-81d3a943-a86f-4e92-9cbe-702195cce783.png)
 
 -----
 
