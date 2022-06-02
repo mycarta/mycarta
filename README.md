@@ -11,7 +11,7 @@
 - 📝 Blog: (mycarta](https://mycarta.wordpress.com/)
 - 📫 How to reach me: matteo@mycarta.ca
 - 🐦 On Twitter I am [@my_carta](https://twitter.com/My_Carta)
-
+-----
 # Table of Contents
 1. [GitHub and Stack Overflow Stats](#GitHub-and-Stack-Overflow-Stats)
 2. [Articles published in Geophysical literature](#Articles-published-in-Geophysical-literature)
@@ -23,6 +23,7 @@
 8. [Book library](#Book-library)
 9. [My personal Data Science roadmap](#My-personal-Data-Science-roadmap)
 10. [Upcoming articles and tutorials](#Upcoming-articles-and-tutorials)
+11. [Stuff I would do differently](#Stuff-I-would-do-differently)
 -----
 ## GitHub and Stack Overflow Stats
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mycarta&theme=blue-green&show_icons=true&custom_title= )](https://github.com/anuraghazra/github-readme-stats&count_private=true)
@@ -32,12 +33,12 @@
 ## Articles published in Geophysical literature
 - [Introduction to Classification with SVMs](https://csegrecorder.com/assets/pdfs/2018/2018-01-RECORDER-Machine_Learning_in_Geoscience_V.pdf). Article (with [Jupyter notebooks](https://github.com/CSEG/Machine-Learning-CSEG-special-issue/tree/master/Matteo_Niccoli)) offering an intuitive understanding of SVMs using toy datasets inspired by classification problems in geophysics.
 - [Mapping and validating lineaments](https://library.seg.org/doi/10.1190/tle34080948.1). Article (with [Jupyter notebook](https://github.com/seg/tutorials-2015/blob/master/1508_Mapping_and_validating_lineamenti/1508_Mapping_and_validating_lineaments.ipynb)) demonstrating how to extract and enhance geologic lineaments from gravity data, and colocate them into a single map to increase confidence.
-
+-----
 ## Featured blog posts
 - [Be a geoscience and data science detective](https://mycarta.wordpress.com/2020/09/16/be-a-geoscience-and-data-science-detective/)
 - [From zero to JupyterLab pro on Windows 10](https://mycarta.wordpress.com/2019/07/09/from-zero-to-jupyterlab-pro-on-windows-10/)
 - [Visual data exploration in Python – correlation, confidence, spuriousness](https://mycarta.wordpress.com/2019/03/17/visual-data-exploration-in-python-correlation-confidence-spuriousness/)
-
+-----
 ## Portfolio highlight
  [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 
@@ -60,7 +61,7 @@
 - **Contribution**: [Rainbow](https://github.com/mycarta/rainbow) - a tool to recover data from scientific images with unknown colourmaps, a project by [Matt Hall](https://github.com/kwinkunks/) - read more about it in [Matt's blog post](https://agilescientific.com/blog/2017/5/31/unweaving-the-rainbow)
 
 - **Knowledge sharing**: [My answer](https://earthscience.stackexchange.com/a/15139/144) to the question _In the northern hemisphere only, what percentage of the surface is land?_ on [Stack Exchange Earth Science Beta](https://earthscience.stackexchange.com). This was a lot of fun combining domain knowledge (about map projections) with a tiny bit of Python programming (using `numpy` arrays) to provide a quantitative solution. It is the mini-project I am proud the most of, and I did it out of curiosity and the pure joy of solving a problem!
-
+-----
 ## 3D visualizations
 - 3D model of the Yoder Tilley tetrahedron for basalt classification. In this visualization the tetrahedron isbroken to separate the Quartz Tholeiite, Oliving Tholeiite, and Alkali Basalt sub-volumes and show the critical planes of silica saturation and silica under-saturation. For the 3D sketchfab version of the model, I used a DXF export and re-rendered using Rhino3D. Check it out [on Sketchfab](https://sketchfab.com/3d-models/basalt-classification-yoder-tilley-tetrahedron-4d5b741603424850af8946c7316d059a)
 - 3D model of the ternary system quartz – nepheline – kalsilite, also called petrogeny’s “residua” system, which is used to describe the composition of many cooled residual magma. This was an advanced pet project while I was a student in Geology at the University of Rome, Italy. It involved using AutoCAD and 3D Studio Max to create a WRLM file. For the 3D sketchfab version of the model, I used a DXF export and re-rendered using Rhino3D. See the static snapshot below; navigate, inspet, and download the model on [Sketchfab](https://sketchfab.com/3d-models/ternary-system-quartz-nepheline-kalsilite-c8225185f7004ad0a23533ca191b0c6b)
@@ -76,14 +77,14 @@
 <p align="center">
 <img width="400" src="https://user-images.githubusercontent.com/7424763/170847071-92754fca-ac6a-40c0-be7a-40f88a2172c1.gif">
 </p>
-
+-----
 ## Hackathons and sprints
 - [2015 Calgary Hackathon](https://agilescientific.com/blog/2015/5/15/canadian-codeshow). The hackathon was organized by [Agile Scientific](https://github.com/agile-geoscience). With teammates [Evan Saltman](https://github.com/epsalt) and [Elwyn Galloway](https://github.com/scibbatical), and special guest [Ben Bougher](https://github.com/ben-bougher) from Agile, built `Sketch2model`, an app to turn back-of-the-napkin geological sketches into synthetic seismic sections. You can read about it in [Elwyn's blog post](https://scibbatical.wordpress.com/2016/05/02/sketch2model/) and [this one of mine](https://mycarta.wordpress.com/2016/07/22/sketch2model-linking-edges-with-mathematical-morphology/)
 - [2018 Santa Ana SEG Geophysics Sprint](https://agilescientific.com/blog/2018/10/18/cafe-con-leche). The sprint was organized by [Agile Scientific](https://github.com/agile-geoscience) ahead of the Annual SEG Geophysics Conference. With [Volo Vragov](https://github.com/vragov), worked on some [Geophysical inversion optimization code](https://mycarta.wordpress.com/2018/10/28/geophysics-python-sprint-2018-day-2-and-beyond-part-i/) for the [Bruges Python library](https://github.com/agile-geoscience/bruges)
 - [2020 Hackathon, Transform virtual conference](https://softwareunderground.org/blog/2020/6/18/transform-2020). The hackathon was organized by the Software Underground group. With teammates [Matt Hall](https://github.com/kwinkunks) and [Dan Austin](https://github.com/esadan), and a few other contributors, edited several chapters of the upcoming book [52 Things You Should Know About Geocomputing](https://mycarta.wordpress.com/2020/01/30/about-52-things-you-should-know-about-geocomputing/). You can watch a video recording of the final presentation [here on the group's YouTube channel](https://youtu.be/VRoSIjqDj-g?t=277) 
 - [2021 Hackathon, Transform virtual conference](https://github.com/softwareunderground/transform-2021-hackathon/discussions). Project details coming soon...
 - [2021 Geothermal Hackathon, Agile Scientific](https://events.agilescientific.com/event/geothermal-2021/ideas). Project details coming soon...
-
+-----
 ## Exploratory Data Analysis favourites
 - Enhanced `seaborn` pairgrid matrix: one of the things I always do when I start looking at a multivariate probelm is to explore possible associations between features and target; one way I've found really useful is to "enhance"  the standard `Seaborn` pairgrid matrix by labeling each bivariate scatter plot with the distance correlation colored by p-value, and also rearrage the plots by the results of clustering analysis, like in the example below (you can read more about it [here](https://mycarta.wordpress.com/2019/04/10/data-exploration-in-python-distance-correlation-and-variable-clustering/)): 
 <p align="center">
@@ -94,13 +95,13 @@
 <p align="center">
   <img width="500" src="https://mycarta.files.wordpress.com/2020/09/missingno_completeness_animation-1.gif">
 </p>
-
+-----
 ## Book library
 It looks like it has become very trendy these days to post a picture your datascience library. I admit it, I could not resist doing it too! Here is my collection of books, with a focus on computative geoscience and visualization (… and keeping myself honest about what I have not read yet…)
 <p align="center">
   <img width="650" src="https://user-images.githubusercontent.com/7424763/170873518-fdae9db3-9b94-4c43-9784-2199331f5373.PNG">
 </p>
-
+-----
 ## My personal Data Science roadmap
 <details>
   <summary>Click here to expand the roadmap section</summary>
@@ -159,12 +160,12 @@ It looks like it has become very trendy these days to post a picture your datasc
 ### Communication tools
 - [x] [Enhance Organizational Communications with Slack](https://www.coursera.org/account/accomplishments/certificate/JEBLDLJQLSZN), Coursera Project Network
 </details>
-
+-----
 ## Upcoming articles and tutorials
 ##### For 52 Things You Should Know About Geocomputing: A crowdsourced collection of articles from practitioners, reviewed and edited by the Software Underground community:
 - [Some advice on reproducing scientific figures](https://curvenote.com/@swung/52-things-geocomputing/niccoli-advice-on-reproducing-figures)
 - [Keep on improving your Geocomputing projects](https://curvenote.com/@swung/52-things-geocomputing/niccoli-keep-on-improving-geocomputing-projects)
 - [Prototype colourmaps for fault interpretation](https://curvenote.com/@swung/52-things-geocomputing/niccoli-prototype-colormaps-for-faults)
-
+-----
 ## Stuff I would do differently
 - These days I would definitely build this one in Python: [A study of Ricker wavelets in MS Excel (2016)](https://mycarta.wordpress.com/2016/02/04/a-study-of-ricker-wavelets-in-ms-excel/)
