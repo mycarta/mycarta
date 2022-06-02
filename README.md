@@ -19,11 +19,12 @@
 4. [Portfolio highlight](#Portfolio-highlight)
 5. [3D visualizations](#3D-visualizations)
 6. [Hackathons and sprints](#Hackathons-and-sprints)
-7. [Exploratory Data Analysis favourites](#Exploratory-Data-Analysis-favourites)
-8. [Book library](#Book-library)
-9. [My personal Data Science roadmap](#My-personal-Data-Science-roadmap)
-10. [Upcoming articles and tutorials](#Upcoming-articles-and-tutorials)
-11. [Stuff I would do differently](#Stuff-I-would-do-differently)
+7. [Community engagement](#Community engagement)
+8. [Exploratory Data Analysis favourites](#Exploratory-Data-Analysis-favourites)
+9. [Book library](#Book-library)
+10. [My personal Data Science roadmap](#My-personal-Data-Science-roadmap)
+11. [Upcoming articles and tutorials](#Upcoming-articles-and-tutorials)
+12. [Stuff I would do differently](#Stuff-I-would-do-differently)
 -----
 ## GitHub and Stack Overflow Stats
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mycarta&theme=blue-green&show_icons=true&custom_title= )](https://github.com/anuraghazra/github-readme-stats&count_private=true)
@@ -88,6 +89,13 @@
 - [2021 Hackathon, Transform virtual conference](https://github.com/softwareunderground/transform-2021-hackathon/discussions). Project details coming soon...
 - [2021 Geothermal Hackathon, Agile Scientific](https://events.agilescientific.com/event/geothermal-2021/ideas). Project details coming soon...
 -----
+
+## Community engagement
+- Mentor, Canadian Society of Exploration Geophysicists (volunteer). From 2010 to 2020: mentored in Geophysics - and more recently in both Geophysics and Data Science - 3rd-4th year undergraduate students, and graduate students.
+- Co-founder and coordinator of the Calgary GeoPy meetup group, which run from 2018 to 2019
+- Editor, Canadian Society of Exploration Geophysicists (volunteer). From 2014 to 2016 Editor for the society's journal Recorder; notable project: conceived and coordinated a special topic edition on Programming in Geoscience.
+-----
+
 ## Exploratory Data Analysis favourites
 - Enhanced `seaborn` pairgrid matrix: one of the things I always do when I start looking at a multivariate probelm is to explore possible associations between features and target; one way I've found really useful is to "enhance"  the standard `Seaborn` pairgrid matrix by labeling each bivariate scatter plot with the distance correlation colored by p-value, and also rearrage the plots by the results of clustering analysis, like in the example below (you can read more about it [here](https://mycarta.wordpress.com/2019/04/10/data-exploration-in-python-distance-correlation-and-variable-clustering/)): 
 <p align="center">
