@@ -19,12 +19,13 @@
 4. [Portfolio highlight](#Portfolio-highlight)
 5. [3D visualizations](#3D-visualizations)
 6. [Hackathons and sprints](#Hackathons-and-sprints)
-7. [Community engagement](#Community-engagement)
-8. [Exploratory Data Analysis favourites](#Exploratory-Data-Analysis-favourites)
-9. [Book library](#Book-library)
-10. [My personal Data Science roadmap](#My-personal-Data-Science-roadmap)
-11. [Upcoming articles and tutorials](#Upcoming-articles-and-tutorials)
-12. [Stuff I would do differently](#Stuff-I-would-do-differently)
+7. [Coding challenges](#Coding-challenges)
+8. [Community engagement](#Community-engagement)
+9. [Exploratory Data Analysis favourites](#Exploratory-Data-Analysis-favourites)
+10. [Book library](#Book-library)
+11. [My personal Data Science roadmap](#My-personal-Data-Science-roadmap)
+12. [Upcoming articles and tutorials](#Upcoming-articles-and-tutorials)
+13. [Stuff I would do differently](#Stuff-I-would-do-differently)
 -----
 ## GitHub and Stack Overflow Stats
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mycarta&theme=blue-green&show_icons=true&custom_title= )](https://github.com/anuraghazra/github-readme-stats&count_private=true)
@@ -93,6 +94,12 @@
 - [2020 Hackathon, Transform virtual conference](https://softwareunderground.org/blog/2020/6/18/transform-2020). The hackathon was organized by the Software Underground group. With teammates [Matt Hall](https://github.com/kwinkunks) and [Dan Austin](https://github.com/esadan), and a few other contributors, edited several chapters of the upcoming book [52 Things You Should Know About Geocomputing](https://mycarta.wordpress.com/2020/01/30/about-52-things-you-should-know-about-geocomputing/). You can watch a video recording of the final presentation [here on the group's YouTube channel](https://youtu.be/VRoSIjqDj-g?t=277) .
 - [2021 Hackathon, Transform virtual conference](https://github.com/softwareunderground/transform-2021-hackathon/discussions). Project details coming soon...
 - [2021 Geothermal Hackathon, Agile Scientific](https://events.agilescientific.com/event/geothermal-2021/ideas). Project details coming soon...
+
+-----
+## Coding challenges
+- Completed all the Python challenges at [Coding bat](https://codingbat.com/python) and earned [10-star badge](https://user-images.githubusercontent.com/7424763/171553286-679af98e-e3f4-48bc-951f-02aa31f4edc3.png)
+[snagit1](https://user-images.githubusercontent.com/7424763/171553242-81d3a943-a86f-4e92-9cbe-702195cce783.png)
+
 -----
 
 ## Community engagement
