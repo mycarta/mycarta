@@ -59,6 +59,10 @@
   <img width="650" src="https://mycarta.files.wordpress.com/2019/03/workflow.png">
 </p>
 
+- **Subsurface data viewer (proprietary)**: For my day job, built a browser-based app using Panel and Holoviews, to support efforts to QC, analyze, and filter geophysical logs provided by service companies. Increased productivity by 200%.
+
+- **Image augmentation pipeline (proprietary) for Deep Learning**. As hire on contract, built an image augmentation tools for classification of faults in seismic data, a typically low bias / high variance problem. Used in production tests with Convolutional Neural Networks, it helped improve performance. These efforts paved the path for the company's subsequent coding and investigations.
+
 - **My first package (work very much in progress)**: [cmaptools](https://pypi.org/project/cmaptools/), _a collection of functions to analyze and fix bad colormaps_. This is my project for the tutorialthe [Publishing your first Python package](https://transform.softwareunderground.org/2022-first-python-package/overview), attended at the Software Underground [Transform 2022 virtual conference](https://transform.softwareunderground.org/overview). Github [repo here](https://github.com/mycarta/cmaptools).
 
 - **Contribution**: [Rainbow](https://github.com/mycarta/rainbow) - a tool to recover data from scientific images with unknown colourmaps, a project by [Matt Hall](https://github.com/kwinkunks/) - read more about it in [Matt's blog post](https://agilescientific.com/blog/2017/5/31/unweaving-the-rainbow)
