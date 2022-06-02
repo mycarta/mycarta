@@ -142,6 +142,7 @@ It looks like it has become very trendy these days to post a picture your datasc
 - [x] Geospatial Analysis, Kaggle
 - [x] [Climate Geospatial Analysis in Python with Xarray](https://www.coursera.org/account/accomplishments/certificate/VMKXGAQKGGFP),  Coursera Project Network
 - [x] Monitoring Changes in Surface Water Using Satellite Image Data, Manning Live Project
+- [ ] Spatial Data Science: The New Frontier in Analytics. Esri Academy
 - [ ] ARSET - Fundamentals of Remote Sensing, NASA Applied Science
 - [ ] ARSET - Introduction to Synthetic Aperture Radar, NASA Applied Science
 - [ ] ARSET - Humanitarian Applications Using NASA Earth Observations, NASA Applied Science
