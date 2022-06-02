@@ -92,7 +92,7 @@
 
 ## Community engagement
 - Mentor, Canadian Society of Exploration Geophysicists (volunteer). From 2010 to 2020: mentored in Geophysics - and more recently in both Geophysics and Data Science - 3rd-4th year undergraduate students, and graduate students.
-- Co-founder and coordinator of the Calgary GeoPy meetup group, which run from 2018 to 2019
+- Co-founder and coordinator of the Calgary GeoPy meetup group, which monthly for 2018 and 2019.
 - Editor, Canadian Society of Exploration Geophysicists (volunteer). From 2014 to 2016 Editor for the society's journal Recorder; notable project: conceived and coordinated a special topic edition on Programming in Geoscience.
 -----
 
