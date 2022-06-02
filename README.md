@@ -98,12 +98,14 @@
 <p align="center">
   <img width="500" src="https://mycarta.files.wordpress.com/2020/09/missingno_completeness_animation-1.gif">
 </p>
+
 -----
 ## Book library
 It looks like it has become very trendy these days to post a picture your datascience library. I admit it, I could not resist doing it too! Here is my collection of books, with a focus on computative geoscience and visualization (… and keeping myself honest about what I have not read yet…)
 <p align="center">
   <img width="650" src="https://user-images.githubusercontent.com/7424763/170873518-fdae9db3-9b94-4c43-9784-2199331f5373.PNG">
 </p>
+
 -----
 ## My personal Data Science roadmap
 <details>
@@ -163,12 +165,14 @@ It looks like it has become very trendy these days to post a picture your datasc
 ### Communication tools
 - [x] [Enhance Organizational Communications with Slack](https://www.coursera.org/account/accomplishments/certificate/JEBLDLJQLSZN), Coursera Project Network
 </details>
+
 -----
 ## Upcoming articles and tutorials
 ##### For 52 Things You Should Know About Geocomputing: A crowdsourced collection of articles from practitioners, reviewed and edited by the Software Underground community:
 - [Some advice on reproducing scientific figures](https://curvenote.com/@swung/52-things-geocomputing/niccoli-advice-on-reproducing-figures)
 - [Keep on improving your Geocomputing projects](https://curvenote.com/@swung/52-things-geocomputing/niccoli-keep-on-improving-geocomputing-projects)
 - [Prototype colourmaps for fault interpretation](https://curvenote.com/@swung/52-things-geocomputing/niccoli-prototype-colormaps-for-faults)
+- 
 -----
 ## Stuff I would do differently
 - These days I would definitely build this one in Python: [A study of Ricker wavelets in MS Excel (2016)](https://mycarta.wordpress.com/2016/02/04/a-study-of-ricker-wavelets-in-ms-excel/)
