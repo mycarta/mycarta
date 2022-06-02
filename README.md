@@ -8,7 +8,7 @@
 - 🎥 I'm currently watching: [Calling Bullshit in the Age of Big Data](https://youtube.com/playlist?list=PLPnZfvKID1Sje5jWxt-4CSZD7bUI4gSPS)
 - ✏️ Hobby: drawing, juggling
 - 🃏 Fun fact: a recent fixation with card tricks and Rubik's cube
-- 📝 Blog: (mycarta](https://mycarta.wordpress.com/)
+- 📝 Blog: [mycarta](https://mycarta.wordpress.com/)
 - 📫 How to reach me: matteo@mycarta.ca
 - 🐦 On Twitter I am [@my_carta](https://twitter.com/My_Carta)
 -----
