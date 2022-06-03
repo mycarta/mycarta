@@ -18,7 +18,7 @@
 3. [Articles published in Geophysical literature](#Articles-published-in-Geophysical-literature)
 4. [Upcoming articles and tutorials](#Upcoming-articles-and-tutorials)
 6. [Projects portfolio](#Projects-portfolio)
-7. [## Exploratory Data Analysis and visualization portfolio](#Eploratory-Data-Analysis-and-visualization-portfolio)
+7. [Exploratory Data Analysis and visualization portfolio](#Eploratory-Data-Analysis-and-visualization-portfolio)
 8. [Coding challenges](#Coding-challenges)
 9. [My personal Data Science roadmap](#My-personal-Data-Science-roadmap)
 10. [Book library](#Book-library)
