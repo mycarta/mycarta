@@ -14,18 +14,18 @@
 -----
 # Table of Contents
 1. [GitHub and Stack Overflow Stats](#GitHub-and-Stack-Overflow-Stats)
-2. [Articles published in Geophysical literature](#Articles-published-in-Geophysical-literature)
-3. [Featured blog posts](#Featured-blog-posts)
-4. [Portfolio highlight](#Portfolio-highlight)
-5. [3D visualizations](#3D-visualizations)
-6. [Hackathons and sprints](#Hackathons-and-sprints)
-7. [Coding challenges](#Coding-challenges)
-8. [Community engagement](#Community-engagement)
-9. [Exploratory Data Analysis favourites](#Exploratory-Data-Analysis-favourites)
-10. [Book library](#Book-library)
-11. [My personal Data Science roadmap](#My-personal-Data-Science-roadmap)
-12. [Upcoming articles and tutorials](#Upcoming-articles-and-tutorials)
+2. [Featured blog posts](#Featured-blog-posts)
+3. [Articles published in Geophysical literature](#Articles-published-in-Geophysical-literature)
+4. [Upcoming articles and tutorials](#Upcoming-articles-and-tutorials)
+6. [Portfolio highlight](#Portfolio-highlight)
+7. [3D visualizations](#3D-visualizations)
+8. [Coding challenges](#Coding-challenges)
+9. [Community engagement](#Community-engagement)
+10. [Exploratory Data Analysis favourites](#Exploratory-Data-Analysis-favourites)
+11. [Book library](#Book-library)
+12. [My personal Data Science roadmap](#My-personal-Data-Science-roadmap)
 13. [Stuff I would do differently](#Stuff-I-would-do-differently)
+
 -----
 ## GitHub and Stack Overflow Stats
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mycarta&theme=blue-green&show_icons=true&custom_title= )](https://github.com/anuraghazra/github-readme-stats&count_private=true)
@@ -78,8 +78,7 @@
 - **App (Hackathon project)**: Sketch2model (_add link to live app here_) - a browser-based app to turn back-of-the-napkin geological sketches into geologic models used to generate synthetic seismic sections. Built around a prototype put together at the [2015 Calgary Hackathon](https://agilescientific.com/blog/2015/5/15/canadian-codeshow), organized by [Agile Scientific](https://github.com/agile-geoscience), with teammates [Evan Saltman](https://github.com/epsalt) and [Elwyn Galloway](https://github.com/scibbatical), and special guest [Ben Bougher](https://github.com/ben-bougher) from Agile, built  You can read about it in [Elwyn's blog post](https://scibbatical.wordpress.com/2016/05/02/sketch2model/) and [this one of mine](https://mycarta.wordpress.com/2016/07/22/sketch2model-linking-edges-with-mathematical-morphology/).
 **>>> Screen captures to go here**
 
-- **App (Hackathon project)** :FRIDA (_add link to live app here_) - a browser-based app for interactive removal of acquisition footprint noise removal from #D seismic data. Built at the [2021 Hackathon, Transform virtual conference](https://github.com/softwareunderground/transform-2021-hackathon/discussions). 
-- **>>> Description, gif animation, screen captures and workflow to go here**
+- **App (Hackathon project)** :FRIDA (_add link to live app here_) - a browser-based app for interactive removal of acquisition footprint noise removal from #D seismic data. Built at the [2021 Hackathon, Transform virtual conference](https://github.com/softwareunderground/transform-2021-hackathon/discussions). **>>> Description, gif animation, screen captures and workflow to go here**
 
 - **My first package (work very much in progress)**: [cmaptools](https://pypi.org/project/cmaptools/), _a collection of functions to analyze and fix bad colormaps_. This is my project for the tutorialthe [Publishing your first Python package](https://transform.softwareunderground.org/2022-first-python-package/overview), attended at the Software Underground [Transform 2022 virtual conference](https://transform.softwareunderground.org/overview). Github [repo here](https://github.com/mycarta/cmaptools). The goal is to package up in a GUI the technique to fix non-perceptual colormap descibed in this [blog post](https://mycarta.wordpress.com/2018/09/26/how-to-fix-rainbows-and-other-bad-colormaps-using-python/).
 
