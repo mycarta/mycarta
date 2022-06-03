@@ -34,14 +34,23 @@
 </a>
 
 -----
-## Articles published in Geophysical literature
-- [Introduction to Classification with SVMs](https://csegrecorder.com/assets/pdfs/2018/2018-01-RECORDER-Machine_Learning_in_Geoscience_V.pdf). Article (with [Jupyter notebooks](https://github.com/CSEG/Machine-Learning-CSEG-special-issue/tree/master/Matteo_Niccoli)) offering an intuitive understanding of SVMs using toy datasets inspired by classification problems in geophysics.
-- [Mapping and validating lineaments](https://library.seg.org/doi/10.1190/tle34080948.1). Article (with [Jupyter notebook](https://github.com/seg/tutorials-2015/blob/master/1508_Mapping_and_validating_lineamenti/1508_Mapping_and_validating_lineaments.ipynb)) demonstrating how to extract and enhance geologic lineaments from gravity data, and colocate them into a single map to increase confidence.
------
 ## Featured blog posts
 - [Be a geoscience and data science detective](https://mycarta.wordpress.com/2020/09/16/be-a-geoscience-and-data-science-detective/)
 - [From zero to JupyterLab pro on Windows 10](https://mycarta.wordpress.com/2019/07/09/from-zero-to-jupyterlab-pro-on-windows-10/)
 - [Visual data exploration in Python – correlation, confidence, spuriousness](https://mycarta.wordpress.com/2019/03/17/visual-data-exploration-in-python-correlation-confidence-spuriousness/)
+
+-----
+## Articles published in Geophysical literature
+- [Introduction to Classification with SVMs](https://csegrecorder.com/assets/pdfs/2018/2018-01-RECORDER-Machine_Learning_in_Geoscience_V.pdf). Article (with [Jupyter notebooks](https://github.com/CSEG/Machine-Learning-CSEG-special-issue/tree/master/Matteo_Niccoli)) offering an intuitive understanding of SVMs using toy datasets inspired by classification problems in geophysics.
+- [Mapping and validating lineaments](https://library.seg.org/doi/10.1190/tle34080948.1). Article (with [Jupyter notebook](https://github.com/seg/tutorials-2015/blob/master/1508_Mapping_and_validating_lineamenti/1508_Mapping_and_validating_lineaments.ipynb)) demonstrating how to extract and enhance geologic lineaments from gravity data, and colocate them into a single map to increase confidence.
+
+-----
+## Upcoming articles and tutorials
+##### For 52 Things You Should Know About Geocomputing: A crowdsourced collection of articles from practitioners, reviewed and edited by the Software Underground community:
+- [Some advice on reproducing scientific figures](https://curvenote.com/@swung/52-things-geocomputing/niccoli-advice-on-reproducing-figures)
+- [Keep on improving your Geocomputing projects](https://curvenote.com/@swung/52-things-geocomputing/niccoli-keep-on-improving-geocomputing-projects)
+- [Prototype colourmaps for fault interpretation](https://curvenote.com/@swung/52-things-geocomputing/niccoli-prototype-colormaps-for-faults)
+
 -----
 ## Portfolio highlight
  [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
@@ -60,13 +69,22 @@
   <img width="650" src="https://mycarta.files.wordpress.com/2019/03/workflow.png">
 </p>
 
-- **Subsurface data viewer (proprietary)**: For my current, built a browser-based app using Panel and Holoviews, to support efforts to QC, analyze, and filter geophysical logs provided by service companies. Increased productivity by 200%.
+- **Subsurface data viewer (proprietary project)**: For my current, built a browser-based app using Panel and Holoviews, to support efforts to QC, analyze, and filter geophysical logs provided by service companies. Increased productivity by 200%.
+**>>> Some kind of non-proprietary illustration to go here**
 
-- **Image augmentation pipeline (proprietary) for Deep Learning**. For a previous employer (as a free-lance), built an image augmentation tools for classification of faults in seismic data, a typically low bias / high variance problem. Used in production tests with Convolutional Neural Networks, it helped improve performance. These efforts paved the path for the company's subsequent coding and investigations.
+- **Image augmentation pipeline (proprietary project) for Deep Learning**. For a previous employer (as a free-lance), built an image augmentation tools for classification of faults in seismic data, a typically low bias / high variance problem. Used in production tests with Convolutional Neural Networks, it helped improve performance. These efforts paved the path for the company's subsequent coding and investigations.
+**>>> Screen captures from similar example (augmentor PR) to go here**
+
+- **App (Hackathon project)**: Sketch2model (_add link to live app here_) - a browser-based app to turn back-of-the-napkin geological sketches into geologic models used to generate synthetic seismic sections. Built around a prototype put together at the [2015 Calgary Hackathon](https://agilescientific.com/blog/2015/5/15/canadian-codeshow), organized by [Agile Scientific](https://github.com/agile-geoscience), with teammates [Evan Saltman](https://github.com/epsalt) and [Elwyn Galloway](https://github.com/scibbatical), and special guest [Ben Bougher](https://github.com/ben-bougher) from Agile, built  You can read about it in [Elwyn's blog post](https://scibbatical.wordpress.com/2016/05/02/sketch2model/) and [this one of mine](https://mycarta.wordpress.com/2016/07/22/sketch2model-linking-edges-with-mathematical-morphology/).
+**>>> Screen captures to go here**
+
+- **App (Hackathon project)** :FRIDA (_add link to live app here_) - a browser-based app for interactive removal of acquisition footprint noise removal from #D seismic data. Built at the [2021 Hackathon, Transform virtual conference](https://github.com/softwareunderground/transform-2021-hackathon/discussions). 
+- **>>> Description, gif animation, screen captures and workflow to go here**
 
 - **My first package (work very much in progress)**: [cmaptools](https://pypi.org/project/cmaptools/), _a collection of functions to analyze and fix bad colormaps_. This is my project for the tutorialthe [Publishing your first Python package](https://transform.softwareunderground.org/2022-first-python-package/overview), attended at the Software Underground [Transform 2022 virtual conference](https://transform.softwareunderground.org/overview). Github [repo here](https://github.com/mycarta/cmaptools). The goal is to package up in a GUI the technique to fix non-perceptual colormap descibed in this [blog post](https://mycarta.wordpress.com/2018/09/26/how-to-fix-rainbows-and-other-bad-colormaps-using-python/).
 
 - **Contribution**: created a collection of image processing functions to detect, segment, and rectify the main map from published figures. This was a contribution to [Rainbow](https://github.com/mycarta/rainbow), a tool to recover data from scientific images (primarily of seismic data) with unknown colourmaps, a project by [Matt Hall](https://github.com/kwinkunks/) (read more about it in [Matt's blog post](https://agilescientific.com/blog/2017/5/31/unweaving-the-rainbow) ). A full eaxample of the method is described in [Part I](https://mycarta.wordpress.com/2017/09/10/computer-vision-in-geoscience-recover-seismic-data-from-images-part-1/) and [Part II](https://mycarta.wordpress.com/2017/09/18/computer-vision-in-geoscience-recover-seismic-data-from-images-part-2/) of a series on my blog titled [Computer vision in Geoscience](https://mycarta.wordpress.com/2017/07/30/computer-vision-in-geoscience-recover-seismic-data-from-images-introduction/).
+**>>> Screen captures and workflow to go here**
 
 - **Knowledge sharing**: [My answer](https://earthscience.stackexchange.com/a/15139/144) to the question **In the northern hemisphere only, what percentage of the surface is land?**  on [Stack Exchange Earth Science Beta](https://earthscience.stackexchange.com). This was a lot of fun combining domain knowledge (about map projections) with a tiny bit of Python programming (using `numpy` arrays) to provide a quantitative solution. It is the mini-project I am proud the most of, and I did it out of curiosity and the pure joy of solving a problem!
 -----
@@ -87,14 +105,6 @@
 <p align="center">
 <img width="400" src="https://user-images.githubusercontent.com/7424763/170847071-92754fca-ac6a-40c0-be7a-40f88a2172c1.gif">
 </p>
-
------
-## Hackathons and sprints
-- [2015 Calgary Hackathon](https://agilescientific.com/blog/2015/5/15/canadian-codeshow). The hackathon was organized by [Agile Scientific](https://github.com/agile-geoscience). With teammates [Evan Saltman](https://github.com/epsalt) and [Elwyn Galloway](https://github.com/scibbatical), and special guest [Ben Bougher](https://github.com/ben-bougher) from Agile, built `Sketch2model`, an app to turn back-of-the-napkin geological sketches into synthetic seismic sections. You can read about it in [Elwyn's blog post](https://scibbatical.wordpress.com/2016/05/02/sketch2model/) and [this one of mine](https://mycarta.wordpress.com/2016/07/22/sketch2model-linking-edges-with-mathematical-morphology/).
-- [2018 Santa Ana SEG Geophysics Sprint](https://agilescientific.com/blog/2018/10/18/cafe-con-leche). The sprint was organized by [Agile Scientific](https://github.com/agile-geoscience) ahead of the Annual SEG Geophysics Conference. With [Volo Vragov](https://github.com/vragov), worked on some [Geophysical inversion optimization code](https://mycarta.wordpress.com/2018/10/28/geophysics-python-sprint-2018-day-2-and-beyond-part-i/) for the [Bruges Python library](https://github.com/agile-geoscience/bruges).
-- [2020 Hackathon, Transform virtual conference](https://softwareunderground.org/blog/2020/6/18/transform-2020). The hackathon was organized by the Software Underground group. With teammates [Matt Hall](https://github.com/kwinkunks) and [Dan Austin](https://github.com/esadan), and a few other contributors, edited several chapters of the upcoming book [52 Things You Should Know About Geocomputing](https://mycarta.wordpress.com/2020/01/30/about-52-things-you-should-know-about-geocomputing/). You can watch a video recording of the final presentation [here on the group's YouTube channel](https://youtu.be/VRoSIjqDj-g?t=277) .
-- [2021 Hackathon, Transform virtual conference](https://github.com/softwareunderground/transform-2021-hackathon/discussions). Project details coming soon...
-- [2021 Geothermal Hackathon, Agile Scientific](https://events.agilescientific.com/event/geothermal-2021/ideas). Project details coming soon...
 
 -----
 ## Coding challenges
@@ -191,13 +201,6 @@ It looks like it has become very trendy these days to post a picture your datasc
 ### Communication tools
 - [x] [Enhance Organizational Communications with Slack](https://www.coursera.org/account/accomplishments/certificate/JEBLDLJQLSZN), Coursera Project Network
 </details>
-
------
-## Upcoming articles and tutorials
-##### For 52 Things You Should Know About Geocomputing: A crowdsourced collection of articles from practitioners, reviewed and edited by the Software Underground community:
-- [Some advice on reproducing scientific figures](https://curvenote.com/@swung/52-things-geocomputing/niccoli-advice-on-reproducing-figures)
-- [Keep on improving your Geocomputing projects](https://curvenote.com/@swung/52-things-geocomputing/niccoli-keep-on-improving-geocomputing-projects)
-- [Prototype colourmaps for fault interpretation](https://curvenote.com/@swung/52-things-geocomputing/niccoli-prototype-colormaps-for-faults)
 
 -----
 ## Stuff I would do differently
