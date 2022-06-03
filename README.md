@@ -53,13 +53,13 @@
 -----
 ## Portfolio
  
-- **App**: [Busting bad colormaps](https://mybinder.org/v2/gh/mycarta/Colormap-distorsions-Panel-app/master?urlpath=%2Fpanel%2FDemonstrate_colormap_distortions_interactive_Panel) - a web-based `Panel` app to show the effects of using a bad colormap with Geophysical data.  The first version was presented as a lightning talk at the [Transform 2020 virtual conference](https://transform2020.sched.com/) organized by [Software Underground](https://softwareunderground.org/); you can watch a [video recording of the presentation here](https://www.youtube.com/watch?v=rUbvueIF5f8&t=510s). Repo with code [here](https://github.com/mycarta/Colormap-distorsions-Panel-app). [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
+- **App**: [Busting bad colormaps](https://mybinder.org/v2/gh/mycarta/Colormap-distorsions-Panel-app/master?urlpath=%2Fpanel%2FDemonstrate_colormap_distortions_interactive_Panel) [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/) - a web-based `Panel` app to show the effects of using a bad colormap with Geophysical data.  The first version was presented as a lightning talk at the [Transform 2020 virtual conference](https://transform2020.sched.com/) organized by [Software Underground](https://softwareunderground.org/); you can watch a [video recording of the presentation here](https://www.youtube.com/watch?v=rUbvueIF5f8&t=510s). Repo with code [here](https://github.com/mycarta/Colormap-distorsions-Panel-app). 
 <p align="center">
   <img width="650" src="https://github.com/mycarta/Colormap-distorsions-Panel-app/blob/master/for%20readme/new_gif.gif">
 </p>
 
- [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
-- **Tutorial**: [Working with 3D seismic data in Python using segyio, numpy, Scikit-image](https://github.com/equinor/segyio-notebooks/blob/master/notebooks/basic/01_basic_tutorial.ipynb). A notebook to demonstrate how to:
+- **Tutorial**: [Working with 3D seismic data in Python using segyio, numpy, Scikit-image](https://github.com/equinor/segyio-notebooks/blob/master/notebooks/basic/01_basic_tutorial.ipynb). 
+ [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)A notebook to demonstrate how to:
     - read a seismic amplitude volume and a seismic similarity volume as `numpy` arrays using `segyio`
     - manipulate the similarity to create a discontinuity / fault volume
     - create a fault mask and display a couple of amplitude time slices with superimposed faults
