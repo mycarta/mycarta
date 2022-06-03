@@ -68,22 +68,29 @@
   <img width="650" src="https://mycarta.files.wordpress.com/2019/03/workflow.png">
 </p>
 
+ [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 - **Subsurface data viewer (proprietary project)**: For my current, built a browser-based app using Panel and Holoviews, to support efforts to QC, analyze, and filter geophysical logs provided by service companies. Increased productivity by 200%.
 **>>> Some kind of non-proprietary illustration to go here**
 
+ [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 - **Image augmentation pipeline (proprietary project) for Deep Learning**. For a previous employer (as a free-lance), built an image augmentation tools for classification of faults in seismic data, a typically low bias / high variance problem. Used in production tests with Convolutional Neural Networks, it helped improve performance. These efforts paved the path for the company's subsequent coding and investigations.
 **>>> Screen captures from similar example (augmentor PR) to go here**
 
+ [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 - **App (Hackathon project)**: Sketch2model (_add link to live app here_) - a browser-based app to turn back-of-the-napkin geological sketches into geologic models used to generate synthetic seismic sections. Built around a prototype put together at the [2015 Calgary Hackathon](https://agilescientific.com/blog/2015/5/15/canadian-codeshow), organized by [Agile Scientific](https://github.com/agile-geoscience), with teammates [Evan Saltman](https://github.com/epsalt) and [Elwyn Galloway](https://github.com/scibbatical), and special guest [Ben Bougher](https://github.com/ben-bougher) from Agile, built  You can read about it in [Elwyn's blog post](https://scibbatical.wordpress.com/2016/05/02/sketch2model/) and [this one of mine](https://mycarta.wordpress.com/2016/07/22/sketch2model-linking-edges-with-mathematical-morphology/).
 **>>> Screen captures to go here**
 
+ [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 - **App (Hackathon project)** :FRIDA (_add link to live app here_) - a browser-based app for interactive removal of acquisition footprint noise removal from #D seismic data. Built at the [2021 Hackathon, Transform virtual conference](https://github.com/softwareunderground/transform-2021-hackathon/discussions). **>>> Description, gif animation, screen captures and workflow to go here**
 
+ [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 - **My first package (work very much in progress)**: [cmaptools](https://pypi.org/project/cmaptools/), _a collection of functions to analyze and fix bad colormaps_. This is my project for the tutorialthe [Publishing your first Python package](https://transform.softwareunderground.org/2022-first-python-package/overview), attended at the Software Underground [Transform 2022 virtual conference](https://transform.softwareunderground.org/overview). Github [repo here](https://github.com/mycarta/cmaptools). The goal is to package up in a GUI the technique to fix non-perceptual colormap descibed in this [blog post](https://mycarta.wordpress.com/2018/09/26/how-to-fix-rainbows-and-other-bad-colormaps-using-python/).
 
+ [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 - **Contribution**: created a collection of image processing functions to detect, segment, and rectify the main map from published figures. This was a contribution to [Rainbow](https://github.com/mycarta/rainbow), a tool to recover data from scientific images (primarily of seismic data) with unknown colourmaps, a project by [Matt Hall](https://github.com/kwinkunks/) (read more about it in [Matt's blog post](https://agilescientific.com/blog/2017/5/31/unweaving-the-rainbow) ). A full eaxample of the method is described in [Part I](https://mycarta.wordpress.com/2017/09/10/computer-vision-in-geoscience-recover-seismic-data-from-images-part-1/) and [Part II](https://mycarta.wordpress.com/2017/09/18/computer-vision-in-geoscience-recover-seismic-data-from-images-part-2/) of a series on my blog titled [Computer vision in Geoscience](https://mycarta.wordpress.com/2017/07/30/computer-vision-in-geoscience-recover-seismic-data-from-images-introduction/).
 **>>> Screen captures and workflow to go here**
 
+ [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 - **Knowledge sharing**: [My answer](https://earthscience.stackexchange.com/a/15139/144) to the question **In the northern hemisphere only, what percentage of the surface is land?**  on [Stack Exchange Earth Science Beta](https://earthscience.stackexchange.com). This was a lot of fun combining domain knowledge (about map projections) with a tiny bit of Python programming (using `numpy` arrays) to provide a quantitative solution. It is the mini-project I am proud the most of, and I did it out of curiosity and the pure joy of solving a problem!
  
 - 3D model of the Yoder Tilley tetrahedron for basalt classification. In this visualization the tetrahedron isbroken to separate the Quartz Tholeiite, Oliving Tholeiite, and Alkali Basalt sub-volumes and show the critical planes of silica saturation and silica under-saturation. For the 3D sketchfab version of the model, I used a DXF export and re-rendered using Rhino3D. Check it out [on Sketchfab](https://sketchfab.com/3d-models/basalt-classification-yoder-tilley-tetrahedron-4d5b741603424850af8946c7316d059a)
