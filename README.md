@@ -17,13 +17,13 @@
 2. [Featured blog posts](#Featured-blog-posts)
 3. [Articles published in Geophysical literature](#Articles-published-in-Geophysical-literature)
 4. [Upcoming articles and tutorials](#Upcoming-articles-and-tutorials)
-6. [Portfolio](#Portfolio)
+6. [Projects portfolio](#Projects-portfolio)
+7. [## Exploratory Data Analysis and visualization portfolio](#Eploratory-Data-Analysis-and-visualization-portfolio)
 8. [Coding challenges](#Coding-challenges)
 9. [My personal Data Science roadmap](#My-personal-Data-Science-roadmap)
-10. [Exploratory Data Analysis favourites](#Exploratory-Data-Analysis-favourites)
-11. [Book library](#Book-library)
-12. [Community engagement](#Community-engagement)
-13. [Stuff I would do differently](#Stuff-I-would-do-differently)
+10. [Book library](#Book-library)
+11. [Community engagement](#Community-engagement)
+12. [Stuff I would do differently](#Stuff-I-would-do-differently)
 
 -----
 ## GitHub and Stack Overflow Stats
@@ -51,9 +51,9 @@
 - [Prototype colourmaps for fault interpretation](https://curvenote.com/@swung/52-things-geocomputing/niccoli-prototype-colormaps-for-faults)
 
 -----
-## Portfolio
+## Projects portfolio
 
-### [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
+[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 
 - **App**: [Busting bad colormaps](https://mybinder.org/v2/gh/mycarta/Colormap-distorsions-Panel-app/master?urlpath=%2Fpanel%2FDemonstrate_colormap_distortions_interactive_Panel)  - a web-based `Panel` app to show the effects of using a bad colormap with Geophysical data.  The first version was presented as a lightning talk at the [Transform 2020 virtual conference](https://transform2020.sched.com/) organized by [Software Underground](https://softwareunderground.org/); you can watch a [video recording of the presentation here](https://www.youtube.com/watch?v=rUbvueIF5f8&t=510s). Repo with code [here](https://github.com/mycarta/Colormap-distorsions-Panel-app). 
 <p align="center">
@@ -86,12 +86,27 @@
 **>>> Screen captures and workflow to go here**
 
 - **Knowledge sharing**: [My answer](https://earthscience.stackexchange.com/a/15139/144) to the question **In the northern hemisphere only, what percentage of the surface is land?**  on [Stack Exchange Earth Science Beta](https://earthscience.stackexchange.com). This was a lot of fun combining domain knowledge (about map projections) with a tiny bit of Python programming (using `numpy` arrays) to provide a quantitative solution. It is the mini-project I am proud the most of, and I did it out of curiosity and the pure joy of solving a problem!
- 
-- 3D model of the Yoder Tilley tetrahedron for basalt classification. In this visualization the tetrahedron isbroken to separate the Quartz Tholeiite, Oliving Tholeiite, and Alkali Basalt sub-volumes and show the critical planes of silica saturation and silica under-saturation. For the 3D sketchfab version of the model, I used a DXF export and re-rendered using Rhino3D. Check it out [on Sketchfab](https://sketchfab.com/3d-models/basalt-classification-yoder-tilley-tetrahedron-4d5b741603424850af8946c7316d059a)
+
+-----
+## Exploratory Data Analysis and visualization portfolio
+- Enhanced `seaborn` pairgrid matrix: one of the things I always do when I start looking at a multivariate probelm is to explore possible associations between features and target; one way I've found really useful is to "enhance"  the standard `Seaborn` pairgrid matrix by labeling each bivariate scatter plot with the distance correlation colored by p-value, and also rearrage the plots by the results of clustering analysis, like in the example below (you can read more about it [here](https://mycarta.wordpress.com/2019/04/10/data-exploration-in-python-distance-correlation-and-variable-clustering/)): 
+<p align="center">
+  <img width="500" src="https://mycarta.files.wordpress.com/2019/04/matrix_sorted_predictors.png">
+</p>
+
+- At the [2020 FORCE Machine Predicted Lithology challenge](https://xeek.ai/challenges/force-well-logs/overview), I used Ipywidget's interactive and the awesome [`missingno`](https://github.com/ResidentMario/missingno) library to enable browsing exploration wells in the North Sea using a widget and check the chosen well's curves completeness, on the fly, as shown below (you can read more about it [in here](https://mycarta.wordpress.com/2020/09/19/geoscience-machine-learning-bits-and-bobs-data-completeness), and try the tool in [this Jupyter notebook](https://github.com/mycarta/Force-2020-Machine-Learning-competition_predict-lithology-EDA/blob/master/Interactive_data_inspection_and_visualization_by_well.ipynb)):
+<p align="center">
+  <img width="500" src="https://mycarta.files.wordpress.com/2020/09/missingno_completeness_animation-1.gif">
+</p>
 
 - 3D model of the ternary system quartz – nepheline – kalsilite, also called petrogeny’s “residua” system, which is used to describe the composition of many cooled residual magma. This was an advanced pet project while I was a student in Geology at the University of Rome, Italy. It involved using AutoCAD and 3D Studio Max to create a WRLM file. For the 3D sketchfab version of the model, I used a DXF export and re-rendered using Rhino3D. See the static snapshot below; navigate, inspet, and download the model on [Sketchfab](https://sketchfab.com/3d-models/ternary-system-quartz-nepheline-kalsilite-c8225185f7004ad0a23533ca191b0c6b)
 <p align="center">
 <img width="650" alt="Screen Shot 2022-05-26 at 9 57 02 PM" src="https://user-images.githubusercontent.com/7424763/170626329-7ecdac24-c612-4fd1-921c-8b4ba6788534.png">
+</p>
+
+- 3D model of the Yoder Tilley tetrahedron for basalt classification. In this visualization the tetrahedron isbroken to separate the Quartz Tholeiite, Oliving Tholeiite, and Alkali Basalt sub-volumes and show the critical planes of silica saturation and silica under-saturation. For the 3D sketchfab version of the model, I used a DXF export and re-rendered using Rhino3D. Check it out [on Sketchfab](https://sketchfab.com/3d-models/basalt-classification-yoder-tilley-tetrahedron-4d5b741603424850af8946c7316d059a)
+<p align="center">
+<img width="650" src="https://user-images.githubusercontent.com/7424763/171785612-052ccf71-62c7-42ad-87e5-26a6de6e7b3c.gif">
 </p>
 
 - 3D paths of colormap in CIELAB color space. These are a very useful way to analyze a colormap as they show clearly where abrupt chages in contrast happen; these are responsible for artifacts in mapping when these colormaps are used (more details in [this blog post](https://mycarta.wordpress.com/2013/02/21/perceptual-rainbow-palette-the-method/) ). As example in the two animations below (produced using the [3D color inspector plugin](https://imagej.nih.gov/ij/plugins/color-inspector.html) for ImageJ), notice the may abrupt changes in the path for the classic Jet colormap (top) and compary to the regular piraling path of a more perceptual rainbow, called CubicYF (bottom), which I created:
@@ -173,25 +188,11 @@
 </details>
 
 -----
-
-## Exploratory Data Analysis favourites
-- Enhanced `seaborn` pairgrid matrix: one of the things I always do when I start looking at a multivariate probelm is to explore possible associations between features and target; one way I've found really useful is to "enhance"  the standard `Seaborn` pairgrid matrix by labeling each bivariate scatter plot with the distance correlation colored by p-value, and also rearrage the plots by the results of clustering analysis, like in the example below (you can read more about it [here](https://mycarta.wordpress.com/2019/04/10/data-exploration-in-python-distance-correlation-and-variable-clustering/)): 
-<p align="center">
-  <img width="500" src="https://mycarta.files.wordpress.com/2019/04/matrix_sorted_predictors.png">
-</p>
-
-- At the [2020 FORCE Machine Predicted Lithology challenge](https://xeek.ai/challenges/force-well-logs/overview), I used Ipywidget's interactive and the awesome [`missingno`](https://github.com/ResidentMario/missingno) library to enable browsing exploration wells in the North Sea using a widget and check the chosen well's curves completeness, on the fly, as shown below (you can read more about it [in here](https://mycarta.wordpress.com/2020/09/19/geoscience-machine-learning-bits-and-bobs-data-completeness), and try the tool in [this Jupyter notebook](https://github.com/mycarta/Force-2020-Machine-Learning-competition_predict-lithology-EDA/blob/master/Interactive_data_inspection_and_visualization_by_well.ipynb)):
-<p align="center">
-  <img width="500" src="https://mycarta.files.wordpress.com/2020/09/missingno_completeness_animation-1.gif">
-</p>
-
------
 ## Book library
 It looks like it has become very trendy these days to post a picture your datascience library. I admit it, I could not resist doing it too! Here is my collection of books, with a focus on computative geoscience and visualization (… and keeping myself honest about what I have not read yet…)
 <p align="center">
   <img width="650" src="https://user-images.githubusercontent.com/7424763/170873518-fdae9db3-9b94-4c43-9784-2199331f5373.PNG">
 </p>
-
 
 -----
 ## Community engagement
