@@ -137,8 +137,7 @@
 - [x] [Test-Driven Development With PyTest](https://realpython.com/certificates/96ecff0f-2d92-422f-b3d8-f6790a03f872/), Real Python
 - [ ] Raising and Handling Python Exceptions, Real Python
 - [x] [Enhance your Python unit testing using Coverage](https://www.coursera.org/account/accomplishments/certificate/TGYBNFKE3DJW), Coursera Project Network
-  
-◻️ Software Debugging, Coursera
+- [ ] Software Debugging, Coursera
 
 ### Foundations of Data Science [Professional Certificate](https://credentials.edx.org/credentials/3ff1fe712ebe4e6bb47093928883d765/) (edX)
 - [x] [Computational Thinking with Python](https://courses.edx.org/certificates/a5d76bfe8eff4a43bfc70c356745b3f6)
@@ -148,7 +147,7 @@
 ### Intermediate Data Science
 - [x] [Pandas](https://www.kaggle.com/learn/certification/mycarta/pandas), Kaggle
 - [x] [15 Mistakes to Avoid in Data Science](https://www.linkedin.com/learning/certificates/80c3a9379c2a96b55083dab7f651cf99ea2b01d52c56ea4684e22befeb06cfdb?trk=share_certificate), LinkedIn Learning
-- [x] Intermediate Machine Learning, Kaggle
+- [ ] Intermediate Machine Learning, Kaggle
 - [ ] Refactoring Pandas, Meta Snake
 - [ ] Web Scraping With Beautiful Soup and Python, Real Python
 - [ ] Time Series, Kaggle
@@ -161,9 +160,9 @@
 - [ ] Spotfire - The Complete TIBCO Spotfire Course, Udemy
 
 ### GIS and Geospatial
-- [x] Geospatial Analysis, Kaggle
+- [ ] Geospatial Analysis, Kaggle
 - [x] [Climate Geospatial Analysis in Python with Xarray](https://www.coursera.org/account/accomplishments/certificate/VMKXGAQKGGFP),  Coursera Project Network
-- [x] Monitoring Changes in Surface Water Using Satellite Image Data, Manning Live Project
+- [ ] Monitoring Changes in Surface Water Using Satellite Image Data, Manning Live Project
 - [ ] Spatial Data Science: The New Frontier in Analytics. Esri Academy
 - [ ] ARSET - Fundamentals of Remote Sensing, NASA Applied Science
 - [ ] ARSET - Introduction to Synthetic Aperture Radar, NASA Applied Science
@@ -174,7 +173,7 @@
 - [x] [AI for Everyone](https://www.coursera.org/account/accomplishments/certificate/W9V3WB6GADC4), Coursera
 - [x] [Machine learning explainability](https://www.kaggle.com/learn/certification/mycarta/machine-learning-explainability), Kaggle
 - [ ] Intro to AI Ethics, Kaggle
-- [x] Intro to Deep Learning, Kaggle
+- [ ] Intro to Deep Learning, Kaggle
 - [ ] Computer Vision, Kaggle
 - [ ] Practical Deep Learning for Coders, fastai
 - [ ] Practical Data Ethics, fastai
