@@ -20,7 +20,7 @@
 6. [Projects portfolio](#Projects-portfolio)
 7. [Exploratory Data Analysis and visualization portfolio](#Exploratory-Data-Analysis-and-visualization-portfolio)
 8. [Coding challenges](#Coding-challenges)
-9. [My personal Data Science roadmap](#My-personal-Data-Science-roadmap)
+9. [My Data Science continuous learning roadmap](#My-Data-Science-continuous-learning-roadmap)
 10. [Book library](#Book-library)
 11. [Community engagement](#Community-engagement)
 12. [Stuff I would do differently](#Stuff-I-would-do-differently)
@@ -128,7 +128,7 @@
 </p>
 
 -----
-## My personal Data Science roadmap
+## My Data Science continuous learning roadmap
 <details>
   <summary>Click here to expand the roadmap section</summary>
 
