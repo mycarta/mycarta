@@ -133,15 +133,11 @@
   <summary>Click here to expand the roadmap section</summary>
   
 ### Python development, unit testing, and debugging
-&#10003; Introduction to Visual Studio Code, Real Python
-  
-&#10004; [Test-Driven Development With PyTest](https://realpython.com/certificates/96ecff0f-2d92-422f-b3d8-f6790a03f872/), Real Python
-  
-&#10003; Raising and Handling Python Exceptions, Real Python
-  
-&#10004; [Enhance your Python unit testing using Coverage](https://www.coursera.org/account/accomplishments/certificate/TGYBNFKE3DJW), Coursera Project Network
-  
-  Software Debugging, Coursera
+- [x] Introduction to Visual Studio Code, Real Python
+:ballot_box_with_check: [Test-Driven Development With PyTest](https://realpython.com/certificates/96ecff0f-2d92-422f-b3d8-f6790a03f872/), Real Python
+- [x] Raising and Handling Python Exceptions, Real Python
+:ballot_box_with_check: [Enhance your Python unit testing using Coverage](https://www.coursera.org/account/accomplishments/certificate/TGYBNFKE3DJW), Coursera Project Network
+- [ ] Software Debugging, Coursera
 
 ### Foundations of Data Science [Professional Certificate](https://credentials.edx.org/credentials/3ff1fe712ebe4e6bb47093928883d765/) (edX)
 - [x] [Computational Thinking with Python](https://courses.edx.org/certificates/a5d76bfe8eff4a43bfc70c356745b3f6)
