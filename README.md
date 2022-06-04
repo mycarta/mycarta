@@ -89,9 +89,9 @@
 
 -----
 ## Exploratory Data Analysis and visualization portfolio
-- Enhanced `seaborn` pairgrid matrix: one of the things I always do when I start looking at a multivariate probelm is to explore possible associations between features and target; one way I've found really useful is to "enhance"  the standard `Seaborn` pairgrid matrix by labeling each bivariate scatter plot with the distance correlation colored by p-value, and also rearrage the plots by the results of clustering analysis, like in the example below (you can read more about it [here](https://mycarta.wordpress.com/2019/04/10/data-exploration-in-python-distance-correlation-and-variable-clustering/)): 
+- Enhanced `seaborn` pairgrid matrix: one of the things I always do when I start looking at a multivariate probelm is to explore possible associations between features and target; one way I've found really useful is to "enhance"  the standard `Seaborn` pairgrid matrix by labeling each bivariate scatter plot with the [distance correlation](https://en.wikipedia.org/wiki/Distance_correlation) colored by p-value, and also rearrage the plots by the results of clustering analysis, like in the example below (you can read more about it [here](https://mycarta.wordpress.com/2019/04/10/data-exploration-in-python-distance-correlation-and-variable-clustering/)): 
 <p align="center">
-  <img width="500" src="https://mycarta.files.wordpress.com/2019/04/matrix_sorted_predictors.png">
+  <img width="400" src="https://mycarta.files.wordpress.com/2019/04/matrix_sorted_predictors.png">
 </p>
 
 - At the [2020 FORCE Machine Predicted Lithology challenge](https://xeek.ai/challenges/force-well-logs/overview), I used Ipywidget's interactive and the awesome [`missingno`](https://github.com/ResidentMario/missingno) library to enable browsing exploration wells in the North Sea using a widget and check the chosen well's curves completeness, on the fly, as shown below (you can read more about it [in here](https://mycarta.wordpress.com/2020/09/19/geoscience-machine-learning-bits-and-bobs-data-completeness), and try the tool in [this Jupyter notebook](https://github.com/mycarta/Force-2020-Machine-Learning-competition_predict-lithology-EDA/blob/master/Interactive_data_inspection_and_visualization_by_well.ipynb)):
