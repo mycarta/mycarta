@@ -156,7 +156,8 @@
 - [ ] SQL for Data Analysis, Coursera
  
 ### Analytics
-- [x] [Spotfire Essentials, I & II](https://support.ruths.ai/support/solutions/articles/6000191001-kickstart-how-to-schedule-training), Ruths.ai (now Petro.ai)
+- [x] [Spotfire Essentials I](https://support.ruths.ai/support/solutions/articles/6000191001-kickstart-how-to-schedule-training), Ruths.ai (now Petro.ai)
+- [x] [Spotfire Essentials II](https://support.ruths.ai/support/solutions/articles/6000191001-kickstart-how-to-schedule-training), Ruths.ai (now Petro.ai)
 - [ ] Spotfire - The Complete TIBCO Spotfire Course, Udemy
 
 ### GIS and Geospatial
