@@ -132,6 +132,10 @@
 <details>
   <summary>Click here to expand the roadmap section</summary>
 
+  
+:heavy_check_mark: |  :white_check_mark:
+  
+  
 ### Python development, unit testing, and debugging
 - [x] Introduction to Visual Studio Code, Real Python
 - [x] [Test-Driven Development With PyTest](https://realpython.com/certificates/96ecff0f-2d92-422f-b3d8-f6790a03f872/), Real Python
