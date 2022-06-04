@@ -132,9 +132,7 @@
 <details>
   <summary>Click here to expand the roadmap section</summary>
 
-  
-:heavy_check_mark: |  :white_check_mark:
-  
+&#10003;
   
 ### Python development, unit testing, and debugging
 - [x] Introduction to Visual Studio Code, Real Python
