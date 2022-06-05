@@ -82,7 +82,7 @@
   <img width="600" src="https://user-images.githubusercontent.com/7424763/172074830-f9cf1ed1-b899-4823-8574-d4ac0252f43b.png">
 </p>
 Also, watch Matt’s talk (very insightful and very entertaining) from the 2017 Calgary Geoconvention below:
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE " target="_blank"><img src="https://user-images.githubusercontent.com/7424763/172075215-75d9b1fb-0202-4f0c-b170-4f12a66cf890.png" alt="Recovering data from seismic images" width="500" align="center" /></a>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE " target="_blank"><img src="https://user-images.githubusercontent.com/7424763/172075215-75d9b1fb-0202-4f0c-b170-4f12a66cf890.png" alt="Recovering data from seismic images" width="500" align="center"/></a>
 
 - **Knowledge sharing**: [My answer](https://earthscience.stackexchange.com/a/15139/144) to the question **In the northern hemisphere only, what percentage of the surface is land?**  on [Stack Exchange Earth Science Beta](https://earthscience.stackexchange.com). This was a lot of fun combining domain knowledge (about map projections) with a tiny bit of Python programming (using `numpy` arrays) to provide a quantitative solution. It is the mini-project I am proud the most of, and I did it out of curiosity and the pure joy of solving a problem!
 
