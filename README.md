@@ -124,9 +124,10 @@
 
 -----
 ## My Data Science continuous learning roadmap
-```diff
 <details>
+```diff
   <summary>Click here to expand the roadmap section</summary> 
+  
 ```
 ### Python development, unit testing, and debugging
 - [ ] Introduction to Visual Studio Code, Real Python
