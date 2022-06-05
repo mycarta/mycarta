@@ -84,7 +84,7 @@
 Also, watch Matt’s talk (very insightful and very entertaining) from the 2017 Calgary Geoconvention below:
 
 <p align="center">
-  [![Recovering data from seismic images](https://user-images.githubusercontent.com/7424763/172075215-75d9b1fb-0202-4f0c-b170-4f12a66cf890.png)](https://www.youtube.com/watch?v=7DnudEsb6hU "Recovering data from seismic images")
+  <[![Recovering data from seismic images](https://user-images.githubusercontent.com/7424763/172075215-75d9b1fb-0202-4f0c-b170-4f12a66cf890.png)](https://www.youtube.com/watch?v=7DnudEsb6hU "Recovering data from seismic images")>
 </p>
 
 - **Knowledge sharing**: [My answer](https://earthscience.stackexchange.com/a/15139/144) to the question **In the northern hemisphere only, what percentage of the surface is land?**  on [Stack Exchange Earth Science Beta](https://earthscience.stackexchange.com). This was a lot of fun combining domain knowledge (about map projections) with a tiny bit of Python programming (using `numpy` arrays) to provide a quantitative solution. It is the mini-project I am proud the most of, and I did it out of curiosity and the pure joy of solving a problem!
