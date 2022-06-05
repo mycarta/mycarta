@@ -69,9 +69,6 @@
   <img width="650" src="https://mycarta.files.wordpress.com/2019/03/workflow.png">
 </p>
 
-- **Subsurface data viewer (proprietary project)**: For my current, built a browser-based app using Panel and Holoviews, to support efforts to QC, analyze, and filter geophysical logs provided by service companies. Increased productivity by 200%.
-**>>> Some kind of non-proprietary illustration to go here**
-
 - **Image augmentation pipeline (proprietary project) for Deep Learning**. For a previous employer (as a free-lance), built an image augmentation tools for classification of faults in seismic data, a typically low bias / high variance problem. Used in production tests with Convolutional Neural Networks, it helped improve performance. These efforts paved the path for the company's subsequent coding and investigations.
 **>>> Screen captures from similar example (augmentor PR) to go here**
 
@@ -79,8 +76,6 @@
 **>>> Screen captures to go here**
 
 - **App (Hackathon project)** :FRIDA (_add link to live app here_) - a browser-based app for interactive removal of acquisition footprint noise removal from #D seismic data. Built at the [2021 Hackathon, Transform virtual conference](https://github.com/softwareunderground/transform-2021-hackathon/discussions). **>>> Description, gif animation, screen captures and workflow to go here**
-
-- **My first package (work very much in progress)**: [cmaptools](https://pypi.org/project/cmaptools/), _a collection of functions to analyze and fix bad colormaps_. This is my project for the tutorialthe [Publishing your first Python package](https://transform.softwareunderground.org/2022-first-python-package/overview), attended at the Software Underground [Transform 2022 virtual conference](https://transform.softwareunderground.org/overview). Github [repo here](https://github.com/mycarta/cmaptools). The goal is to package up in a GUI the technique to fix non-perceptual colormap descibed in this [blog post](https://mycarta.wordpress.com/2018/09/26/how-to-fix-rainbows-and-other-bad-colormaps-using-python/).
 
 - **Contribution**: created a collection of image processing functions to detect, segment, and rectify the main map from published figures. This was a contribution to [Rainbow](https://github.com/mycarta/rainbow), a tool to recover data from scientific images (primarily of seismic data) with unknown colourmaps, a project by [Matt Hall](https://github.com/kwinkunks/) (read more about it in [Matt's blog post](https://agilescientific.com/blog/2017/5/31/unweaving-the-rainbow) ). A full eaxample of the method is described in [Part I](https://mycarta.wordpress.com/2017/09/10/computer-vision-in-geoscience-recover-seismic-data-from-images-part-1/) and [Part II](https://mycarta.wordpress.com/2017/09/18/computer-vision-in-geoscience-recover-seismic-data-from-images-part-2/) of a series on my blog titled [Computer vision in Geoscience](https://mycarta.wordpress.com/2017/07/30/computer-vision-in-geoscience-recover-seismic-data-from-images-introduction/).
 **>>> Screen captures and workflow to go here**
