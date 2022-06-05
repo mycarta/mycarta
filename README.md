@@ -184,6 +184,7 @@
 ### Communication tools
 - [x] [Enhance Organizational Communications with Slack](https://www.coursera.org/account/accomplishments/certificate/JEBLDLJQLSZN), Coursera Project Network
 </details>
+📕
 
 -----
 ## Book library
@@ -191,7 +192,7 @@ It looks like it has become very trendy these days to post a picture your datasc
 <p align="center">
   <img width="650" src="https://user-images.githubusercontent.com/7424763/170873518-fdae9db3-9b94-4c43-9784-2199331f5373.PNG">
 </p>
-📕
+
 -----
 ## Community engagement
 - Mentor, Canadian Society of Exploration Geophysicists (volunteer). From 2010 to 2020: mentored in Geophysics - and more recently in both Geophysics and Data Science - 3rd-4th year undergraduate students, and graduate students.
