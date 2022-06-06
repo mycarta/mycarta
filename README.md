@@ -74,8 +74,8 @@ I've worked on two image augmentation pipelines to increase the size of training
   - I developed the first pipeline working with the images from the [2018 TGS Salt Identification Challenge on Kaggle](https://www.kaggle.com/c/tgs-salt-identification-challenge/data) in mind. Although I did not participate in the competition, having considere at length the problem of segmenting salt deposits, I came up with the idea of an "adversarial" augmentation strategy, in which not only the size of the training set is increased, but the task is rendered much harder with the image transformation. Some examples are shown below:
 <p align="center">
   <img width="650" src="https://user-images.githubusercontent.com/7424763/172077533-ed00056c-0100-45a8-88ab-404ced0dc9ad.png">
-</p>
-Preliminar tests (unpublished) are encouraging and I am currently working at open-sourcing my functions by way of a PR to the [Augmentor package](https://augmentor.readthedocs.io/en/master/index.html), so that where operations can be added not only in a sequence, but also stochastically with a probability value assigned by the user for each operation.
+  Preliminar tests (unpublished) are encouraging and I am currently working at open-sourcing my functions by way of a PR to the [Augmentor package](https://augmentor.readthedocs.io/en/master/index.html), so that where operations can be added not only in a sequence, but also stochastically with a probability value assigned by the user for each operation.
+  </p>
 
   - I developed the second pipeline to increase the size of training sets for classification of geologic edges in seismic data. The work was commissioned by a company (as a free-lance) and I am not able to share any detail on the image manipulations used. I have permission, however, to disclose that in production tests with Convolutional Neural Networks the approach helped improve performance, and that these efforts paved the path for the company's subsequent coding and investigations.
 
