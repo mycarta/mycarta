@@ -84,6 +84,7 @@ Blog posts:
   - [sketch2model](https://mycarta.wordpress.com/2016/05/04/sketch2model)
   - [sketch2model – sketch image enhancements](https://mycarta.wordpress.com/2016/05/25/sketch2model-sketch-image-enhancements)
   - [sketch2model – linking edges with mathematical morphology](https://mycarta.wordpress.com/2016/07/22/sketch2model-linking-edges-with-mathematical-morphology)
+
 App screenshot:
 <p align="center">
   <img width="650" src="https://user-images.githubusercontent.com/7424763/172092084-f71bc9d9-5547-4bff-9bbe-ef1ed4a6335b.png">
