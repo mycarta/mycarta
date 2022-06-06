@@ -82,6 +82,7 @@ I've worked on two image augmentation pipelines to increase the size of training
   <img width="550" src="https://raw.githubusercontent.com/mycarta/sketch2model/master/workflow.PNG">
 </p>
 The web app was Built around a prototype put together at the [2015 Calgary Geoscience Hackathon](https://csegrecorder.com/articles/view/open-collaboration-hackathons-and-tomorrows-subsurface-software), organized by [Agile Scientific](https://github.com/agile-geoscience), with teammates [Evan Saltman](https://github.com/epsalt) and [Elwyn Galloway](https://github.com/scibbatical), and special guest [Ben Bougher](https://github.com/ben-bougher) from Agile. The original idea for the prototype was proposed by Elwyn at the Hackathon, was to make an app that would turn an image of geological sketch into a model. The implementation of the finished app involves using morphological filtering and other image processing methods to enhance the sketch and convert it into a model with discrete bodies to be passed to a tool akin to Agile's [modelr.io](https://www.modelr.io/) to create a synthetic.
+
 Blog posts:
 
 [sketch2model](https://mycarta.wordpress.com/2016/05/04/sketch2model)
@@ -89,11 +90,11 @@ Blog posts:
 [sketch2model – sketch image enhancements](https://mycarta.wordpress.com/2016/05/25/sketch2model-sketch-image-enhancements)
 
 [sketch2model – linking edges with mathematical morphology](https://mycarta.wordpress.com/2016/07/22/sketch2model-linking-edges-with-mathematical-morphology)
+
 App screenshot:
 <p align="center">
   <img width="500" src="https://user-images.githubusercontent.com/7424763/172092084-f71bc9d9-5547-4bff-9bbe-ef1ed4a6335b.png">
 </p>
-
 
 - **Web app (Hackathon project)** :FRIDA (_add link to live app here_) - a browser-based app for interactive removal of acquisition footprint noise removal from #D seismic data. Built at the [2021 Hackathon, Transform virtual conference](https://github.com/softwareunderground/transform-2021-hackathon/discussions). **>>> Description, gif animation, screen captures and workflow to go here**
 
