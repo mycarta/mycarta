@@ -76,15 +76,15 @@ I've worked on two image augmentation pipelines to increase the size of training
 <p align="center">
   <img width="750" src="https://user-images.githubusercontent.com/7424763/172077533-ed00056c-0100-45a8-88ab-404ced0dc9ad.png">
 </p>
------
+
 
 - **Web app (Hackathon project)**: [Sketch2model](https://github.com/epsalt/sketch2model-web) - a browser-based app to turn back-of-the-napkin geological sketches into geologic models that can then be used to generate synthetic seismic sections: 
 <p align="center">
   <img width="550" src="https://raw.githubusercontent.com/mycarta/sketch2model/master/workflow.PNG">
 </p>
-  The web app was Built around a prototype put together at the [2015 Calgary Geoscience Hackathon](https://csegrecorder.com/articles/view/open-collaboration-hackathons-and-tomorrows-subsurface-software), organized by [Agile Scientific](https://github.com/agile-geoscience), with team mates [Evan Saltman](https://github.com/epsalt) and [Elwyn Galloway](https://github.com/scibbatical), and special guest [Ben Bougher](https://github.com/ben-bougher) from Agile. The original idea for the prototype was proposed by Elwyn at the Hackathon, was to make an app that would turn an image of geological sketch (for example one taken from a boardmeeting whiteboard) into a digital rock model. The implementation of the finished app involves using morphological filtering and other image processing methods to enhance the sketch and convert it into a model with discrete bodies to be passed to a tool akin to Agile's [modelr.io](https://www.modelr.io/) to create and investigate a synthetic seismic model.
+The web app was Built around a prototype put together at the [2015 Calgary Geoscience Hackathon](https://csegrecorder.com/articles/view/open-collaboration-hackathons-and-tomorrows-subsurface-software), organized by [Agile Scientific](https://github.com/agile-geoscience), with team mates [Evan Saltman](https://github.com/epsalt) and [Elwyn Galloway](https://github.com/scibbatical), and special guest [Ben Bougher](https://github.com/ben-bougher) from Agile. The original idea for the prototype was proposed by Elwyn at the Hackathon, was to make an app that would turn an image of geological sketch (for example one taken from a boardmeeting whiteboard) into a digital rock model. The implementation of the finished app involves using morphological filtering and other image processing methods to enhance the sketch and convert it into a model with discrete bodies to be passed to a tool akin to Agile's [modelr.io](https://www.modelr.io/) to create and investigate a synthetic seismic model.
 
-  Blog posts:
+Blog posts:
 
 [sketch2model](https://mycarta.wordpress.com/2016/05/04/sketch2model)
 
@@ -96,7 +96,6 @@ I've worked on two image augmentation pipelines to increase the size of training
 <p align="center">
   <img width="600" src="https://user-images.githubusercontent.com/7424763/172092084-f71bc9d9-5547-4bff-9bbe-ef1ed4a6335b.png">
 </p>
------
 
 - **Web app (Hackathon project)** :FRIDA (_restore live app and add link here_) - a browser-based app for interactive removal of acquisition footprint noise removal from 3D seismic data. 
 
@@ -113,7 +112,6 @@ And the we set out to work. We were really impressed with the final result, see 
 <p align="center">
   <img width="650" src="https://user-images.githubusercontent.com/7424763/172095674-df9d49eb-8d37-4756-8543-ef24f48b3cce.gif">
 </p>
------
 
 - **Collaboration project**: [Rainbow][https://github.com/mycarta/rainbow](https://agilescientific.com/blog/2017/5/31/unweaving-the-rainbow). For this project with [Matt Hall](https://github.com/kwinkunks/), I created a pipeline of image processing routines to enhance, clean-up, segment, and rectify the main map from published figures. This was a necessary preprocessing stage for Rainbow, an online tool for automagic recovery data from scientific images with unknown colourmaps. An example of the image processing work is shown is sketched below, with full list of operations in the intro to my blog series [Computer vision in Geoscience](https://mycarta.wordpress.com/2017/07/30/computer-vision-in-geoscience-recover-seismic-data-from-images-introduction/), and detailed methodology described in [Part I](https://mycarta.wordpress.com/2017/09/10/computer-vision-in-geoscience-recover-seismic-data-from-images-part-1/) and [Part II](https://mycarta.wordpress.com/2017/09/18/computer-vision-in-geoscience-recover-seismic-data-from-images-part-2/).
 <p align="center">
