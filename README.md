@@ -109,9 +109,8 @@ At the [2021 Hackathon, Transform virtual conference](https://github.com/softwar
 And the we set out to work. We were really impressed with the final result, see animation below:
 
 <p align="center">
-  <img width="650" src="https://user-images.githubusercontent.com/7424763/172095248-26421b39-d8b7-4013-a89f-84da4dbd8f0b.gif">
+  <img width="650" src="https://user-images.githubusercontent.com/7424763/172095674-df9d49eb-8d37-4756-8543-ef24f48b3cce.gif">
 </p>
-
 
 - **Collaboration project**: [Rainbow][https://github.com/mycarta/rainbow](https://agilescientific.com/blog/2017/5/31/unweaving-the-rainbow). For this project with [Matt Hall](https://github.com/kwinkunks/), I created a pipeline of image processing routines to enhance, clean-up, segment, and rectify the main map from published figures. This was a necessary preprocessing stage for Rainbow, an online tool for automagic recovery data from scientific images with unknown colourmaps. An example of the image processing work is shown is sketched below, with full list of operations in the intro to my blog series [Computer vision in Geoscience](https://mycarta.wordpress.com/2017/07/30/computer-vision-in-geoscience-recover-seismic-data-from-images-introduction/), and detailed methodology described in [Part I](https://mycarta.wordpress.com/2017/09/10/computer-vision-in-geoscience-recover-seismic-data-from-images-part-1/) and [Part II](https://mycarta.wordpress.com/2017/09/18/computer-vision-in-geoscience-recover-seismic-data-from-images-part-2/).
 <p align="center">
