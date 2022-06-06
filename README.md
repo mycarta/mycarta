@@ -81,7 +81,7 @@ I've worked on two image augmentation pipelines to increase the size of training
 <p align="center">
   <img width="550" src="https://raw.githubusercontent.com/mycarta/sketch2model/master/workflow.PNG">
 </p>
-The web app was Built around a prototype put together at the [2015 Calgary Geoscience Hackathon](https://csegrecorder.com/articles/view/open-collaboration-hackathons-and-tomorrows-subsurface-software), organized by [Agile Scientific](https://github.com/agile-geoscience), with teammates [Evan Saltman](https://github.com/epsalt) and [Elwyn Galloway](https://github.com/scibbatical), and special guest [Ben Bougher](https://github.com/ben-bougher) from Agile. The original idea for the prototype was proposed by Elwyn at the Hackathon, was to make an app that would turn an image of geological sketch into a model. The implementation of the finished app involves using morphological filtering and other image processing methods to enhance the sketch and convert it into a model with discrete bodies to be passed to a tool akin to Agile's [modelr.io](https://www.modelr.io/) to create a synthetic.
+The web app was Built around a prototype put together at the [2015 Calgary Geoscience Hackathon](https://csegrecorder.com/articles/view/open-collaboration-hackathons-and-tomorrows-subsurface-software), organized by [Agile Scientific](https://github.com/agile-geoscience), with team mates [Evan Saltman](https://github.com/epsalt) and [Elwyn Galloway](https://github.com/scibbatical), and special guest [Ben Bougher](https://github.com/ben-bougher) from Agile. The original idea for the prototype was proposed by Elwyn at the Hackathon, was to make an app that would turn an image of geological sketch (for example one taken from a boardmeeting whiteboard) into a digital rock model. The implementation of the finished app involves using morphological filtering and other image processing methods to enhance the sketch and convert it into a model with discrete bodies to be passed to a tool akin to Agile's [modelr.io](https://www.modelr.io/) to create and investigate a synthetic seismic model.
 
 Blog posts:
 
@@ -96,7 +96,22 @@ App screenshot:
   <img width="600" src="https://user-images.githubusercontent.com/7424763/172092084-f71bc9d9-5547-4bff-9bbe-ef1ed4a6335b.png">
 </p>
 
-- **Web app (Hackathon project)** :FRIDA (_add link to live app here_) - a browser-based app for interactive removal of acquisition footprint noise removal from #D seismic data. Built at the [2021 Hackathon, Transform virtual conference](https://github.com/softwareunderground/transform-2021-hackathon/discussions). **>>> Description, gif animation, screen captures and workflow to go here**
+- **Web app (Hackathon project)** :FRIDA (_restore live app and add link here_) - a browser-based app for interactive removal of acquisition footprint noise removal from 3D seismic data. 
+- 
+- Prior to the hackathon I had done a lot of work imagining and protptyping a tool to remove acquisition footprint from 2D seismic slices (this has been my longest-lived side project) and eventually asked [Elwyn](https://github.com/scibbatical) to participate. If you are curious about the whole background, please read [Chapter 39](https://curvenote.com/@swung/52-things-geocomputing/niccoli-keep-on-improving-geocomputing-projects) of the upcoming [52 Things You Should Know About Geocomputing](https://github.com/softwareunderground/52things) and then head over to my [Tutorial notebook](https://github.com/mycarta/t21-hack-footprint/blob/main/52-things_geocomputing_book_FFT_tutorial.ipynb). For a definition of acquisition footprint, please read the [SEG Wiki](https://wiki.seg.org/wiki/Dictionary:Acquisition_footprint_or_imprint), and to see some published industry examples, read this [blog post](https://mycarta.wordpress.com/2017/08/13/what-is-acquisition-footprint-noise-in-seismic-data). 
+
+At the [2021 Hackathon, Transform virtual conference](https://github.com/softwareunderground/transform-2021-hackathon/discussions) we took the existing tool to the next level with team mates [@leocd91](https://github.com/leocd91), [@WesleyTheGeolien](https://github.com/WesleyTheGeolien),and [@markogauk](markogauk). We spent significant efforts on brainstorming several approaches for how to turn the tool in a production caliber app; check this screen shot of our MIRO board:
+
+<p align="center">
+  <img width="650" src="https://user-images.githubusercontent.com/7424763/172094993-062a2f19-16ca-49bf-9b77-00523aa422f4.png">
+</p>
+
+And the we set out to work. We were really impressed with the final result, see animation below:
+
+<p align="center">
+  <img width="650" src="https://user-images.githubusercontent.com/7424763/172095248-26421b39-d8b7-4013-a89f-84da4dbd8f0b.gif">
+</p>
+
 
 - **Collaboration project**: [Rainbow][https://github.com/mycarta/rainbow](https://agilescientific.com/blog/2017/5/31/unweaving-the-rainbow). For this project with [Matt Hall](https://github.com/kwinkunks/), I created a pipeline of image processing routines to enhance, clean-up, segment, and rectify the main map from published figures. This was a necessary preprocessing stage for Rainbow, an online tool for automagic recovery data from scientific images with unknown colourmaps. An example of the image processing work is shown is sketched below, with full list of operations in the intro to my blog series [Computer vision in Geoscience](https://mycarta.wordpress.com/2017/07/30/computer-vision-in-geoscience-recover-seismic-data-from-images-introduction/), and detailed methodology described in [Part I](https://mycarta.wordpress.com/2017/09/10/computer-vision-in-geoscience-recover-seismic-data-from-images-part-1/) and [Part II](https://mycarta.wordpress.com/2017/09/18/computer-vision-in-geoscience-recover-seismic-data-from-images-part-2/).
 <p align="center">
