@@ -84,10 +84,10 @@ Blog posts:
   - [sketch2model](https://mycarta.wordpress.com/2016/05/04/sketch2model)
   - [sketch2model – sketch image enhancements](https://mycarta.wordpress.com/2016/05/25/sketch2model-sketch-image-enhancements)
   - [sketch2model – linking edges with mathematical morphology](https://mycarta.wordpress.com/2016/07/22/sketch2model-linking-edges-with-mathematical-morphology)
-
 App screenshot:
-
-<img width="1932" alt="Screen Shot 2022-06-05 at 5 34 38 PM" src="https://user-images.githubusercontent.com/7424763/172092024-5dfe687a-b339-4a2f-9932-c2b1656d7fcb.png">
+<p align="center">
+  <img width="650" src="https://user-images.githubusercontent.com/7424763/172092084-f71bc9d9-5547-4bff-9bbe-ef1ed4a6335b.png">
+</p>
 
 - **Web app (Hackathon project)** :FRIDA (_add link to live app here_) - a browser-based app for interactive removal of acquisition footprint noise removal from #D seismic data. Built at the [2021 Hackathon, Transform virtual conference](https://github.com/softwareunderground/transform-2021-hackathon/discussions). **>>> Description, gif animation, screen captures and workflow to go here**
 
