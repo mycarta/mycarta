@@ -93,7 +93,7 @@ Blog posts:
 
 App screenshot:
 <p align="center">
-  <img width="500" src="https://user-images.githubusercontent.com/7424763/172092084-f71bc9d9-5547-4bff-9bbe-ef1ed4a6335b.png">
+  <img width="600" src="https://user-images.githubusercontent.com/7424763/172092084-f71bc9d9-5547-4bff-9bbe-ef1ed4a6335b.png">
 </p>
 
 - **Web app (Hackathon project)** :FRIDA (_add link to live app here_) - a browser-based app for interactive removal of acquisition footprint noise removal from #D seismic data. Built at the [2021 Hackathon, Transform virtual conference](https://github.com/softwareunderground/transform-2021-hackathon/discussions). **>>> Description, gif animation, screen captures and workflow to go here**
