@@ -59,7 +59,6 @@
 <p align="center">
   <img width="650" src="https://github.com/mycarta/Colormap-distorsions-Panel-app/blob/master/for%20readme/new_gif.gif">
 </p>
------
 
 - **Tutorial**: [Working with 3D seismic data in Python using segyio, numpy, Scikit-image](https://github.com/equinor/segyio-notebooks/blob/master/notebooks/basic/01_basic_tutorial.ipynb). A notebook to demonstrate how to:
     - read a seismic amplitude volume and a seismic similarity volume as `numpy` arrays using `segyio`
@@ -69,7 +68,6 @@
 <p align="center">
   <img width="650" src="https://mycarta.files.wordpress.com/2019/03/workflow.png">
 </p>
------
 
 - **Image augmentation pipelines for Deep Learning**. 
 I've worked on two image augmentation pipelines to increase the size of training sets for classification of geologic edges in seismic data, a typically low bias / high variance problem. 
@@ -84,9 +82,9 @@ I've worked on two image augmentation pipelines to increase the size of training
 <p align="center">
   <img width="550" src="https://raw.githubusercontent.com/mycarta/sketch2model/master/workflow.PNG">
 </p>
-The web app was Built around a prototype put together at the [2015 Calgary Geoscience Hackathon](https://csegrecorder.com/articles/view/open-collaboration-hackathons-and-tomorrows-subsurface-software), organized by [Agile Scientific](https://github.com/agile-geoscience), with team mates [Evan Saltman](https://github.com/epsalt) and [Elwyn Galloway](https://github.com/scibbatical), and special guest [Ben Bougher](https://github.com/ben-bougher) from Agile. The original idea for the prototype was proposed by Elwyn at the Hackathon, was to make an app that would turn an image of geological sketch (for example one taken from a boardmeeting whiteboard) into a digital rock model. The implementation of the finished app involves using morphological filtering and other image processing methods to enhance the sketch and convert it into a model with discrete bodies to be passed to a tool akin to Agile's [modelr.io](https://www.modelr.io/) to create and investigate a synthetic seismic model.
+  The web app was Built around a prototype put together at the [2015 Calgary Geoscience Hackathon](https://csegrecorder.com/articles/view/open-collaboration-hackathons-and-tomorrows-subsurface-software), organized by [Agile Scientific](https://github.com/agile-geoscience), with team mates [Evan Saltman](https://github.com/epsalt) and [Elwyn Galloway](https://github.com/scibbatical), and special guest [Ben Bougher](https://github.com/ben-bougher) from Agile. The original idea for the prototype was proposed by Elwyn at the Hackathon, was to make an app that would turn an image of geological sketch (for example one taken from a boardmeeting whiteboard) into a digital rock model. The implementation of the finished app involves using morphological filtering and other image processing methods to enhance the sketch and convert it into a model with discrete bodies to be passed to a tool akin to Agile's [modelr.io](https://www.modelr.io/) to create and investigate a synthetic seismic model.
 
-Blog posts:
+  Blog posts:
 
 [sketch2model](https://mycarta.wordpress.com/2016/05/04/sketch2model)
 
@@ -94,7 +92,7 @@ Blog posts:
 
 [sketch2model – linking edges with mathematical morphology](https://mycarta.wordpress.com/2016/07/22/sketch2model-linking-edges-with-mathematical-morphology)
 
-App screenshot:
+  App screenshot:
 <p align="center">
   <img width="600" src="https://user-images.githubusercontent.com/7424763/172092084-f71bc9d9-5547-4bff-9bbe-ef1ed4a6335b.png">
 </p>
