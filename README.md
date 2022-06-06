@@ -59,6 +59,7 @@
 <p align="center">
   <img width="650" src="https://github.com/mycarta/Colormap-distorsions-Panel-app/blob/master/for%20readme/new_gif.gif">
 </p>
+-----
 
 - **Tutorial**: [Working with 3D seismic data in Python using segyio, numpy, Scikit-image](https://github.com/equinor/segyio-notebooks/blob/master/notebooks/basic/01_basic_tutorial.ipynb). A notebook to demonstrate how to:
     - read a seismic amplitude volume and a seismic similarity volume as `numpy` arrays using `segyio`
@@ -68,6 +69,7 @@
 <p align="center">
   <img width="650" src="https://mycarta.files.wordpress.com/2019/03/workflow.png">
 </p>
+-----
 
 - **Image augmentation pipelines for Deep Learning**. 
 I've worked on two image augmentation pipelines to increase the size of training sets for classification of geologic edges in seismic data, a typically low bias / high variance problem. 
@@ -76,7 +78,8 @@ I've worked on two image augmentation pipelines to increase the size of training
 <p align="center">
   <img width="750" src="https://user-images.githubusercontent.com/7424763/172077533-ed00056c-0100-45a8-88ab-404ced0dc9ad.png">
 </p>
- 
+-----
+
 - **Web app (Hackathon project)**: [Sketch2model](https://github.com/epsalt/sketch2model-web) - a browser-based app to turn back-of-the-napkin geological sketches into geologic models that can then be used to generate synthetic seismic sections: 
 <p align="center">
   <img width="550" src="https://raw.githubusercontent.com/mycarta/sketch2model/master/workflow.PNG">
@@ -95,6 +98,7 @@ App screenshot:
 <p align="center">
   <img width="600" src="https://user-images.githubusercontent.com/7424763/172092084-f71bc9d9-5547-4bff-9bbe-ef1ed4a6335b.png">
 </p>
+-----
 
 - **Web app (Hackathon project)** :FRIDA (_restore live app and add link here_) - a browser-based app for interactive removal of acquisition footprint noise removal from 3D seismic data. 
 
@@ -111,6 +115,7 @@ And the we set out to work. We were really impressed with the final result, see 
 <p align="center">
   <img width="650" src="https://user-images.githubusercontent.com/7424763/172095674-df9d49eb-8d37-4756-8543-ef24f48b3cce.gif">
 </p>
+-----
 
 - **Collaboration project**: [Rainbow][https://github.com/mycarta/rainbow](https://agilescientific.com/blog/2017/5/31/unweaving-the-rainbow). For this project with [Matt Hall](https://github.com/kwinkunks/), I created a pipeline of image processing routines to enhance, clean-up, segment, and rectify the main map from published figures. This was a necessary preprocessing stage for Rainbow, an online tool for automagic recovery data from scientific images with unknown colourmaps. An example of the image processing work is shown is sketched below, with full list of operations in the intro to my blog series [Computer vision in Geoscience](https://mycarta.wordpress.com/2017/07/30/computer-vision-in-geoscience-recover-seismic-data-from-images-introduction/), and detailed methodology described in [Part I](https://mycarta.wordpress.com/2017/09/10/computer-vision-in-geoscience-recover-seismic-data-from-images-part-1/) and [Part II](https://mycarta.wordpress.com/2017/09/18/computer-vision-in-geoscience-recover-seismic-data-from-images-part-2/).
 <p align="center">
@@ -121,6 +126,7 @@ Also, watch Matt’s talk (very insightful and very entertaining) from the 2017 
 <p align="center">
   <a href="https://youtu.be/7DnudEsb6hU " target="_blank"><img src="https://user-images.githubusercontent.com/7424763/172075215-75d9b1fb-0202-4f0c-b170-4f12a66cf890.png" alt="Recovering data from seismic images" width="650" /></a>
 </p>
+-----
 
 - **Knowledge sharing**: [My answer](https://earthscience.stackexchange.com/a/15139/144) to the question **In the northern hemisphere only, what percentage of the surface is land?**  on [Stack Exchange Earth Science Beta](https://earthscience.stackexchange.com). This was a lot of fun combining domain knowledge (about map projections) with a tiny bit of Python programming (using `numpy` arrays) to provide a quantitative solution. It is the mini-project I am proud the most of, and I did it out of curiosity and the pure joy of solving a problem!
 
