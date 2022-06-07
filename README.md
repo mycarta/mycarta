@@ -204,7 +204,7 @@ Also, watch Matt’s talk (very insightful and very entertaining) from the 2017 
 - [x] [Climate Geospatial Analysis in Python with Xarray](https://www.coursera.org/account/accomplishments/certificate/VMKXGAQKGGFP),  Coursera Project Network
 - [ ] Monitoring Changes in Surface Water Using Satellite Image Data, Manning Live Project
 - [ ] Spatial Data Science: The New Frontier in Analytics. Esri Academy
-- [ ] ARSET - Fundamentals of Remote Sensing, NASA Applied Science
+- [x] ARSET - Fundamentals of Remote Sensing, NASA Applied Science
 - [ ] ARSET - Introduction to Synthetic Aperture Radar, NASA Applied Science
 - [ ] ARSET - Humanitarian Applications Using NASA Earth Observations, NASA Applied Science
 - [ ] End-to-End Machine Learning for Rain Prediction, Manning Live Project
