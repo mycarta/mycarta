@@ -218,11 +218,16 @@ Also, watch Matt’s talk (very insightful and very entertaining) from the 2017 
 - [ ] Practical Deep Learning for Coders, fastai
 - [ ] Practical Data Ethics, fastai
 
-### Race, Gender and Workplace Equity [Professional Certificate](https://credentials.edx.org/credentials/da6b5edb91eb43ca808d960407a84601/), edX
-- [x] [Understanding Gender Equity](https://courses.edx.org/certificates/a052cc54020b465096d2cf5c1c557877)
-- [x] [Facing Racism and Emotional Tax in the Workplace](https://courses.edx.org/certificates/ab3dc247ac9149bfb20ead074daf22ed)
-- [x] [Communication Skills for Dialoguing Across Difference](https://courses.edx.org/certificates/e73a19e937274de1b790cf3dcc02fc7a)
-- [x] [Unconscious Bias: From Awareness to Action](https://courses.edx.org/certificates/62d405fb03794ae4bdc4d05bf53d757d)
+### Race, Gender, Equity 
+- [x] [Understanding Gender Equity](https://courses.edx.org/certificates/a052cc54020b465096d2cf5c1c557877), edX Race, Gender, and Workplace Equity certificate
+- [x] [Facing Racism and Emotional Tax in the Workplace](https://courses.edx.org/certificates/ab3dc247ac9149bfb20ead074daf22ed), edX Race, Gender, and Workplace Equity certificate
+- [x] [Communication Skills for Dialoguing Across Difference](https://courses.edx.org/certificates/e73a19e937274de1b790cf3dcc02fc7a), edX Race, Gender, and Workplace Equity certificate
+- [x] [Unconscious Bias: From Awareness to Action](https://courses.edx.org/certificates/62d405fb03794ae4bdc4d05bf53d757d), edX Race, Gender, and Workplace Equity certificate
+- [x] Understanding and Supporting LGBTQ+ Employees, LinkedIn Learning
+- [x] Understanding and Supporting Asian Employees, LinkedIn Learning
+- [x] Dealing with Microaggression as an Employee, LinkedIn Learning
+- [x] The Value of Employee Resource Groups, LinkedIn Learning
+  
 
 ### Communication tools
 - [x] [Enhance Organizational Communications with Slack](https://www.coursera.org/account/accomplishments/certificate/JEBLDLJQLSZN), Coursera Project Network
