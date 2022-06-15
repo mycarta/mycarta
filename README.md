@@ -218,15 +218,15 @@ Also, watch Matt’s talk (very insightful and very entertaining) from the 2017 
 - [ ] Practical Deep Learning for Coders, fastai
 - [ ] Practical Data Ethics, fastai
 
-### Race, Gender, Equity 
+### Diversity, Equity, Inclusion
 - [x] [Understanding Gender Equity](https://courses.edx.org/certificates/a052cc54020b465096d2cf5c1c557877) - Race, Gender, and Workplace Equity certificate, edX
 - [x] [Facing Racism and Emotional Tax in the Workplace](https://courses.edx.org/certificates/ab3dc247ac9149bfb20ead074daf22ed) - Race, Gender, and Workplace Equity, edXcertificate
 - [x] [Communication Skills for Dialoguing Across Difference](https://courses.edx.org/certificates/e73a19e937274de1b790cf3dcc02fc7a) - Race, Gender, and Workplace Equity certificate, edX
 - [x] [Unconscious Bias: From Awareness to Action](https://courses.edx.org/certificates/62d405fb03794ae4bdc4d05bf53d757d) - Race, Gender, and Workplace Equity certificate, edX
-- [x] Understanding and Supporting LGBTQ+ Employees, LinkedIn Learning
-- [x] Understanding and Supporting Asian Employees, LinkedIn Learning
+- [x] [Understanding and Supporting LGBTQ+ Employees](https://www.linkedin.com/learning/certificates/e46cd51a3754b5f1578d625df5bbb4dfbe7c162749dc62d504ec483bab3e03ab?trk=share_certificate), LinkedIn Learning
+- [x] [Understanding and Supporting Asian Employees](https://www.linkedin.com/learning/certificates/a5e8bedb31c98b833d8bfd9809e5da1dbe4d112bace930aa58970ac93c07d286?trk=share_certificate), LinkedIn Learning
 - [x] Dealing with Microaggression as an Employee, LinkedIn Learning
-- [x] The Value of Employee Resource Groups, LinkedIn Learning
+- [x] [The Value of Employee Resource Groups](https://www.linkedin.com/learning/certificates/ac28ce0382cd2ef1b6765c1ee0465e6c43b33911edc238a614b592cc9e4d5267?trk=share_certificate), LinkedIn Learning
   
 
 ### Communication tools
