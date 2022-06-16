@@ -1,4 +1,4 @@
-## Ciao! 👋 I'm Matteo (he/him) 🏳️‍🌈 🏳️‍🌈 🏳️‍🌈
+## Ciao! 👋 I'm Matteo (he/him)
 
 ### I am a passionate, actively curious, data-driven geoscientist
 
