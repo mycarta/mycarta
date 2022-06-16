@@ -16,7 +16,10 @@
 # Curriculum Vitae
 For a traditional CV click [<img src="https://user-images.githubusercontent.com/7424763/173991120-398ccdcd-624e-4e76-9a51-fd9ca6e60360.png" width="45"/>]( https://www.linkedin.com/in/matteo-niccoli-data-geo/) to visit my Linkedin Profile, otherwise continue below...
 
-
+<div>
+  <img style="vertical-align:middle" src="https://placehold.it/60x60">
+  <span style="">Works.</span>
+</div>
 
 -----
 # Table of Contents
