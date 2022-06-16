@@ -109,7 +109,7 @@ App screenshot:
   <img width="600" src="https://user-images.githubusercontent.com/7424763/172092084-f71bc9d9-5547-4bff-9bbe-ef1ed4a6335b.png">
 </p>
 
-- **Web app (Hackathon project)** :FRIDA (_restore live app and add link here_) - a browser-based app for interactive removal of acquisition footprint noise removal from 3D seismic data. 
+- **Web app (Hackathon project)** : FRIDA (_restore live app and add link here_) - a browser-based app for interactive removal of acquisition footprint noise removal from 3D seismic data. 
 
 Prior to the hackathon I had done a lot of work imagining and protptyping a tool to remove acquisition footprint from 2D seismic slices (this has been my longest-lived side project) and eventually asked [Elwyn](https://github.com/scibbatical) to participate. If you are curious about the whole background, please read [Chapter 39](https://curvenote.com/@swung/52-things-geocomputing/niccoli-keep-on-improving-geocomputing-projects) of the upcoming [52 Things You Should Know About Geocomputing](https://github.com/softwareunderground/52things) and then head over to my [Tutorial notebook](https://github.com/mycarta/t21-hack-footprint/blob/main/52-things_geocomputing_book_FFT_tutorial.ipynb). For a definition of acquisition footprint, please read the [SEG Wiki](https://wiki.seg.org/wiki/Dictionary:Acquisition_footprint_or_imprint), and to see some published industry examples, read this [blog post](https://mycarta.wordpress.com/2017/08/13/what-is-acquisition-footprint-noise-in-seismic-data). 
 
