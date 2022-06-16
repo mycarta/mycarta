@@ -13,8 +13,9 @@
 - 🐦 On Twitter I am [@my_carta](https://twitter.com/My_Carta)
 
 -----
-## Curriculum Vitae
-For a more traditional CV click [<img src="https://user-images.githubusercontent.com/7424763/173986862-823a9106-ccc5-453a-a9e2-32bb014b84c6.png" width="35"/>]( https://www.linkedin.com/in/matteo-niccoli-data-geo/) to visit my Linkedin Profile
+# Curriculum Vitae
+For a traditional CV click [<img src="https://user-images.githubusercontent.com/7424763/173988872-5d157538-4365-4d02-b255-b43050a7c5ea.png" width="35"/>]( https://www.linkedin.com/in/matteo-niccoli-data-geo/) to visit my Linkedin Profile, otherwise continue below...
+
 
 -----
 # Table of Contents
