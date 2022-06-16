@@ -14,8 +14,11 @@
 -----
 ## Curriculum Vitae
 
-For a more traditional CV please visit my ![linkedin profile](https://user-images.githubusercontent.com/7424763/173986862-823a9106-ccc5-453a-a9e2-32bb014b84c6.png)
------
+
+For a more traditional CV click the button to visit my Linkedin Profile
+
+[<img src="" width="50"/>](image.png](https://user-images.githubusercontent.com/7424763/173986862-823a9106-ccc5-453a-a9e2-32bb014b84c6.png)
+
 
 # Table of Contents
 1. [GitHub and Stack Overflow Stats](#GitHub-and-Stack-Overflow-Stats)
