@@ -17,16 +17,14 @@
 For a traditional CV click  to visit my Linkedin Profile, otherwise continue below...
 
 <div>
-  <span style="vertical-align:middle">For a traditional CV click </span>
-  <[<img src="https://user-images.githubusercontent.com/7424763/173991120-398ccdcd-624e-4e76-9a51-fd9ca6e60360.png" width="45"/>]( https://www.linkedin.com/in/matteo-niccoli-data-geo/)>
+  <span style="vertical-align:middle">For a traditional CV click </span> 
+  <a href="https://www.linkedin.com/in/matteo-niccoli-data-geo/"><img src="https://user-images.githubusercontent.com/7424763/173991120-398ccdcd-624e-4e76-9a51-fd9ca6e60360.png" width="45" height="45">
+</a>
   <span style="vertical-align:middle"> to visit my Linkedin Profile, otherwise continue below...</span>
 </div>
 
 
-<div>
-  <img style="vertical-align:middle" src="https://placehold.it/60x60">
-  <span style="">Works.</span>
-</div>
+
 -----
 # Table of Contents
 1. [GitHub and Stack Overflow Stats](#GitHub-and-Stack-Overflow-Stats)
