@@ -12,6 +12,11 @@
 - 📫 How to reach me: matteo@mycarta.ca
 - 🐦 On Twitter I am [@my_carta](https://twitter.com/My_Carta)
 -----
+## Curriculum Vitae
+
+For a more traditional CV please visit my ![linkedin profile](https://user-images.githubusercontent.com/7424763/173986862-823a9106-ccc5-453a-a9e2-32bb014b84c6.png)
+-----
+
 # Table of Contents
 1. [GitHub and Stack Overflow Stats](#GitHub-and-Stack-Overflow-Stats)
 2. [Featured blog posts](#Featured-blog-posts)
