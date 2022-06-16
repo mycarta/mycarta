@@ -18,7 +18,7 @@ For a traditional CV click  to visit my Linkedin Profile, otherwise continue bel
 
 <div>
   <span style="vertical-align:middle">For a traditional CV click </span>
-  [<img src="https://user-images.githubusercontent.com/7424763/173991120-398ccdcd-624e-4e76-9a51-fd9ca6e60360.png" width="45"/>]( https://www.linkedin.com/in/matteo-niccoli-data-geo/)
+  <[<img src="https://user-images.githubusercontent.com/7424763/173991120-398ccdcd-624e-4e76-9a51-fd9ca6e60360.png" width="45"/>]( https://www.linkedin.com/in/matteo-niccoli-data-geo/)>
   <span style="vertical-align:middle"> to visit my Linkedin Profile, otherwise continue below...</span>
 </div>
 
