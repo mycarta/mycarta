@@ -15,10 +15,10 @@
 -----
 # Curriculum Vitae
 <div>
-  <span style="">For a traditional CV click  </span> 
-  <a href="https://www.linkedin.com/in/matteo-niccoli-data-geo/"><img src="https://user-images.githubusercontent.com/7424763/173991120-398ccdcd-624e-4e76-9a51-fd9ca6e60360.png" width="45" alt="Profile for MyCarta on LinkedIn" title="pProfile for MyCarta on LinkedIn">
+  <span style="">For a traditional CV click</span> 
+  <a href="https://www.linkedin.com/in/matteo-niccoli-data-geo/"><img src="https://user-images.githubusercontent.com/7424763/173991120-398ccdcd-624e-4e76-9a51-fd9ca6e60360.png" width="45" alt="Profile for MyCarta on LinkedIn" title="Profile for MyCarta on LinkedIn">
   </a>
-  <span style="">   to visit my Linkedin Profile, otherwise continue below...</span>
+  <span style="">to visit my Linkedin Profile, otherwise continue below...</span>
 </div>
 
 
