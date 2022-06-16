@@ -14,7 +14,7 @@
 
 -----
 ## Curriculum Vitae
-For a more traditional CV click [<img src="https://user-images.githubusercontent.com/7424763/173986862-823a9106-ccc5-453a-a9e2-32bb014b84c6.png" width="50"/>](https://www.linkedin.com/in/matteo-niccoli-data-geo/) to visit my Linkedin Profile
+For a more traditional CV click [<img src="https://user-images.githubusercontent.com/7424763/173986862-823a9106-ccc5-453a-a9e2-32bb014b84c6.png" width="35"/>]( https://www.linkedin.com/in/matteo-niccoli-data-geo/) to visit my Linkedin Profile
 
 -----
 # Table of Contents
