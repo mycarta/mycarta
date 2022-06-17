@@ -1,6 +1,6 @@
 ## Ciao! 👋 I'm Matteo (he/him). 
 <p align="center">
-  <img width="45" src="https://cdn3.emoji.gg/emojis/3234_rainbow_indicator_equal_sign.png)](https://emoji.gg/emoji/3234_rainbow_indicator_equal_sign">
+  <img width="30" src="https://cdn3.emoji.gg/emojis/3234_rainbow_indicator_equal_sign.png">
 </p>
 
 ### I am a passionate, actively curious, data-driven geoscientist
