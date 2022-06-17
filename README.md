@@ -239,7 +239,7 @@ Also, watch Matt’s talk (very insightful and very entertaining) from the 2017 
 - [x] [Unconscious Bias: From Awareness to Action](https://courses.edx.org/certificates/62d405fb03794ae4bdc4d05bf53d757d) - Race, Gender, and Workplace Equity certificate, edX
 - [x] [Understanding and Supporting LGBTQ+ Employees](https://www.linkedin.com/learning/certificates/e46cd51a3754b5f1578d625df5bbb4dfbe7c162749dc62d504ec483bab3e03ab?trk=share_certificate), LinkedIn Learning
 - [x] [Understanding and Supporting Asian Employees](https://www.linkedin.com/learning/certificates/a5e8bedb31c98b833d8bfd9809e5da1dbe4d112bace930aa58970ac93c07d286?trk=share_certificate), LinkedIn Learning
-- [x] Dealing with Microaggression as an Employee, LinkedIn Learning
+- [x] [Dealing with Microaggression as an Employee](https://www.linkedin.com/learning/certificates/5b56f000c5043d7543ced9b437a89439a28ae007cf968c6b45bbd7087fc8d96f?trk=share_certificate), LinkedIn Learning
 - [x] [The Value of Employee Resource Groups](https://www.linkedin.com/learning/certificates/ac28ce0382cd2ef1b6765c1ee0465e6c43b33911edc238a614b592cc9e4d5267?trk=share_certificate), LinkedIn Learning
   
 
