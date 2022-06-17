@@ -1,4 +1,4 @@
-## Ciao! 👋 I'm Matteo (he/him).   <img width="20" src="https://cdn3.emoji.gg/emojis/3234_rainbow_indicator_equal_sign.png">
+## Ciao! 👋 I'm Matteo (he/him)  <img width="18" src="https://cdn3.emoji.gg/emojis/3234_rainbow_indicator_equal_sign.png">
 
 
 ### I am a passionate, actively curious, data-driven geoscientist
