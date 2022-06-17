@@ -220,6 +220,7 @@ Also, watch Matt’s talk (very insightful and very entertaining) from the 2017 
 - [x] ARSET - Fundamentals of Remote Sensing, NASA Applied Science
 - [x] ARSET - Introduction to Synthetic Aperture Radar, NASA Applied Science
 - [x] ARSET - Humanitarian Applications Using NASA Earth Observations, NASA Applied Science
+- [ ] End-to-End Google Earth Engine, Spatial Thoughts
 - [ ] End-to-End Machine Learning for Rain Prediction, Manning Live Project
 
 ### AI, Deep Learning, Ethics, ML explainability
