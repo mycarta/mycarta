@@ -201,6 +201,7 @@ Also, watch Matt’s talk (very insightful and very entertaining) from the 2017 
 ### Intermediate Data Science
 - [x] [Pandas](https://www.kaggle.com/learn/certification/mycarta/pandas), Kaggle
 - [x] [15 Mistakes to Avoid in Data Science](https://www.linkedin.com/learning/certificates/80c3a9379c2a96b55083dab7f651cf99ea2b01d52c56ea4684e22befeb06cfdb?trk=share_certificate), LinkedIn Learning
+- [x] Relational Databases Essential Training, LinkedIn Learning
 - [ ] Intermediate Machine Learning, Kaggle
 - [ ] Refactoring Pandas, Meta Snake
 - [ ] Web Scraping With Beautiful Soup and Python, Real Python
@@ -228,7 +229,7 @@ Also, watch Matt’s talk (very insightful and very entertaining) from the 2017 
 ### AI, Deep Learning, Ethics, ML explainability
 - [x] [AI for Everyone](https://www.coursera.org/account/accomplishments/certificate/W9V3WB6GADC4), Coursera
 - [x] [Machine learning explainability](https://www.kaggle.com/learn/certification/mycarta/machine-learning-explainability), Kaggle
-- [ ] Intro to AI Ethics, Kaggle
+- [x] [Intro to AI Ethics](https://www.kaggle.com/learn/certification/mycarta/intro-to-ai-ethics), Kaggle
 - [ ] Intro to Deep Learning, Kaggle
 - [ ] Computer Vision, Kaggle
 - [ ] Practical Deep Learning for Coders, fastai
