@@ -6,6 +6,7 @@
 - 🐍 I’m currently learning: Dashboarding with [Panel](https://blog.holoviz.org/panel_0.13.0.html) and [Holoviews](http://holoviews.org/user_guide/Dashboards.html) 
 - 📗 I’m currently reading: [Guesstimation 2.0: Solving Today's Problems on the Back of a Napkin](hhttps://www.amazon.ca/Guesstimation-2-0-Solving-Todays-Problems/dp/069115080X)
 - 📗 Past favourite: [Grokking Algorithms](https://www.manning.com/books/grokking-algorithms)
+- ⏭ Best Video project ever: [Let's Enhance](https://vimeo.com/69663986%20) by [DUNK3D](https://dunk3d.tumblr.com/post/54128461565/thisbelongsinamuseum)
 - 🎥 I'm currently watching: [Calling Bullshit in the Age of Big Data](https://youtube.com/playlist?list=PLPnZfvKID1Sje5jWxt-4CSZD7bUI4gSPS)
 - ✏️ Hobby: drawing, juggling
 - 🃏 Fun fact: a recent fixation with card tricks and Rubik's cube
