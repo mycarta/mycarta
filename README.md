@@ -4,7 +4,7 @@
 ### I am a passionate, actively curious, data-driven geoscientist
 
 - 🐍 I’m currently learning: Dashboarding with [Panel](https://blog.holoviz.org/panel_0.13.0.html) and [Holoviews](http://holoviews.org/user_guide/Dashboards.html) 
-- 📗 I’m currently reading: [How to Lead in Data Science](https://www.manning.com/books/how-to-lead-in-data-science)
+- 📗 I’m currently reading: [Guesstimation 2.0: Solving Today's Problems on the Back of a Napkin](hhttps://www.amazon.ca/Guesstimation-2-0-Solving-Todays-Problems/dp/069115080X)
 - 📗 Past favourite: [Grokking Algorithms](https://www.manning.com/books/grokking-algorithms)
 - 🎥 I'm currently watching: [Calling Bullshit in the Age of Big Data](https://youtube.com/playlist?list=PLPnZfvKID1Sje5jWxt-4CSZD7bUI4gSPS)
 - ✏️ Hobby: drawing, juggling
