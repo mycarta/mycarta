@@ -188,9 +188,7 @@ Also, watch Matt’s talk (very insightful and very entertaining) from the 2017 
   <summary>Click here to expand the roadmap section</summary> 
 
 ### Python development, unit testing, and debugging
-- [ ] Introduction to Visual Studio Code, Real Python
 - [x] [Test-Driven Development With PyTest](https://realpython.com/certificates/96ecff0f-2d92-422f-b3d8-f6790a03f872/), Real Python
-- [ ] Raising and Handling Python Exceptions, Real Python
 - [x] [Enhance your Python unit testing using Coverage](https://www.coursera.org/account/accomplishments/certificate/TGYBNFKE3DJW), Coursera Project Network
 - [ ] Software Debugging, Coursera
 
@@ -203,12 +201,9 @@ Also, watch Matt’s talk (very insightful and very entertaining) from the 2017 
 - [x] [Pandas](https://www.kaggle.com/learn/certification/mycarta/pandas), Kaggle
 - [x] [15 Mistakes to Avoid in Data Science](https://www.linkedin.com/learning/certificates/80c3a9379c2a96b55083dab7f651cf99ea2b01d52c56ea4684e22befeb06cfdb?trk=share_certificate), LinkedIn Learning
 - [x] Relational Databases Essential Training, LinkedIn Learning
-- [ ] Intermediate Machine Learning, Kaggle
+- [x] Intermediate Machine Learning, Kaggle
 - [ ] Refactoring Pandas, Meta Snake
-- [ ] Web Scraping With Beautiful Soup and Python, Real Python
 - [ ] Time Series, Kaggle
-- [ ] Intro to SQL, Kaggle
-- [ ] Advanced SQL, Kaggle
 - [ ] SQL for Data Analysis, Coursera
  
 ### Analytics
@@ -217,15 +212,12 @@ Also, watch Matt’s talk (very insightful and very entertaining) from the 2017 
 - [ ] Spotfire - The Complete TIBCO Spotfire Course, Udemy
 
 ### GIS and Geospatial
-- [ ] Geospatial Analysis, Kaggle
 - [x] [Climate Geospatial Analysis in Python with Xarray](https://www.coursera.org/account/accomplishments/certificate/VMKXGAQKGGFP),  Coursera Project Network
-- [ ] Monitoring Changes in Surface Water Using Satellite Image Data, Manning Live Project
 - [ ] Spatial Data Science: The New Frontier in Analytics. Esri Academy
 - [x] ARSET - Fundamentals of Remote Sensing, NASA Applied Science
 - [x] ARSET - Introduction to Synthetic Aperture Radar, NASA Applied Science
 - [x] ARSET - Humanitarian Applications Using NASA Earth Observations, NASA Applied Science
 - [ ] End-to-End Google Earth Engine, Spatial Thoughts
-- [ ] End-to-End Machine Learning for Rain Prediction, Manning Live Project
 
 ### AI, Deep Learning, Ethics, ML explainability
 - [x] [AI for Everyone](https://www.coursera.org/account/accomplishments/certificate/W9V3WB6GADC4), Coursera
