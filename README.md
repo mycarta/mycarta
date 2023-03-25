@@ -3,9 +3,8 @@
 
 ### I am a passionate, actively curious, data-driven geoscientist
 
-- 🐍 I’m currently learning: Dashboarding with [Panel](https://blog.holoviz.org/panel_0.13.0.html) and [Holoviews](http://holoviews.org/user_guide/Dashboards.html) 
-- 📗 I’m currently reading: [Guesstimation 2.0: Solving Today's Problems on the Back of a Napkin](hhttps://www.amazon.ca/Guesstimation-2-0-Solving-Todays-Problems/dp/069115080X)
-- 📗 Past favourite: [Grokking Algorithms](https://www.manning.com/books/grokking-algorithms)
+-  I’m currently enrolled in: [AlaskaX's Synthetic Aperture Radar (SAR): Applications Professional Certificate](hhttps://www.edx.org/professional-certificate/alaskax-synthetic-aperture-radar-sar-applications) 
+- 🐍 I’m currently working through: [Regular Expression Puzzles and AI Coding Assistants](https://www.manning.com/books/regular-expression-puzzles-and-ai-coding-assistants)
 - ⏭ Best Video project ever: [Let's Enhance](https://vimeo.com/69663986%20) by [DUNK3D](https://dunk3d.tumblr.com/post/54128461565/thisbelongsinamuseum)
 - 🎥 I'm currently watching: [Calling Bullshit in the Age of Big Data](https://youtube.com/playlist?list=PLPnZfvKID1Sje5jWxt-4CSZD7bUI4gSPS)
 - ✏️ Hobby: drawing, juggling
@@ -13,6 +12,7 @@
 - 📝 Blog: [mycarta](https://mycarta.wordpress.com/)
 - 📫 How to reach me: matteo@mycarta.ca
 - 🐦 On Twitter I am [@my_carta](https://twitter.com/My_Carta)
+
 
 -----
 # Curriculum Vitae
@@ -27,7 +27,8 @@
 
 -----
 # Table of Contents
-1. [GitHub and Stack Overflow Stats](#GitHub-and-Stack-Overflow-Stats)
+1.1 [GitHub and Stack Overflow Stats](#GitHub-and-Stack-Overflow-Stats)
+1.2 [Skills]()
 2. [Featured blog posts](#Featured-blog-posts)
 3. [Articles published in Geophysical literature](#Articles-published-in-Geophysical-literature)
 4. [Upcoming articles and tutorials](#Upcoming-articles-and-tutorials)
