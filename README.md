@@ -27,8 +27,8 @@
 
 -----
 # Table of Contents
-1.1 [GitHub and Stack Overflow Stats](#GitHub-and-Stack-Overflow-Stats)
-1.2 [Skills]()
+1.1. [GitHub and Stack Overflow Stats](#GitHub-and-Stack-Overflow-Stats)
+1.2. [Skills]()
 2. [Featured blog posts](#Featured-blog-posts)
 3. [Articles published in Geophysical literature](#Articles-published-in-Geophysical-literature)
 4. [Upcoming articles and tutorials](#Upcoming-articles-and-tutorials)
