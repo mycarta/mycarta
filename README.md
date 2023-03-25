@@ -27,11 +27,11 @@
 
 -----
 # Table of Contents
-1.1. [GitHub and Stack Overflow Stats](#GitHub-and-Stack-Overflow-Stats)
-1.2. [Skills]()
-2. [Featured blog posts](#Featured-blog-posts)
-3. [Articles published in Geophysical literature](#Articles-published-in-Geophysical-literature)
-4. [Upcoming articles and tutorials](#Upcoming-articles-and-tutorials)
+1. [GitHub and Stack Overflow Stats](#GitHub-and-Stack-Overflow-Stats)
+2. [Skills]()
+3. [Featured blog posts](#Featured-blog-posts)
+4. [Articles published in Geophysical literature](#Articles-published-in-Geophysical-literature)
+5. [Upcoming articles and tutorials](#Upcoming-articles-and-tutorials)
 6. [Projects portfolio](#Projects-portfolio)
 7. [Exploratory Data Analysis and visualization portfolio](#Exploratory-Data-Analysis-and-visualization-portfolio)
 8. [Coding challenges](#Coding-challenges)
@@ -46,6 +46,14 @@
 
 <a href="https://stackexchange.com/users/1025180"><img src="https://stackexchange.com/users/flair/1025180.png?theme=dark" width="250" height="60" alt="profile for MyCarta on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for MyCarta on Stack Exchange, a network of free, community-driven Q&amp;A sites">
 </a>
+
+-----
+## Skills
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,matlab,octave,git,github,vim" />
+  </a>
+</p>
 
 -----
 ## Featured blog posts
