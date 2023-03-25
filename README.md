@@ -3,7 +3,7 @@
 
 ### I am a passionate, actively curious, data-driven geoscientist
 
--  I’m currently enrolled in: [AlaskaX's Synthetic Aperture Radar (SAR): Applications Professional Certificate](hhttps://www.edx.org/professional-certificate/alaskax-synthetic-aperture-radar-sar-applications) 
+- :computer: I’m currently enrolled in: [AlaskaX's Synthetic Aperture Radar (SAR): Applications Professional Certificate](hhttps://www.edx.org/professional-certificate/alaskax-synthetic-aperture-radar-sar-applications) 
 - 🐍 I’m currently working through: [Regular Expression Puzzles and AI Coding Assistants](https://www.manning.com/books/regular-expression-puzzles-and-ai-coding-assistants)
 - ⏭ Best Video project ever: [Let's Enhance](https://vimeo.com/69663986%20) by [DUNK3D](https://dunk3d.tumblr.com/post/54128461565/thisbelongsinamuseum)
 - 🎥 I'm currently watching: [Calling Bullshit in the Age of Big Data](https://youtube.com/playlist?list=PLPnZfvKID1Sje5jWxt-4CSZD7bUI4gSPS)
