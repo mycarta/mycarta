@@ -222,7 +222,6 @@ Also, watch Matt’s talk (very insightful and very entertaining) from the 2017 
 
 ### GIS and Geospatial
 - [x] [Climate Geospatial Analysis in Python with Xarray](https://www.coursera.org/account/accomplishments/certificate/VMKXGAQKGGFP),  Coursera Project Network
-- [ ] Spatial Data Science: The New Frontier in Analytics. Esri Academy
 - [x] ARSET - Fundamentals of Remote Sensing, NASA Applied Science
 - [x] ARSET - Introduction to Synthetic Aperture Radar, NASA Applied Science
 - [x] ARSET - Humanitarian Applications Using NASA Earth Observations, NASA Applied Science
