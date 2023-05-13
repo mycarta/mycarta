@@ -17,9 +17,7 @@
 
 -----
 # Curriculum Vitae
-<div>
-For a traditional, Google-style CV, click [here](https://mycartablog.com/wp-content/uploads/2023/05/MatteoNiccoliResumeGoogleStandard.pdf)
-</div>
+For a traditional, Google-style CV, click [this link](https://mycartablog.com/wp-content/uploads/2023/05/MatteoNiccoliResumeGoogleStandard.pdf)
 
 
 -----
