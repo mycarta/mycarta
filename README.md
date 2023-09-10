@@ -4,15 +4,15 @@
 ### I am a passionate, actively curious, data-driven geoscientist
 
 - :computer: I’m currently enrolled in: [AlaskaX's Synthetic Aperture Radar (SAR): Applications Professional Certificate](https://www.edx.org/professional-certificate/alaskax-synthetic-aperture-radar-sar-applications) 
-- 🐍 I’m currently working through: [Regular Expression Puzzles and AI Coding Assistants](https://www.manning.com/books/regular-expression-puzzles-and-ai-coding-assistants)
+- 🐍 I’m currently working through: [ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
 - :blue_book: Evening read: [Calling Bullshit: The Art of Skepticism in a Data-Driven World](https://www.amazon.ca/Calling-Bullshit-Skepticism-Data-Driven-World/dp/0525509186)
 - ⏭ Best Video project ever: [Let's Enhance](https://vimeo.com/69663986%20) by [DUNK3D](https://dunk3d.tumblr.com/post/54128461565/thisbelongsinamuseum)
-- 🎥 I'm currently watching: [Calling Bullshit in the Age of Big Data](https://youtube.com/playlist?list=PLPnZfvKID1Sje5jWxt-4CSZD7bUI4gSPS)
+- 🎥 I'm currently watching: [Perspectives on Wind Energy](https://www.youtube.com/watch?v=sqi_f23CMv0&list=PL1lvXOhY32ai-G73J4vzM-ktCLw8JU3GP)
 - ✏️ Hobby: drawing, juggling
 - 🃏 Fun fact: a recent fixation with card tricks and Rubik's cube
 - 📝 Blog: [mycarta](https://mycarta.wordpress.com/)
 - 📫 How to reach me: matteo@mycarta.ca
-- 🐦 On Twitter I am [@my_carta](https://twitter.com/My_Carta)
+- 🐦 On Twitter I **was** [@my_carta](https://twitter.com/My_Carta)
 
 
 -----
