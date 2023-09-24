@@ -8,7 +8,7 @@
 - :blue_book: Evening read: [How We Live Is How We Die by Pema Chödrön](https://www.amazon.ca/How-We-Live-Die/dp/161180924X)
 - ⏭ Best Video project ever: [Let's Enhance](https://vimeo.com/69663986%20) by [DUNK3D](https://dunk3d.tumblr.com/post/54128461565/thisbelongsinamuseum)
 - 🎥 I'm currently watching: [Perspectives on Wind Energy](https://www.youtube.com/watch?v=sqi_f23CMv0&list=PL1lvXOhY32ai-G73J4vzM-ktCLw8JU3GP)
-- ✏️ Hobby: drawing, juggling
+- ✏️ Hobby: drawing, juggling, longboard
 - 🃏 Fun fact: a recent fixation with card tricks and Rubik's cube
 - 📝 Blog: [mycarta](https://mycartablog.com/)
 - 📫 How to reach me: matteo@mycarta.ca
