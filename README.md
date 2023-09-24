@@ -12,7 +12,7 @@
 - 🃏 Fun fact: a recent fixation with card tricks and Rubik's cube
 - 📝 Blog: [mycarta](https://mycartablog.com/)
 - 📫 How to reach me: matteo@mycarta.ca
-- 🐦 On Twitter I **was** [@my_carta](https://twitter.com/My_Carta)
+- 🐦 On X (FKA Twitter) I **was** [@my_carta](https://twitter.com/My_Carta)
 
 
 -----
