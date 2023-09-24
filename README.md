@@ -5,12 +5,12 @@
 
 - :computer: I’m currently enrolled in: [AlaskaX's Synthetic Aperture Radar (SAR): Applications Professional Certificate](https://www.edx.org/professional-certificate/alaskax-synthetic-aperture-radar-sar-applications) 
 - 🐍 I’m currently working through: [ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
-- :blue_book: Evening read: [A Photographic Atlas of Sedimentary Structures](http://www.columbia.edu/dlc/cup/ricci/index.html)
+- :blue_book: Evening read: [How We Live Is How We Die by Pema Chödrön](https://www.amazon.ca/How-We-Live-Die/dp/161180924X)
 - ⏭ Best Video project ever: [Let's Enhance](https://vimeo.com/69663986%20) by [DUNK3D](https://dunk3d.tumblr.com/post/54128461565/thisbelongsinamuseum)
 - 🎥 I'm currently watching: [Perspectives on Wind Energy](https://www.youtube.com/watch?v=sqi_f23CMv0&list=PL1lvXOhY32ai-G73J4vzM-ktCLw8JU3GP)
 - ✏️ Hobby: drawing, juggling
 - 🃏 Fun fact: a recent fixation with card tricks and Rubik's cube
-- 📝 Blog: [mycarta](https://mycarta.wordpress.com/)
+- 📝 Blog: [mycarta](https://mycartablog.com/)
 - 📫 How to reach me: matteo@mycarta.ca
 - 🐦 On Twitter I **was** [@my_carta](https://twitter.com/My_Carta)
 
@@ -191,10 +191,13 @@ Also, watch Matt’s talk (very insightful and very entertaining) from the 2017 
 <details>
   <summary>Click here to expand the roadmap section</summary> 
 
+### Management
+- [x] Project Management Skills for LEaders, Linkedin Learning
+- [x] Decision Intelligence, Linkedin Learning
+
 ### Python development, unit testing, and debugging
 - [x] [Test-Driven Development With PyTest](https://realpython.com/certificates/96ecff0f-2d92-422f-b3d8-f6790a03f872/), Real Python
 - [x] [Enhance your Python unit testing using Coverage](https://www.coursera.org/account/accomplishments/certificate/TGYBNFKE3DJW), Coursera Project Network
-- [ ] Software Debugging, Coursera
 
 ### Foundations of Data Science [Professional Certificate](https://credentials.edx.org/credentials/3ff1fe712ebe4e6bb47093928883d765/) (edX)
 - [x] [Computational Thinking with Python](https://courses.edx.org/certificates/a5d76bfe8eff4a43bfc70c356745b3f6)
@@ -206,30 +209,22 @@ Also, watch Matt’s talk (very insightful and very entertaining) from the 2017 
 - [x] Pandas short course (as a beta tester), DeepLearning.AI
 - [x] [15 Mistakes to Avoid in Data Science](https://www.linkedin.com/learning/certificates/80c3a9379c2a96b55083dab7f651cf99ea2b01d52c56ea4684e22befeb06cfdb?trk=share_certificate), LinkedIn Learning
 - [x] Intermediate Machine Learning, Kaggle
-- [ ] Refactoring Pandas, Meta Snake
-- [ ] Time Series, Kaggle
-- [ ] SQL for Data Analysis, Coursera
- 
+
 ### Analytics
 - [x] [Spotfire Essentials I](https://support.ruths.ai/support/solutions/articles/6000191001-kickstart-how-to-schedule-training), Ruths.ai (now Petro.ai)
 - [x] [Spotfire Essentials II](https://support.ruths.ai/support/solutions/articles/6000191001-kickstart-how-to-schedule-training), Ruths.ai (now Petro.ai)
-- [ ] Spotfire - The Complete TIBCO Spotfire Course, Udemy
 
 ### GIS and Geospatial
 - [x] [Climate Geospatial Analysis in Python with Xarray](https://www.coursera.org/account/accomplishments/certificate/VMKXGAQKGGFP),  Coursera Project Network
 - [x] ARSET - Fundamentals of Remote Sensing, NASA Applied Science
 - [x] ARSET - Introduction to Synthetic Aperture Radar, NASA Applied Science
 - [x] ARSET - Humanitarian Applications Using NASA Earth Observations, NASA Applied Science
-- [ ] End-to-End Google Earth Engine, Spatial Thoughts
+
 
 ### AI, Deep Learning, Ethics, ML explainability
 - [x] [AI for Everyone](https://www.coursera.org/account/accomplishments/certificate/W9V3WB6GADC4), Coursera
 - [x] [Machine learning explainability](https://www.kaggle.com/learn/certification/mycarta/machine-learning-explainability), Kaggle
 - [x] [Intro to AI Ethics](https://www.kaggle.com/learn/certification/mycarta/intro-to-ai-ethics), Kaggle
-- [ ] Intro to Deep Learning, Kaggle
-- [ ] Computer Vision, Kaggle
-- [ ] Practical Deep Learning for Coders, fastai
-- [ ] Practical Data Ethics, fastai
 
 ### Diversity, Equity, Inclusion
 - [x] [Understanding Gender Equity](https://courses.edx.org/certificates/a052cc54020b465096d2cf5c1c557877) - Race, Gender, and Workplace Equity certificate, edX
