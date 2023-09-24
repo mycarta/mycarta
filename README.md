@@ -226,6 +226,7 @@ Also, watch Matt’s talk (very insightful and very entertaining) from the 2017 
 - [x] [Machine learning explainability](https://www.kaggle.com/learn/certification/mycarta/machine-learning-explainability), Kaggle
 - [x] [Intro to AI Ethics](https://www.kaggle.com/learn/certification/mycarta/intro-to-ai-ethics), Kaggle
 - [ ] ChatGPT Prompt Engineering for Developers, Deeplearning.AI
+- [ ] Evaluating and Debugging Generative AI, Deeplearning.AI
 
 ### Diversity, Equity, Inclusion
 - [x] [Understanding Gender Equity](https://courses.edx.org/certificates/a052cc54020b465096d2cf5c1c557877) - Race, Gender, and Workplace Equity certificate, edX
