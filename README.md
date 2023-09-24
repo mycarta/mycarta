@@ -225,7 +225,7 @@ Also, watch Matt’s talk (very insightful and very entertaining) from the 2017 
 - [x] [AI for Everyone](https://www.coursera.org/account/accomplishments/certificate/W9V3WB6GADC4), Coursera
 - [x] [Machine learning explainability](https://www.kaggle.com/learn/certification/mycarta/machine-learning-explainability), Kaggle
 - [x] [Intro to AI Ethics](https://www.kaggle.com/learn/certification/mycarta/intro-to-ai-ethics), Kaggle
-- [ ] [ChatGPT Prompt Engineering for Developers], Deeplearning.AI
+- [ ] ChatGPT Prompt Engineering for Developers, Deeplearning.AI
 
 ### Diversity, Equity, Inclusion
 - [x] [Understanding Gender Equity](https://courses.edx.org/certificates/a052cc54020b465096d2cf5c1c557877) - Race, Gender, and Workplace Equity certificate, edX
