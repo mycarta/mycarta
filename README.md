@@ -4,8 +4,8 @@
 ### I am a passionate, actively curious, data-driven geoscientist
 
 - :computer: I’m currently enrolled in: [AlaskaX's Synthetic Aperture Radar (SAR): Applications Professional Certificate](https://www.edx.org/professional-certificate/alaskax-synthetic-aperture-radar-sar-applications) 
-- 🐍 I’m currently working through: [ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
-- :blue_book: Evening read: [How We Live Is How We Die by Pema Chödrön](https://www.amazon.ca/How-We-Live-Die/dp/161180924X)
+- 🐍 I’m currently working through: [Grokking Algorithms, 2nd edition](https://www.manning.com/books/grokking-algorithms-second-edition)
+- :blue_book: Evening read: [Love letter to the Earth by Thich Nhat Hanh](https://www.parallax.org/product/love-letter-to-the-earth/)
 - ⏭ Best Video project ever: [Let's Enhance](https://vimeo.com/69663986%20) by [DUNK3D](https://dunk3d.tumblr.com/post/54128461565/thisbelongsinamuseum)
 - 🎥 I'm currently watching: [Perspectives on Wind Energy](https://www.youtube.com/watch?v=sqi_f23CMv0&list=PL1lvXOhY32ai-G73J4vzM-ktCLw8JU3GP)
 - ✏️ Hobby: drawing, juggling, longboard
