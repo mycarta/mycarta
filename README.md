@@ -219,6 +219,8 @@ Also, watch Matt’s talk (very insightful and very entertaining) from the 2017 
 - [x] ARSET - Fundamentals of Remote Sensing, NASA Applied Science
 - [x] ARSET - Introduction to Synthetic Aperture Radar, NASA Applied Science
 - [x] ARSET - Humanitarian Applications Using NASA Earth Observations, NASA Applied Science
+- [x] [SAR-400: Synthetic Aperture Radar: Foundations](https://courses.edx.org/certificates/3055b8675c5047039e899f974504eaf0), edX
+- [ ] Echoes in space Introduction into the principles and applications of radar remote sensing, EO College
 
 ### AI, Deep Learning, Ethics, ML explainability
 - [x] [AI for Everyone](https://www.coursera.org/account/accomplishments/certificate/W9V3WB6GADC4), Coursera
@@ -230,7 +232,7 @@ Also, watch Matt’s talk (very insightful and very entertaining) from the 2017 
 
 ### Diversity, Equity, Inclusion
 - [x] [Understanding Gender Equity](https://courses.edx.org/certificates/a052cc54020b465096d2cf5c1c557877) - Race, Gender, and Workplace Equity certificate, edX
-- [x] [Facing Racism and Emotional Tax in the Workplace](https://courses.edx.org/certificates/ab3dc247ac9149bfb20ead074daf22ed) - Race, Gender, and Workplace Equity, edXcertificate
+- [x] [Facing Racism and Emotional Tax in the Workplace](https://courses.edx.org/certificates/ab3dc247ac9149bfb20ead074daf22ed) - Race, Gender, and Workplace Equity certificate, edX
 - [x] [Communication Skills for Dialoguing Across Difference](https://courses.edx.org/certificates/e73a19e937274de1b790cf3dcc02fc7a) - Race, Gender, and Workplace Equity certificate, edX
 - [x] [Unconscious Bias: From Awareness to Action](https://courses.edx.org/certificates/62d405fb03794ae4bdc4d05bf53d757d) - Race, Gender, and Workplace Equity certificate, edX
 - [x] [Understanding and Supporting LGBTQ+ Employees](https://www.linkedin.com/learning/certificates/e46cd51a3754b5f1578d625df5bbb4dfbe7c162749dc62d504ec483bab3e03ab?trk=share_certificate), LinkedIn Learning
