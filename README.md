@@ -16,11 +16,6 @@
 
 
 -----
-# Curriculum Vitae
-For a traditional, Google-style CV, click [this link](https://mycartablog.com/wp-content/uploads/2023/05/MatteoNiccoliResumeGoogleStandard.pdf)
-
-
------
 # Table of Contents
 1. [GitHub and Stack Overflow Stats](#GitHub-and-Stack-Overflow-Stats)
 2. [Skills]()
