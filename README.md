@@ -225,7 +225,7 @@ Also, watch Matt’s talk (very insightful and very entertaining) from the 2017 
 - [x] [Machine learning explainability](https://www.kaggle.com/learn/certification/mycarta/machine-learning-explainability), Kaggle
 - [x] [Intro to AI Ethics](https://www.kaggle.com/learn/certification/mycarta/intro-to-ai-ethics), Kaggle
 - [x] [TensorFlow: Neural Networks and Working with Tables](https://www.linkedin.com/learning/certificates/2c6a1947d69f738ac6afecc03635bd07b1a1aed31c39a2fa9a380fb574cf810c), LinkedIn Learning
-- [x] [TensorFlow 2.0: Working with Images]((https://www.linkedin.com/learning/certificates/5e57eadefad9f19661cc24118d326d794db853bf1b9c781bccff213312fe0001), LinkedIn Learning
+- [x] [TensorFlow 2.0: Working with Images](https://www.linkedin.com/learning/certificates/5e57eadefad9f19661cc24118d326d794db853bf1b9c781bccff213312fe0001), LinkedIn Learning
 - [ ] ChatGPT Prompt Engineering for Developers, Deeplearning.AI
 
 ### Diversity, Equity, Inclusion
@@ -250,7 +250,10 @@ It looks like it has become very trendy these days to post a picture your datasc
 <p align="center">
   <img width="650" src="https://github.com/user-attachments/assets/0f0cde45-11d3-42b0-9dcd-4067ef8abf3b">
 </p>
+
+
 -----
+
 ## Community engagement
 - Beta-testing courses by DeepLEarning.AI (2023).
 
