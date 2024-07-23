@@ -220,14 +220,13 @@ Also, watch Matt’s talk (very insightful and very entertaining) from the 2017 
 - [x] ARSET - Introduction to Synthetic Aperture Radar, NASA Applied Science
 - [x] ARSET - Humanitarian Applications Using NASA Earth Observations, NASA Applied Science
 
-
 ### AI, Deep Learning, Ethics, ML explainability
 - [x] [AI for Everyone](https://www.coursera.org/account/accomplishments/certificate/W9V3WB6GADC4), Coursera
 - [x] [Machine learning explainability](https://www.kaggle.com/learn/certification/mycarta/machine-learning-explainability), Kaggle
 - [x] [Intro to AI Ethics](https://www.kaggle.com/learn/certification/mycarta/intro-to-ai-ethics), Kaggle
+- [x] [TensorFlow: Neural Networks and Working with Tables](https://www.linkedin.com/learning/certificates/2c6a1947d69f738ac6afecc03635bd07b1a1aed31c39a2fa9a380fb574cf810c), LinkedIn Learning
+- [x] [TensorFlow 2.0: Working with Images]((https://www.linkedin.com/learning/certificates/5e57eadefad9f19661cc24118d326d794db853bf1b9c781bccff213312fe0001), LinkedIn Learning
 - [ ] ChatGPT Prompt Engineering for Developers, Deeplearning.AI
-- [ ] Building Systems with the ChatGPT API, Deeplearning.AI
-- [ ] Evaluating and Debugging Generative AI, Deeplearning.AI
 
 ### Diversity, Equity, Inclusion
 - [x] [Understanding Gender Equity](https://courses.edx.org/certificates/a052cc54020b465096d2cf5c1c557877) - Race, Gender, and Workplace Equity certificate, edX
@@ -247,14 +246,14 @@ Also, watch Matt’s talk (very insightful and very entertaining) from the 2017 
 
 -----
 ## Book library
-It looks like it has become very trendy these days to post a picture your datascience library. I admit it, I could not resist doing it too! Here is my collection of books, with a focus on computative geoscience and visualization (… and keeping myself honest about what I have not read yet…)
+It looks like it has become very trendy these days to post a picture your datascience library. I admit it, I could not resist doing it too! Here is my collection of books, with a focus on Machine Learning and Data Exploration
 <p align="center">
-  <img width="650" src="https://user-images.githubusercontent.com/7424763/170873518-fdae9db3-9b94-4c43-9784-2199331f5373.PNG">
+  <img width="650" src="https://github.com/user-attachments/assets/0f0cde45-11d3-42b0-9dcd-4067ef8abf3b">
 </p>
-
 -----
 ## Community engagement
-- Beta-testing courses by DeepLEarning.AI 
+- Beta-testing courses by DeepLEarning.AI (2023).
+
 - Mentor, Canadian Society of Exploration Geophysicists (volunteer). From 2010 to 2020: mentored in Geophysics - and more recently in both Geophysics and Data Science - 3rd-4th year undergraduate students, and graduate students.
 - Co-founder and coordinator of the Calgary GeoPy group, which run semi-regular meetups for 2018 and 2019.
 - Editor, Canadian Society of Exploration Geophysicists (volunteer). From 2014 to 2016 Editor for the society's journal Recorder; notable project: conceived and coordinated a special topic edition on Programming in Geoscience.
