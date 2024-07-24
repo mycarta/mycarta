@@ -201,14 +201,14 @@ Also, watch Matt’s talk (very insightful and very entertaining) from the 2017 
 
 ### Intermediate Data Science
 - [x] [Pandas](https://www.kaggle.com/learn/certification/mycarta/pandas), Kaggle
-- [x] [Relational Databases Essential Training](https://www.linkedin.com/learning/certificates/55968c78f13a8f7a7cdd0ec188842aa8ee75fe956f17435565fcde9b374e1e51), LinkedIn Learning
+- [x] [Intermediate Machine Learning](https://www.kaggle.com/learn/certification/mycarta/intermediate-machine-learning), Kaggle
 - [x] Pandas short course (as a beta tester), DeepLearning.AI
-- [x] [15 Mistakes to Avoid in Data Science](https://www.linkedin.com/learning/certificates/80c3a9379c2a96b55083dab7f651cf99ea2b01d52c56ea4684e22befeb06cfdb?trk=share_certificate), LinkedIn Learning
-- [ ] Intermediate Machine Learning, Kaggle
+- [x] [Relational Databases Essential Training](https://www.linkedin.com/learning/certificates/55968c78f13a8f7a7cdd0ec188842aa8ee75fe956f17435565fcde9b374e1e51), LinkedIn Learning
 
 ### Analytics
 - [x] [Spotfire Essentials I](https://support.ruths.ai/support/solutions/articles/6000191001-kickstart-how-to-schedule-training), Ruths.ai (now Petro.ai)
 - [x] [Spotfire Essentials II](https://support.ruths.ai/support/solutions/articles/6000191001-kickstart-how-to-schedule-training), Ruths.ai (now Petro.ai)
+- [x] [15 Mistakes to Avoid in Data Science](https://www.linkedin.com/learning/certificates/80c3a9379c2a96b55083dab7f651cf99ea2b01d52c56ea4684e22befeb06cfdb?trk=share_certificate), LinkedIn Learning
 
 ### GIS and Geospatial
 - [x] [Climate Geospatial Analysis in Python with Xarray](https://www.coursera.org/account/accomplishments/certificate/VMKXGAQKGGFP),  Coursera Project Network
@@ -224,7 +224,6 @@ Also, watch Matt’s talk (very insightful and very entertaining) from the 2017 
 - [x] [Intro to AI Ethics](https://www.kaggle.com/learn/certification/mycarta/intro-to-ai-ethics), Kaggle
 - [x] [TensorFlow: Neural Networks and Working with Tables](https://www.linkedin.com/learning/certificates/2c6a1947d69f738ac6afecc03635bd07b1a1aed31c39a2fa9a380fb574cf810c), LinkedIn Learning
 - [x] [TensorFlow 2.0: Working with Images](https://www.linkedin.com/learning/certificates/5e57eadefad9f19661cc24118d326d794db853bf1b9c781bccff213312fe0001), LinkedIn Learning
-- [ ] ChatGPT Prompt Engineering for Developers, Deeplearning.AI
 
 ### Diversity, Equity, Inclusion
 - [x] [Understanding Gender Equity](https://courses.edx.org/certificates/a052cc54020b465096d2cf5c1c557877) - Race, Gender, and Workplace Equity certificate, edX
