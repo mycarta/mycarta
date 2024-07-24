@@ -201,6 +201,7 @@ Also, watch Matt’s talk (very insightful and very entertaining) from the 2017 
 
 ### Intermediate Data Science
 - [x] [Pandas](https://www.kaggle.com/learn/certification/mycarta/pandas), Kaggle
+- [x] [Relational Databases Essential Training](https://www.linkedin.com/learning/certificates/55968c78f13a8f7a7cdd0ec188842aa8ee75fe956f17435565fcde9b374e1e51), LinkedIn Learning
 - [x] Pandas short course (as a beta tester), DeepLearning.AI
 - [x] [15 Mistakes to Avoid in Data Science](https://www.linkedin.com/learning/certificates/80c3a9379c2a96b55083dab7f651cf99ea2b01d52c56ea4684e22befeb06cfdb?trk=share_certificate), LinkedIn Learning
 - [x] Intermediate Machine Learning, Kaggle
