@@ -187,8 +187,8 @@ Also, watch Matt’s talk (very insightful and very entertaining) from the 2017 
   <summary>Click here to expand the roadmap section</summary> 
 
 ### Management
-- [x] Project Management Skills for LEaders, Linkedin Learning
-- [x] Decision Intelligence, Linkedin Learning
+- [x] [Project Management Skills for Leaders](https://www.linkedin.com/learning/certificates/712a6099da116abc52b2f66b4517b03c8883d61ed82ba27e11211b45fee03220), Linkedin Learning
+- [x] [Decision Intelligence](https://www.linkedin.com/learning/certificates/63634e29508a927cd70844c71f66383b561224c664f2e26e16854bf36eb2d38d), Linkedin Learning
 
 ### Python development, unit testing, and debugging
 - [x] [Test-Driven Development With PyTest](https://realpython.com/certificates/96ecff0f-2d92-422f-b3d8-f6790a03f872/), Real Python
