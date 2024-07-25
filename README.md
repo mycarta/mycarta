@@ -184,7 +184,7 @@ Also, watch Matt’s talk (very insightful and very entertaining) from the 2017 
 ## My Data Science continuous learning roadmap
 📕
 <details>
-  <summary>Click here to expand the roadmap section</summary> 
+  <summary>Click here to expand/collapse the roadmap section</summary> 
 
 ### Management
 - [x] [Project Management Skills for Leaders](https://www.linkedin.com/learning/certificates/712a6099da116abc52b2f66b4517b03c8883d61ed82ba27e11211b45fee03220), Linkedin Learning
