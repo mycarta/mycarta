@@ -223,7 +223,9 @@ Also, watch Matt’s talk (very insightful and very entertaining) from the 2017 
 - [x] [Machine learning explainability](https://www.kaggle.com/learn/certification/mycarta/machine-learning-explainability), Kaggle
 - [x] [Intro to AI Ethics](https://www.kaggle.com/learn/certification/mycarta/intro-to-ai-ethics), Kaggle
 - [x] [TensorFlow: Neural Networks and Working with Tables](https://www.linkedin.com/learning/certificates/2c6a1947d69f738ac6afecc03635bd07b1a1aed31c39a2fa9a380fb574cf810c), LinkedIn Learning
+- [x] [TensorFlow: Working with NLP](https://www.linkedin.com/learning/certificates/683eb4ef9b3dfa5a73cc8b97eb3381551a4a2ce19dcc1146edd8b866207416b1), LinkedIn Learning
 - [x] [TensorFlow 2.0: Working with Images](https://www.linkedin.com/learning/certificates/5e57eadefad9f19661cc24118d326d794db853bf1b9c781bccff213312fe0001), LinkedIn Learning
+
 
 ### Diversity, Equity, Inclusion
 - [x] [Understanding Gender Equity](https://courses.edx.org/certificates/a052cc54020b465096d2cf5c1c557877) - Race, Gender, and Workplace Equity certificate, edX
