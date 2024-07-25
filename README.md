@@ -203,6 +203,7 @@ Also, watch Matt’s talk (very insightful and very entertaining) from the 2017 
 - [x] [Pandas](https://www.kaggle.com/learn/certification/mycarta/pandas), Kaggle
 - [x] [Intermediate Machine Learning](https://www.kaggle.com/learn/certification/mycarta/intermediate-machine-learning), Kaggle
 - [x] Pandas short course (as a beta tester), DeepLearning.AI
+- [x] [Intro to SQL](https://www.kaggle.com/learn/certification/mycarta/intro-to-sql), Kaggle
 - [x] [Relational Databases Essential Training](https://www.linkedin.com/learning/certificates/55968c78f13a8f7a7cdd0ec188842aa8ee75fe956f17435565fcde9b374e1e51), LinkedIn Learning
 
 ### Analytics
