@@ -221,6 +221,8 @@ Also, watch Matt’s talk (very insightful and very entertaining) from the 2017 
 
 ### AI, Deep Learning, Ethics, ML explainability
 - [x] [AI for Everyone](https://www.coursera.org/account/accomplishments/certificate/W9V3WB6GADC4), Coursera
+- [x] [AI Python for Beginners: Basics of AI Python Coding](https://learn.deeplearning.ai/accomplishments/22bc794a-e168-45d3-a778-03aab98f2d2f?), DeepLearning.AI
+- [ ] [AI Python for Beginners: Automating Tasks with Python](), DeepLearning.AI
 - [x] [Machine learning explainability](https://www.kaggle.com/learn/certification/mycarta/machine-learning-explainability), Kaggle
 - [x] [Intro to AI Ethics](https://www.kaggle.com/learn/certification/mycarta/intro-to-ai-ethics), Kaggle
 - [x] [TensorFlow: Neural Networks and Working with Tables](https://www.linkedin.com/learning/certificates/2c6a1947d69f738ac6afecc03635bd07b1a1aed31c39a2fa9a380fb574cf810c), LinkedIn Learning
