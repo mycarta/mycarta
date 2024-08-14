@@ -4,10 +4,9 @@
 ### I am a passionate, actively curious, data-driven geoscientist
 
 - :computer: I’m currently enrolled in: [AlaskaX's Synthetic Aperture Radar (SAR): Applications Professional Certificate](https://www.edx.org/professional-certificate/alaskax-synthetic-aperture-radar-sar-applications) 
-- 🐍 I’m currently working through: [Grokking Algorithms, 2nd edition](https://www.manning.com/books/grokking-algorithms-second-edition)
+- 🐍 Book I am working through: [Grokking Algorithms, 2nd edition](https://www.manning.com/books/grokking-algorithms-second-edition)
 - :blue_book: Evening read: [Love letter to the Earth by Thich Nhat Hanh](https://www.parallax.org/product/love-letter-to-the-earth/)
 - ⏭ Best Video project ever: [Let's Enhance](https://vimeo.com/69663986%20) by [DUNK3D](https://dunk3d.tumblr.com/post/54128461565/thisbelongsinamuseum)
-- 🎥 I'm currently watching: [Perspectives on Wind Energy](https://www.youtube.com/watch?v=sqi_f23CMv0&list=PL1lvXOhY32ai-G73J4vzM-ktCLw8JU3GP)
 - ✏️ Hobby: drawing, juggling, longboard
 - 🃏 Fun fact: a recent fixation with card tricks and Rubik's cube
 - 📝 Blog: [mycarta](https://mycartablog.com/)
@@ -221,8 +220,7 @@ Also, watch Matt’s talk (very insightful and very entertaining) from the 2017 
 
 ### AI, Deep Learning, Ethics, ML explainability
 - [x] [AI for Everyone](https://www.coursera.org/account/accomplishments/certificate/W9V3WB6GADC4), Coursera
-- [x] [AI Python for Beginners: Basics of AI Python Coding](https://learn.deeplearning.ai/accomplishments/22bc794a-e168-45d3-a778-03aab98f2d2f?), DeepLearning.AI
-- [ ] [AI Python for Beginners: Automating Tasks with Python](), DeepLearning.AI
+- [x] [Basics of AI Python Coding](https://learn.deeplearning.ai/accomplishments/22bc794a-e168-45d3-a778-03aab98f2d2f?), DeepLearning.AI
 - [x] [Machine learning explainability](https://www.kaggle.com/learn/certification/mycarta/machine-learning-explainability), Kaggle
 - [x] [Intro to AI Ethics](https://www.kaggle.com/learn/certification/mycarta/intro-to-ai-ethics), Kaggle
 - [x] [TensorFlow: Neural Networks and Working with Tables](https://www.linkedin.com/learning/certificates/2c6a1947d69f738ac6afecc03635bd07b1a1aed31c39a2fa9a380fb574cf810c), LinkedIn Learning
