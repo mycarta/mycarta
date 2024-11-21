@@ -227,7 +227,7 @@ Also, watch Matt’s talk (very insightful and very entertaining) from the 2017 
 - [x] [TensorFlow: Working with NLP](https://www.linkedin.com/learning/certificates/683eb4ef9b3dfa5a73cc8b97eb3381551a4a2ce19dcc1146edd8b866207416b1), LinkedIn Learning
 - [x] [TensorFlow 2.0: Working with Images](https://www.linkedin.com/learning/certificates/5e57eadefad9f19661cc24118d326d794db853bf1b9c781bccff213312fe0001), LinkedIn Learning
 - [x] [Advanced AI: Transformers for Computer Vision](https://www.linkedin.com/learning/certificates/a3cb2e6ddef5f76122b0703ba4db00de629391db254b6c45330bfab6170d51e1), LinkedIn Learning
-
+)
 
 ### Diversity, Equity, Inclusion
 - [x] [Understanding Gender Equity](https://courses.edx.org/certificates/a052cc54020b465096d2cf5c1c557877) - Race, Gender, and Workplace Equity certificate, edX
@@ -256,11 +256,9 @@ It looks like it has become very trendy these days to post a picture your datasc
 -----
 
 ## Community engagement
-- Beta-testing courses by DeepLEarning.AI (2023).
+- Present: board member of [Software Underground](https://github.com/softwareunderground)
 
-- Mentor, Canadian Society of Exploration Geophysicists (volunteer). From 2010 to 2020: mentored in Geophysics - and more recently in both Geophysics and Data Science - 3rd-4th year undergraduate students, and graduate students.
-- Co-founder and coordinator of the Calgary GeoPy group, which run semi-regular meetups for 2018 and 2019.
-- Editor, Canadian Society of Exploration Geophysicists (volunteer). From 2014 to 2016 Editor for the society's journal Recorder; notable project: conceived and coordinated a special topic edition on Programming in Geoscience.
+- Past: Student mentor, Canadian Society of Exploration Geophysicists (volunteer); Co-founder and coordinator of the Calgary GeoPy group;  Editor, Canadian Society of Exploration Geophysicists (THe Recorder publication).
 
 -----
 ## Stuff I would do differently
