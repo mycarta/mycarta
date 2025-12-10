@@ -3,7 +3,7 @@
 
 ### I am a passionate, actively curious, data-driven geoscientist
 
-- :computer: I’m currently enrolled in: [AlaskaX's Synthetic Aperture Radar (SAR): Applications Professional Certificate](https://www.edx.org/professional-certificate/alaskax-synthetic-aperture-radar-sar-applications) 
+- :computer: I’m currently enrolled in: [Jupyter AI: AI Coding in Notebooks, DeepLearning.ai](https://learn.deeplearning.ai/courses/jupyter-ai-coding-in-notebooks)
 - 🐍 Book I am working through: [Grokking Algorithms, 2nd edition](https://www.manning.com/books/grokking-algorithms-second-edition)
 - :blue_book: Evening read: [Love letter to the Earth by Thich Nhat Hanh](https://www.parallax.org/product/love-letter-to-the-earth/)
 - ⏭ Best Video project ever: [Let's Enhance](https://vimeo.com/69663986%20) by [DUNK3D](https://dunk3d.tumblr.com/post/54128461565/thisbelongsinamuseum)
