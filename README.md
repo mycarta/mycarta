@@ -3,9 +3,9 @@
 
 ### I am a passionate, actively curious, data-driven geoscientist
 
-- :computer: I’m currently enrolled in: [Jupyter AI: AI Coding in Notebooks, DeepLearning.ai](https://learn.deeplearning.ai/courses/jupyter-ai-coding-in-notebooks)
-- 🐍 Book I am working through: [Grokking Algorithms, 2nd edition](https://www.manning.com/books/grokking-algorithms-second-edition)
-- :blue_book: Evening read: [Love letter to the Earth by Thich Nhat Hanh](https://www.parallax.org/product/love-letter-to-the-earth/)
+- :computer: I’m currently enrolled in: [Jupyter AI: AI Coding in Notebooks, DeepLearning.AI](https://learn.deeplearning.ai/courses/jupyter-ai-coding-in-notebooks)
+- 🐍 Book I am working through: [Learn AI-Assisted Python Programming, Second Edition](https://www.manning.com/books/learn-ai-assisted-python-programming-second-edition)
+- :blue_book: Evening read: [Calm in the Storm, Zen Ways to Cultivate Stability in an Anxious World](https://www.penguinrandomhouse.ca/books/800046/calm-in-the-storm-by-jo-confino-and-brother-phap-huu/9780938077558)
 - ⏭ Best Video project ever: [Let's Enhance](https://vimeo.com/69663986%20) by [DUNK3D](https://dunk3d.tumblr.com/post/54128461565/thisbelongsinamuseum)
 - ✏️ Hobby: drawing, juggling, longboard
 - 🃏 Fun fact: a recent fixation with card tricks and Rubik's cube
