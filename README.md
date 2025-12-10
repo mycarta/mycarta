@@ -215,8 +215,9 @@ Also, watch Matt’s talk (very insightful and very entertaining) from the 2017 
 - [x] ARSET - Fundamentals of Remote Sensing, NASA Applied Science
 - [x] ARSET - Introduction to Synthetic Aperture Radar, NASA Applied Science
 - [x] ARSET - Humanitarian Applications Using NASA Earth Observations, NASA Applied Science
-- [x] [SAR-400: Synthetic Aperture Radar: Foundations](https://courses.edx.org/certificates/3055b8675c5047039e899f974504eaf0), edX
-- [ ] Echoes in space Introduction into the principles and applications of radar remote sensing, EO College
+- [x] [Basic Principles of Radar Backscatterg](https://eo-college.org/courses/basic-principles-of-radar-backscatter/), EO College
+- [x] [Synthetic Aperture Radar (SAR): Applications - Professional Certificate](https://credentials.edx.org/credentials/a4f172b89b5043a7b0282b3b289fe838/), edX
+
 
 ### AI, Deep Learning, Ethics, ML explainability
 - [x] [AI for Everyone](https://www.coursera.org/account/accomplishments/certificate/W9V3WB6GADC4), Coursera
@@ -230,6 +231,7 @@ Also, watch Matt’s talk (very insightful and very entertaining) from the 2017 
 - [x] [TensorFlow: Working with NLP](https://www.linkedin.com/learning/certificates/683eb4ef9b3dfa5a73cc8b97eb3381551a4a2ce19dcc1146edd8b866207416b1), LinkedIn Learning
 - [x] [TensorFlow 2.0: Working with Images](https://www.linkedin.com/learning/certificates/5e57eadefad9f19661cc24118d326d794db853bf1b9c781bccff213312fe0001), LinkedIn Learning
 - [x] [Advanced AI: Transformers for Computer Vision](https://www.linkedin.com/learning/certificates/a3cb2e6ddef5f76122b0703ba4db00de629391db254b6c45330bfab6170d51e1), LinkedIn Learning)
+- [x] [Agentic AI](https://learn.deeplearning.ai/certificates/df930a7d-ccde-4f42-8dc0-12b4c1e53535), DeepLearning.AI
 
 ### Diversity, Equity, Inclusion
 - [x] [Understanding Gender Equity](https://courses.edx.org/certificates/a052cc54020b465096d2cf5c1c557877) - Race, Gender, and Workplace Equity certificate, edX
