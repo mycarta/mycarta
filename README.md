@@ -215,7 +215,7 @@ Also, watch Matt’s talk (very insightful and very entertaining) from the 2017 
 - [x] ARSET - Fundamentals of Remote Sensing, NASA Applied Science
 - [x] ARSET - Introduction to Synthetic Aperture Radar, NASA Applied Science
 - [x] ARSET - Humanitarian Applications Using NASA Earth Observations, NASA Applied Science
-- [x] [Basic Principles of Radar Backscatterg](https://eo-college.org/courses/basic-principles-of-radar-backscatter/), EO College
+- [x] [Basic Principles of Radar Backscattering](https://eo-college.org/courses/basic-principles-of-radar-backscatter/), EO College
 - [x] [Synthetic Aperture Radar (SAR): Applications - Professional Certificate](https://credentials.edx.org/credentials/a4f172b89b5043a7b0282b3b289fe838/), edX
 
 
