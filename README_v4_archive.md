@@ -1,18 +1,18 @@
-﻿<!-- Archived: 2026-03-03. Replaced by v5. -->
-## Ciao! ðŸ‘‹ I'm Matteo (he/him  <img width="18" src="https://cdn3.emoji.gg/emojis/3234_rainbow_indicator_equal_sign.png"> )
+<!-- Archived: 2026-03-03. Replaced by v5. -->
+## Ciao! 👋 I'm Matteo (he/him  <img width="18" src="https://cdn3.emoji.gg/emojis/3234_rainbow_indicator_equal_sign.png"> )
 
 
 ### I am a passionate, actively curious, data-driven geoscientist
 
-- :computer: Iâ€™m currently enrolled in: [Jupyter AI: AI Coding in Notebooks, DeepLearning.AI](https://learn.deeplearning.ai/courses/jupyter-ai-coding-in-notebooks)
-- ðŸ Book I am working through: [Learn AI-Assisted Python Programming, Second Edition](https://www.manning.com/books/learn-ai-assisted-python-programming-second-edition)
+- :computer: I’m currently enrolled in: [Jupyter AI: AI Coding in Notebooks, DeepLearning.AI](https://learn.deeplearning.ai/courses/jupyter-ai-coding-in-notebooks)
+- 🐍 Book I am working through: [Learn AI-Assisted Python Programming, Second Edition](https://www.manning.com/books/learn-ai-assisted-python-programming-second-edition)
 - :blue_book: Evening read: [Calm in the Storm, Zen Ways to Cultivate Stability in an Anxious World](https://www.penguinrandomhouse.ca/books/800046/calm-in-the-storm-by-jo-confino-and-brother-phap-huu/9780938077558)
-- â­ Best Video project ever: [Let's Enhance](https://vimeo.com/69663986%20) by [DUNK3D](https://dunk3d.tumblr.com/post/54128461565/thisbelongsinamuseum)
-- âœï¸ Hobby: drawing, juggling, longboard
-- ðŸƒ Fun fact: a recent fixation with card tricks and Rubik's cube
-- ðŸ“ Blog: [mycarta](https://mycartablog.com/)
-- ðŸ“« How to reach me: matteo@mycarta.ca
-- ðŸ¦ On X (FKA Twitter) I **was** [@my_carta](https://twitter.com/My_Carta)
+- ⏭ Best Video project ever: [Let's Enhance](https://vimeo.com/69663986%20) by [DUNK3D](https://dunk3d.tumblr.com/post/54128461565/thisbelongsinamuseum)
+- ✏️ Hobby: drawing, juggling, longboard
+- 🃏 Fun fact: a recent fixation with card tricks and Rubik's cube
+- 📝 Blog: [mycarta](https://mycartablog.com/)
+- 📫 How to reach me: matteo@mycarta.ca
+- 🐦 On X (FKA Twitter) I **was** [@my_carta](https://twitter.com/My_Carta)
 
 
 -----
@@ -49,7 +49,7 @@
 ## Featured blog posts
 - [Be a geoscience and data science detective](https://mycarta.wordpress.com/2020/09/16/be-a-geoscience-and-data-science-detective/)
 - [From zero to JupyterLab pro on Windows 10](https://mycarta.wordpress.com/2019/07/09/from-zero-to-jupyterlab-pro-on-windows-10/)
-- [Visual data exploration in Python â€“ correlation, confidence, spuriousness](https://mycarta.wordpress.com/2019/03/17/visual-data-exploration-in-python-correlation-confidence-spuriousness/)
+- [Visual data exploration in Python – correlation, confidence, spuriousness](https://mycarta.wordpress.com/2019/03/17/visual-data-exploration-in-python-correlation-confidence-spuriousness/)
 
 -----
 ## Articles published in Geophysical literature
@@ -99,9 +99,9 @@ Blog posts:
 
 [sketch2model](https://mycarta.wordpress.com/2016/05/04/sketch2model)
 
-[sketch2model â€“ sketch image enhancements](https://mycarta.wordpress.com/2016/05/25/sketch2model-sketch-image-enhancements)
+[sketch2model – sketch image enhancements](https://mycarta.wordpress.com/2016/05/25/sketch2model-sketch-image-enhancements)
 
-[sketch2model â€“ linking edges with mathematical morphology](https://mycarta.wordpress.com/2016/07/22/sketch2model-linking-edges-with-mathematical-morphology)
+[sketch2model – linking edges with mathematical morphology](https://mycarta.wordpress.com/2016/07/22/sketch2model-linking-edges-with-mathematical-morphology)
 
 Workflow:
 <p align="center">
@@ -133,7 +133,7 @@ And the we set out to work. We were really impressed with the final result, see 
   <img width="650" src="https://user-images.githubusercontent.com/7424763/172074830-f9cf1ed1-b899-4823-8574-d4ac0252f43b.png">
 </p>
 
-Also, watch Mattâ€™s talk (very insightful and very entertaining) from the 2017 Calgary Geoconvention below:
+Also, watch Matt’s talk (very insightful and very entertaining) from the 2017 Calgary Geoconvention below:
 <p align="center">
   <a href="https://youtu.be/7DnudEsb6hU " target="_blank"><img src="https://user-images.githubusercontent.com/7424763/172075215-75d9b1fb-0202-4f0c-b170-4f12a66cf890.png" alt="Recovering data from seismic images" width="650" /></a>
 </p>
@@ -152,7 +152,7 @@ Also, watch Mattâ€™s talk (very insightful and very entertaining) from the 
   <img width="500" src="https://mycarta.files.wordpress.com/2020/09/missingno_completeness_animation-1.gif">
 </p>
 
-- 3D model of the ternary system quartz â€“ nepheline â€“ kalsilite, also called petrogenyâ€™s â€œresiduaâ€ system, which is used to describe the composition of many cooled residual magma. This was an advanced pet project while I was a student in Geology at the University of Rome, Italy. It involved using AutoCAD and 3D Studio Max to create a WRLM file. For the 3D sketchfab version of the model, I used a DXF export and re-rendered using Rhino3D. See the static snapshot below; navigate, inspet, and download the model on [Sketchfab](https://sketchfab.com/3d-models/ternary-system-quartz-nepheline-kalsilite-c8225185f7004ad0a23533ca191b0c6b)
+- 3D model of the ternary system quartz – nepheline – kalsilite, also called petrogeny’s “residua” system, which is used to describe the composition of many cooled residual magma. This was an advanced pet project while I was a student in Geology at the University of Rome, Italy. It involved using AutoCAD and 3D Studio Max to create a WRLM file. For the 3D sketchfab version of the model, I used a DXF export and re-rendered using Rhino3D. See the static snapshot below; navigate, inspet, and download the model on [Sketchfab](https://sketchfab.com/3d-models/ternary-system-quartz-nepheline-kalsilite-c8225185f7004ad0a23533ca191b0c6b)
 <p align="center">
 <img width="650"  src="https://user-images.githubusercontent.com/7424763/171786565-3452ddf5-a05b-4279-8cec-26c09a394415.gif">
 </p>
@@ -163,7 +163,7 @@ Also, watch Mattâ€™s talk (very insightful and very entertaining) from the 
 <img width="650" src="https://user-images.githubusercontent.com/7424763/171785612-052ccf71-62c7-42ad-87e5-26a6de6e7b3c.gif">
 </p>
 
-- 3D paths of colormap in CIELAB color space. These are a very useful way to analyze a colormap as they show clearly where abrupt chages in contrast happen; these are responsible for artifacts in mapping when these colormaps are used (more details in [this blog post](https://mycarta.wordpress.com/2013/02/21/perceptual-rainbow-palette-the-method/) ). As example in the two animations below (produced usingÂ theÂ [3D colorÂ inspectorÂ plugin](https://imagej.nih.gov/ij/plugins/color-inspector.html)Â forÂ ImageJ), notice the may abrupt changes in the path for the classic Jet colormap (top) and compary to the regular piraling path of a more perceptual rainbow, called CubicYF (bottom), which I created:
+- 3D paths of colormap in CIELAB color space. These are a very useful way to analyze a colormap as they show clearly where abrupt chages in contrast happen; these are responsible for artifacts in mapping when these colormaps are used (more details in [this blog post](https://mycarta.wordpress.com/2013/02/21/perceptual-rainbow-palette-the-method/) ). As example in the two animations below (produced using the [3D color inspector plugin](https://imagej.nih.gov/ij/plugins/color-inspector.html) for ImageJ), notice the may abrupt changes in the path for the classic Jet colormap (top) and compary to the regular piraling path of a more perceptual rainbow, called CubicYF (bottom), which I created:
 <p align="center">
 <img width="400" src="https://user-images.githubusercontent.com/7424763/170847059-1afa96d0-7231-4005-98d1-14e5cbe90061.gif">
 </p>
@@ -182,7 +182,7 @@ Also, watch Mattâ€™s talk (very insightful and very entertaining) from the 
 
 -----
 ## My Data Science continuous learning roadmap
-ðŸ“•
+📕
 <details>
   <summary>Click here to expand/collapse the roadmap section</summary> 
 
@@ -248,7 +248,7 @@ Also, watch Mattâ€™s talk (very insightful and very entertaining) from the 
 ### Communication tools
 - [x] [Enhance Organizational Communications with Slack](https://www.coursera.org/account/accomplishments/certificate/JEBLDLJQLSZN), Coursera Project Network
 </details>
-ðŸ“•
+📕
 
 -----
 ## Book library
