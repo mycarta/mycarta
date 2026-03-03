@@ -161,12 +161,6 @@ Links: [Play](https://mycarta.github.io/Dandelions) | [GitHub](https://github.co
 
 ---
 
-## GitHub Stats
-
-<a href="https://github.com/anuraghazra/github-readme-stats"><img width="600" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=mycarta&theme=blue-green&show_icons=true&custom_title="></a>
-
----
-
 <details>
 <summary><b>Previous Work & Additional Projects</b></summary>
 
