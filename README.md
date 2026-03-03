@@ -1,269 +1,216 @@
-## Ciao! 👋 I'm Matteo (he/him  <img width="18" src="https://cdn3.emoji.gg/emojis/3234_rainbow_indicator_equal_sign.png"> )
+﻿# Ciao! I'm Matteo Niccoli (he/him)
 
+### Geophysicist | Data Scientist | Building Tools for Rigorous Thinking
 
-### I am a passionate, actively curious, data-driven geoscientist
+I'm a geoscientist who solves problems with Python â€” from subsurface characterization to statistical detection of flawed research. My work sits at the intersection of domain expertise, data science, and AI-assisted reasoning. I build tools that make quantitative skepticism systematic: checking assumptions, questioning numbers, and catching the patterns that don't survive scrutiny.
 
-- :computer: I’m currently enrolled in: [Jupyter AI: AI Coding in Notebooks, DeepLearning.AI](https://learn.deeplearning.ai/courses/jupyter-ai-coding-in-notebooks)
-- 🐍 Book I am working through: [Learn AI-Assisted Python Programming, Second Edition](https://www.manning.com/books/learn-ai-assisted-python-programming-second-edition)
-- :blue_book: Evening read: [Calm in the Storm, Zen Ways to Cultivate Stability in an Anxious World](https://www.penguinrandomhouse.ca/books/800046/calm-in-the-storm-by-jo-confino-and-brother-phap-huu/9780938077558)
-- ⏭ Best Video project ever: [Let's Enhance](https://vimeo.com/69663986%20) by [DUNK3D](https://dunk3d.tumblr.com/post/54128461565/thisbelongsinamuseum)
-- ✏️ Hobby: drawing, juggling, longboard
-- 🃏 Fun fact: a recent fixation with card tricks and Rubik's cube
-- 📝 Blog: [mycarta](https://mycartablog.com/)
-- 📫 How to reach me: matteo@mycarta.ca
-- 🐦 On X (FKA Twitter) I **was** [@my_carta](https://twitter.com/My_Carta)
+Currently developing agentic AI applications for document extraction in geotechnical engineering.
 
+Board member at [Software Underground](https://softwareunderground.org/) â€” open-source geoscience community.
 
------
-# Table of Contents
-1. [GitHub and Stack Overflow Stats](#GitHub-and-Stack-Overflow-Stats)
-2. [Skills]()
-3. [Featured blog posts](#Featured-blog-posts)
-4. [Articles published in Geophysical literature](#Articles-published-in-Geophysical-literature)
-5. [Upcoming articles and tutorials](#Upcoming-articles-and-tutorials)
-6. [Projects portfolio](#Projects-portfolio)
-7. [Exploratory Data Analysis and visualization portfolio](#Exploratory-Data-Analysis-and-visualization-portfolio)
-8. [Coding challenges](#Coding-challenges)
-9. [My Data Science continuous learning roadmap](#My-Data-Science-continuous-learning-roadmap)
-10. [Book library](#Book-library)
-11. [Community engagement](#Community-engagement)
-12. [Stuff I would do differently](#Stuff-I-would-do-differently)
+Contact: matteo@mycarta.ca | Blog: [mycarta](https://mycartablog.com) | Twitter: [@my_carta](https://twitter.com/My_Carta)
 
------
-## GitHub and Stack Overflow Stats
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mycarta&theme=blue-green&show_icons=true&custom_title= )](https://github.com/anuraghazra/github-readme-stats&count_private=true)
+---
 
-<a href="https://stackexchange.com/users/1025180"><img src="https://stackexchange.com/users/flair/1025180.png?theme=dark" width="250" height="60" alt="profile for MyCarta on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for MyCarta on Stack Exchange, a network of free, community-driven Q&amp;A sites">
-</a>
+## Featured Work
 
------
-## Skills
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,matlab,octave,git,github,vim" />
-  </a>
-</p>
+### Bullshit Detector â€” Statistical Screening for Research Papers *(open source)*
 
------
-## Featured blog posts
-- [Be a geoscience and data science detective](https://mycarta.wordpress.com/2020/09/16/be-a-geoscience-and-data-science-detective/)
-- [From zero to JupyterLab pro on Windows 10](https://mycarta.wordpress.com/2019/07/09/from-zero-to-jupyterlab-pro-on-windows-10/)
-- [Visual data exploration in Python – correlation, confidence, spuriousness](https://mycarta.wordpress.com/2019/03/17/visual-data-exploration-in-python-correlation-confidence-spuriousness/)
+A Python package for systematically screening published research for statistical red flags and methodological issues. Four-tier detection system, from quick API lookups to deep data analysis.
 
------
-## Articles published in Geophysical literature
-- [Introduction to Classification with SVMs](https://csegrecorder.com/assets/pdfs/2018/2018-01-RECORDER-Machine_Learning_in_Geoscience_V.pdf). Article (with [Jupyter notebooks](https://github.com/CSEG/Machine-Learning-CSEG-special-issue/tree/master/Matteo_Niccoli)) offering an intuitive understanding of SVMs using toy datasets inspired by classification problems in geophysics.
-- [Mapping and validating lineaments](https://library.seg.org/doi/10.1190/tle34080948.1). Article (with [Jupyter notebook](https://github.com/seg/tutorials-2015/blob/master/1508_Mapping_and_validating_lineamenti/1508_Mapping_and_validating_lineaments.ipynb)) demonstrating how to extract and enhance geologic lineaments from gravity data, and colocate them into a single map to increase confidence.
+**What it catches:** p-value inconsistencies, impossible descriptive statistics (GRIMMER), spurious correlations in high-dimensional data, underpowered studies masquerading as significant findings, causal claims without evidence, and language escalation from "association" to "effect."
 
-- [How to evaluate and compare color maps](https://wiki.seg.org/wiki/How_to_evaluate_and_compare_color_maps). Article (with [Jupyter notebook](https://github.com/seg/tutorials-2014/blob/master/1408_Evaluate_and_compare_colormaps/How_to_evaluate_and_compare_colormaps.ipynb)) demonstrating how to evaluate default color maps and choose more perceptual alternatives. To date (2025), it still **ranks in the [top 30 most downloaded papers published between 2010-2020](https://library.seg.org/action/doSearch?SeriesKey=leedff&sortBy=downloaded&startPage=0&AfterYear=2010&BeforeYear=2020&queryID=15%2F392288702&pageSize=30) from The Leading Edge (Society of Exploration Geophysicists)**. It is based on research first published on my blog, Perceptual rainbow palette, [part a](https://mycarta.wordpress.com/2013/02/21/perceptual-rainbow-palette-the-method/) and [part b](https://mycarta.wordpress.com/2013/03/06/perceptual-rainbow-palette-the-goodies/). **The two parts are top results for the Google search [perceptual rainbow](https://www.google.com/search?q=perceptual+rainbow) and [perceptual palette images](https://www.google.com/search?q=perceptual+palette+images)**, and are often used as reference in talks and other publications on colormaps (for example [this Matplotlib talk at SciPy 2014](https://www.youtube.com/watch?v=rkDgBvT-giw&t=855s)).
+**What makes it different:** The package includes 12 structured skill files (~2,500 lines) that teach an LLM *when* to reach for which tool and *how* to interpret what it finds. The reasoning frameworks â€” Mill's Methods inverted as audit checks, Fermi sanity estimation, logical fallacy detection â€” are as important as the code.
 
------
-## Upcoming articles and tutorials
-##### For 52 Things You Should Know About Geocomputing: A crowdsourced collection of articles from practitioners, reviewed and edited by the Software Underground community:
-- [Some advice on reproducing scientific figures](https://curvenote.com/@swung/52-things-geocomputing/niccoli-advice-on-reproducing-figures)
-- [Keep on improving your Geocomputing projects](https://curvenote.com/@swung/52-things-geocomputing/niccoli-keep-on-improving-geocomputing-projects)
-- [Prototype colourmaps for fault interpretation](https://curvenote.com/@swung/52-things-geocomputing/niccoli-prototype-colormaps-for-faults)
+```python
+>>> from bullshit_detector.spurious import P_spurious, r_crit
+>>> P_spurious(r=0.50, n=21, k=100)
+0.884   # 88.4% chance this correlation is spurious
+>>> r_crit(n=21)
+0.433   # minimum r to even consider at n=21
+```
 
------
-## Projects portfolio
+```python
+>>> from bullshit_detector.power import achieved_power
+>>> achieved_power(effect_size=0.5, n_per_group=16)
+{'power': 0.293, 'adequate': False}
+# 29% power â€” less than a coin flip. If significant, probably a false positive.
+```
 
-[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
+**9 modules, 104 tests, 7 example scripts, 12 skill files.** Published on PyPI.
 
-- **Web app**: [Busting bad colormaps](https://mybinder.org/v2/gh/mycarta/Colormap-distorsions-Panel-app/master?urlpath=%2Fpanel%2FDemonstrate_colormap_distortions_interactive_Panel)  - a web-based `Panel` app to show the effects of using a bad colormap with Geophysical data.  The first version was presented as a lightning talk at the [Transform 2020 virtual conference](https://transform2020.sched.com/) organized by [Software Underground](https://softwareunderground.org/); you can watch a [video recording of the presentation here](https://www.youtube.com/watch?v=rUbvueIF5f8&t=510s). Repo with code [here](https://github.com/mycarta/Colormap-distorsions-Panel-app). 
-<p align="center">
-  <img width="650" src="https://github.com/mycarta/Colormap-distorsions-Panel-app/blob/master/for%20readme/new_gif.gif">
-</p>
+`pip install bullshit-detector`
 
-- **Tutorial**: [Working with 3D seismic data in Python using segyio, numpy, Scikit-image](https://github.com/equinor/segyio-notebooks/blob/master/notebooks/basic/01_basic_tutorial.ipynb). A notebook to demonstrate how to:
-    - read a seismic amplitude volume and a seismic similarity volume as `numpy` arrays using `segyio`
-    - manipulate the similarity to create a discontinuity / fault volume
-    - create a fault mask and display a couple of amplitude time slices with superimposed faults
-    - write the fault volume to SEG-Y file re-using the headers from the input file
-<p align="center">
-  <img width="650" src="https://mycarta.files.wordpress.com/2019/03/workflow.png">
-</p>
+Links: [PyPI](https://pypi.org/project/bullshit-detector/) | [GitHub](https://github.com/mycarta/bullshit-detector) | [LinkedIn launch post](https://www.linkedin.com/posts/matteo-niccoli-data-geo_i-built-a-bullshit-detector-then-i-pointed-activity-7434634740688760833-pb9G?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAWAHSUB3NwMfQrHONX5D6DJSGjkS6gMTaA)
 
-- **Image augmentation pipelines for Deep Learning**. 
-I've worked on two image augmentation pipelines to increase the size of training sets for classification of geologic edges in seismic data, a typically low bias / high variance problem. 
-   - I developed the first pipeline to increase the size of training sets for classification of geologic edges in seismic data. The work was commissioned by a company (as a free-lance) and I am not able to share any detail on the image manipulations used. I have permission, however, to disclose that in production tests with Convolutional Neural Networks the approach helped improve performance, and that these efforts paved the path for the company's subsequent coding and investigations.
-   - I developed the second pipeline working with the images from the [2018 TGS Salt Identification Challenge on Kaggle](https://www.kaggle.com/c/tgs-salt-identification-challenge/data) in mind. Although I did not participate in the competition, having considere at length the problem of segmenting salt deposits, I came up with the idea of an "adversarial" augmentation strategy, in which not only the size of the training set is increased, but the task is rendered much harder with the image transformation. Some examples are shown below.  Preliminar tests (unpublished) are encouraging and I am currently working at open-sourcing my functions by way of a PR to the [Augmentor package](https://augmentor.readthedocs.io/en/master/index.html), so that where operations can be added not only in a sequence, but also stochastically with a probability value assigned by the user for each operation.
-<p align="center">
-  <img width="750" src="https://user-images.githubusercontent.com/7424763/172077533-ed00056c-0100-45a8-88ab-404ced0dc9ad.png">
-</p>
+---
 
+### Perceptual Colormaps: A Decade of Knowledge Sharing *(open source, professionally motivated)*
+*~10 years of research, community contribution, and accessible visualization*
 
-- **Web app (Hackathon project)**: [Sketch2model](https://github.com/epsalt/sketch2model-web) - a browser-based app to turn back-of-the-napkin geological sketches into geologic models that can then be used to generate synthetic seismic sections. The web app was Built around a prototype put together at the [2015 Calgary Geoscience Hackathon](https://csegrecorder.com/articles/view/open-collaboration-hackathons-and-tomorrows-subsurface-software), organized by [Agile Scientific](https://github.com/agile-geoscience), with team mates [Evan Saltman](https://github.com/epsalt) and [Elwyn Galloway](https://github.com/scibbatical), and special guest [Ben Bougher](https://github.com/ben-bougher) from Agile. The original idea for the prototype was proposed by Elwyn at the Hackathon, was to make an app that would turn an image of geological sketch (for example one taken from a boardmeeting whiteboard) into a digital rock model. The implementation of the finished app involves using morphological filtering and other image processing methods to enhance the sketch and convert it into a model with discrete bodies to be passed to a tool akin to Agile's [modelr.io](https://www.modelr.io/) to create and investigate a synthetic seismic model.
+Poor colormap choices create false patterns in scientific data. I've spent a decade developing methods to evaluate colormaps perceptually, sharing the results through papers, blog posts, and interactive tools.
 
-Blog posts:
+![Colormap distortion demo](https://github.com/mycarta/Colormap-distorsions-Panel-app/raw/master/for%20readme/new_gif.gif)
 
-[sketch2model](https://mycarta.wordpress.com/2016/05/04/sketch2model)
+**[Try the interactive app](https://mybinder.org/v2/gh/mycarta/Colormap-distorsions-Panel-app/master?urlpath=lab/tree/Demonstrate_colormap_distortions_interactive_Panel.ipynb)** â€” see how bad colormaps distort geophysical data.
 
-[sketch2model – sketch image enhancements](https://mycarta.wordpress.com/2016/05/25/sketch2model-sketch-image-enhancements)
+**Impact:**
+- [Evaluation paper](https://library.seg.org/doi/10.1190/tle34080948.1) â€” **Top 30 most-downloaded SEG papers (2010-2020)**
+- **Cited in official [Matplotlib documentation](https://matplotlib.org/stable/users/explain/colors/colormaps.html#references)**
+- Blog posts rank **#1 on Google** for "perceptual rainbow" and "perceptual palette images"
+- Knowledge exchanges with Peter Kovesi, Kristen Thyng, Bernice Rogowitz, Fabio Crameri
+- January 2026: [modernized to Panel 1.8.5 + Python 3.12](https://mycartablog.com/2026/01/24/modernizing-python-code-in-the-ai-era-a-different-kind-of-learning/), added cmcrameri and cmocean collections
 
-[sketch2model – linking edges with mathematical morphology](https://mycarta.wordpress.com/2016/07/22/sketch2model-linking-edges-with-mathematical-morphology)
+Links: [Live app](https://mybinder.org/v2/gh/mycarta/Colormap-distorsions-Panel-app/master?urlpath=lab/tree/Demonstrate_colormap_distortions_interactive_Panel.ipynb) | [Source](https://github.com/mycarta/Colormap-distorsions-Panel-app) | [Paper](https://library.seg.org/doi/10.1190/tle34080948.1) | [SEG Wiki](https://wiki.seg.org/wiki/How_to_evaluate_and_compare_color_maps)
 
-Workflow:
-<p align="center">
-  <img width="550" src="https://raw.githubusercontent.com/mycarta/sketch2model/master/workflow.PNG">
-</p>
-App screenshot:
-<p align="center">
-  <img width="600" src="https://user-images.githubusercontent.com/7424763/172092084-f71bc9d9-5547-4bff-9bbe-ef1ed4a6335b.png">
-</p>
+---
 
-- **Web app (Hackathon project)** : FRIDA (_restore live app and add link here_) - a browser-based app for interactive removal of acquisition footprint noise removal from 3D seismic data. 
+## Significant Projects
 
-Prior to the hackathon I had done a lot of work imagining and protptyping a tool to remove acquisition footprint from 2D seismic slices (this has been my longest-lived side project) and eventually asked [Elwyn](https://github.com/scibbatical) to participate. If you are curious about the whole background, please read [Chapter 39](https://curvenote.com/@swung/52-things-geocomputing/niccoli-keep-on-improving-geocomputing-projects) of the upcoming [52 Things You Should Know About Geocomputing](https://github.com/softwareunderground/52things) and then head over to my [Tutorial notebook](https://github.com/mycarta/t21-hack-footprint/blob/main/52-things_geocomputing_book_FFT_tutorial.ipynb). For a definition of acquisition footprint, please read the [SEG Wiki](https://wiki.seg.org/wiki/Dictionary:Acquisition_footprint_or_imprint), and to see some published industry examples, read this [blog post](https://mycarta.wordpress.com/2017/08/13/what-is-acquisition-footprint-noise-in-seismic-data). 
+### Fermi Estimation Framework *(personal project)*
+*Teaching LLMs quantitative reasoning through structured laws and worked examples*
 
-At the [2021 Hackathon, Transform virtual conference](https://github.com/softwareunderground/transform-2021-hackathon/discussions) we took the existing tool to the next level with team mates [@leocd91](https://github.com/leocd91), [@WesleyTheGeolien](https://github.com/WesleyTheGeolien),and [@markogauk](markogauk). We spent significant efforts on brainstorming several approaches for how to turn the tool in a production caliber app; check this screen shot of our MIRO board:
+A framework of 17 Laws (mechanical + estimation) that teaches AI models to decompose problems, bound unknowns, proceed with imperfect information, and know when to ask for help. Developed over three years, tested on 11 problems with a 6-criteria scoring rubric. Codifies methodology from Weinstein's *Guesstimation* books into explicit rules for human-AI collaboration.
 
-<p align="center">
-  <img width="650" src="https://user-images.githubusercontent.com/7424763/172094993-062a2f19-16ca-49bf-9b77-00523aa422f4.png">
-</p>
+Connected to bullshit-detector as the "Fermi sanity" tier â€” order-of-magnitude plausibility checks on reported claims.
 
-And the we set out to work. We were really impressed with the final result, see animation below:
+**Blog series:** [Part 1: The Problem That Wouldn't Compute](https://mycartablog.com/2026/02/07/teaching-an-ai-to-think-like-fermi-part-1-the-problem-that-wouldnt-compute/) | [Part 2: Permission to Guess](https://mycartablog.com/2026/02/25/teaching-an-ai-to-reason-like-fermi-part-2-permission-to-guess/)
 
-<p align="center">
-  <img width="650" src="https://user-images.githubusercontent.com/7424763/172095674-df9d49eb-8d37-4756-8543-ef24f48b3cce.gif">
-</p>
+---
 
-- **Collaboration project**: [Rainbow](https://agilescientific.com/blog/2017/5/31/unweaving-the-rainbow). For this project with [Matt Hall](https://github.com/kwinkunks/), I created a pipeline of image processing routines to enhance, clean-up, segment, and rectify the main map from published figures. This was a necessary preprocessing stage for Rainbow, an online tool for automagic recovery data from scientific images with unknown colourmaps. An example of the image processing work is shown is sketched below, with full list of operations in the intro to my blog series [Computer vision in Geoscience](https://mycarta.wordpress.com/2017/07/30/computer-vision-in-geoscience-recover-seismic-data-from-images-introduction/), and detailed methodology described in [Part I](https://mycarta.wordpress.com/2017/09/10/computer-vision-in-geoscience-recover-seismic-data-from-images-part-1/) and [Part II](https://mycarta.wordpress.com/2017/09/18/computer-vision-in-geoscience-recover-seismic-data-from-images-part-2/).
-<p align="center">
-  <img width="650" src="https://user-images.githubusercontent.com/7424763/172074830-f9cf1ed1-b899-4823-8574-d4ac0252f43b.png">
-</p>
+### LLM Discipline *(personal project)*
+*Anti-sycophancy guardrails and structured prompting for rigorous AI work*
 
-Also, watch Matt’s talk (very insightful and very entertaining) from the 2017 Calgary Geoconvention below:
-<p align="center">
-  <a href="https://youtu.be/7DnudEsb6hU " target="_blank"><img src="https://user-images.githubusercontent.com/7424763/172075215-75d9b1fb-0202-4f0c-b170-4f12a66cf890.png" alt="Recovering data from seismic images" width="650" /></a>
-</p>
+A reference collection and working practices for getting honest, pushback-capable behaviour from language models. Draws on Hafner (2026) "Beyond the Vibes" for spec-driven development, BullshitBench findings (Anthropic models dominate on pushback against nonsensical prompts), and the AGENTS.md pattern for repo-as-instruction-set.
 
-- **Knowledge sharing**: [My answer](https://earthscience.stackexchange.com/a/15139/144) to the question **In the northern hemisphere only, what percentage of the surface is land?**  on [Stack Exchange Earth Science Beta](https://earthscience.stackexchange.com). This was a lot of fun combining domain knowledge (about map projections) with a tiny bit of Python programming (using `numpy` arrays) to provide a quantitative solution. It is the mini-project I am proud the most of, and I did it out of curiosity and the pure joy of solving a problem!
+The core principle: AI tools that agree with everything you say are worse than useless for analytical work. Configure them to challenge assumptions, not confirm them.
 
------
-## Exploratory Data Analysis and visualization portfolio
-- Enhanced `seaborn` pairgrid matrix: one of the things I always do when I start looking at a multivariate probelm is to explore possible associations between features and target; one way I've found really useful is to "enhance"  the standard `Seaborn` pairgrid matrix by labeling each bivariate scatter plot with the [distance correlation](https://en.wikipedia.org/wiki/Distance_correlation) colored by p-value, and also rearrage the plots by the results of clustering analysis, like in the example below (you can read more about it [here](https://mycarta.wordpress.com/2019/04/10/data-exploration-in-python-distance-correlation-and-variable-clustering/)): 
-<p align="center">
-  <img width="500" src="https://mycarta.files.wordpress.com/2019/04/matrix_sorted-2.png">
-</p>
+Blog: [Operational Discipline for LLM Projects](https://mycartablog.com/2026/02/14/operational-discipline-for-llm-projects-what-it-actually-takes/) | [Standing in the Middle of Intelligence](https://mycartablog.com/2026/02/27/standing-in-the-middle-of-intelligence/) | [GitHub](https://github.com/mycarta/llm-discipline)
 
-- At the [2020 FORCE Machine Predicted Lithology challenge](https://xeek.ai/challenges/force-well-logs/overview), I used Ipywidget's interactive and the awesome [`missingno`](https://github.com/ResidentMario/missingno) library to enable browsing exploration wells in the North Sea using a widget and check the chosen well's curves completeness, on the fly, as shown below (you can read more about it [in here](https://mycarta.wordpress.com/2020/09/19/geoscience-machine-learning-bits-and-bobs-data-completeness), and try the tool in [this Jupyter notebook](https://github.com/mycarta/Force-2020-Machine-Learning-competition_predict-lithology-EDA/blob/master/Interactive_data_inspection_and_visualization_by_well.ipynb)):
-<p align="center">
-  <img width="500" src="https://mycarta.files.wordpress.com/2020/09/missingno_completeness_animation-1.gif">
-</p>
+---
 
-- 3D model of the ternary system quartz – nepheline – kalsilite, also called petrogeny’s “residua” system, which is used to describe the composition of many cooled residual magma. This was an advanced pet project while I was a student in Geology at the University of Rome, Italy. It involved using AutoCAD and 3D Studio Max to create a WRLM file. For the 3D sketchfab version of the model, I used a DXF export and re-rendered using Rhino3D. See the static snapshot below; navigate, inspet, and download the model on [Sketchfab](https://sketchfab.com/3d-models/ternary-system-quartz-nepheline-kalsilite-c8225185f7004ad0a23533ca191b0c6b)
-<p align="center">
-<img width="650"  src="https://user-images.githubusercontent.com/7424763/171786565-3452ddf5-a05b-4279-8cec-26c09a394415.gif">
-</p>
+### Be a Geoscience and Data Science Detective *(open source, professionally motivated)*
+*The intellectual ancestor of bullshit-detector*
 
+A methodology for combining domain expertise with statistical rigour when evaluating published results. Don't just accept visual/qualitative claims â€” back them up with custom error flags, bootstrap confidence intervals, influence plots, and distance correlation. This detective approach evolved directly into the bullshit-detector package.
 
-- 3D model of the Yoder Tilley tetrahedron for basalt classification. In this visualization the tetrahedron isbroken to separate the Quartz Tholeiite, Oliving Tholeiite, and Alkali Basalt sub-volumes and show the critical planes of silica saturation and silica under-saturation. For the 3D sketchfab version of the model, I used a DXF export and re-rendered using Rhino3D. Check it out [on Sketchfab](https://sketchfab.com/3d-models/basalt-classification-yoder-tilley-tetrahedron-4d5b741603424850af8946c7316d059a)
-<p align="center">
-<img width="650" src="https://user-images.githubusercontent.com/7424763/171785612-052ccf71-62c7-42ad-87e5-26a6de6e7b3c.gif">
-</p>
+Links: [Blog post](https://mycartablog.com/2020/09/16/be-a-geoscience-and-data-science-detective/) | [Notebook 1](https://github.com/mycarta/Be-a-geoscience-detective/blob/master/Be-a-geoscience-detective.ipynb) | [Notebook 2](https://github.com/mycarta/Be-a-geoscience-detective/blob/master/Be-a-geoscience-detective_example_2.ipynb)
 
-- 3D paths of colormap in CIELAB color space. These are a very useful way to analyze a colormap as they show clearly where abrupt chages in contrast happen; these are responsible for artifacts in mapping when these colormaps are used (more details in [this blog post](https://mycarta.wordpress.com/2013/02/21/perceptual-rainbow-palette-the-method/) ). As example in the two animations below (produced using the [3D color inspector plugin](https://imagej.nih.gov/ij/plugins/color-inspector.html) for ImageJ), notice the may abrupt changes in the path for the classic Jet colormap (top) and compary to the regular piraling path of a more perceptual rainbow, called CubicYF (bottom), which I created:
-<p align="center">
-<img width="400" src="https://user-images.githubusercontent.com/7424763/170847059-1afa96d0-7231-4005-98d1-14e5cbe90061.gif">
-</p>
+---
 
-<p align="center">
-<img width="400" src="https://user-images.githubusercontent.com/7424763/170847071-92754fca-ac6a-40c0-be7a-40f88a2172c1.gif">
-</p>
+### Mill's Methods, Machine Learning, and Drilling Risk *(personal project, professionally motivated)*
+*When 19th-century philosophy and neural networks agree*
 
------
-## Coding challenges
-- Completed all the Python challenges at [Coding bat](https://codingbat.com/python) and earned an overall 10-Star badge.
+A drilling problem from a CSEG talk: seven wells, five seismic attributes, four with mud loss problems. Three approaches converged â€” Mill's Methods of Induction (1843), a simple neural network, and domain expert Lee Hunt â€” all pointing to the same attributes. The pragmatic insight: the goal isn't finding "the cause," it's building a defensible decision rule under uncertainty.
 
-<p align="center">
-<img width="520" src="https://user-images.githubusercontent.com/7424763/171553242-81d3a943-a86f-4e92-9cbe-702195cce783.png">
-</p>
+Links: [Blog post](https://mycartablog.com/2026/01/20/the-value-of-intellectual-play-mill-machine-learning-and-a-drilling-problem-i-couldnt-stop-thinking-about/) | [Notebook](https://github.com/mycarta/predict/blob/master/Geoscience_ML_notebook_4.ipynb)
 
------
-## My Data Science continuous learning roadmap
-📕
+---
+
+## Fun Projects
+
+### Picobot Optimizer *(personal project)*
+
+How does a nearly blind robot cover every cell in a room? Picobot can only sense its four immediate neighbours â€” no map, no memory. In 2015, working through Harvey Mudd's CS materials on my own, I optimized the empty room solution from 7 to 6 rules and the maze from 16 to 12. The key insight: the X move (stay put) enables state transitions that let you reuse rules instead of duplicating logic.
+
+Revisited in 2025 with a Python simulator, exhaustive verification, and proper documentation.
+
+![Picobot maze solving](assets/picobot_maze.gif)
+
+Links: [Blog post](https://mycartablog.com/2026/01/31/picobot-revisited-optimizing-a-tiny-robots-rules-ten-years-later/) | [GitHub](https://github.com/mycarta/picobot-optimizer)
+
+---
+
+### Dandelions *(personal project)*
+
+A free, offline, no-ads mobile game based on *Math Games with Bad Drawings* by Ben Orlin. Plant flowers, spread seeds, try to cover every square before the Wind leaves you with gaps. Built with the author's knowledge and encouragement.
+
+Single player vs computer Wind (Easy/Hard) â€¢ Interactive tutorial â€¢ Installable as offline PWA â€¢ No accounts, no tracking
+
+Includes a [JavaScript tutorial for Python developers](https://github.com/mycarta/Dandelions) walking through the game engine.
+
+**[Play it](https://mycarta.github.io/Dandelions)** â€” works on phone, tablet, or desktop.
+
+![Dandelions screenshot](assets/dandelions_screenshot.png)
+
+Links: [Play](https://mycarta.github.io/Dandelions) | [GitHub](https://github.com/mycarta/Dandelions)
+
+---
+
+## Published Work
+
+**[How to evaluate and compare color maps](https://library.seg.org/doi/10.1190/tle34080948.1)** â€” *The Leading Edge* 34(8), 2015. Top 30 most-downloaded SEG papers (2010-2020).
+
+**[Mapping and validating lineaments](https://pubs.geoscienceworld.org/seg/tle/article/34/8/948/136625/Mapping-and-validating-lineaments)** â€” *The Leading Edge* 34(8), 2015.
+
+**[Introduction to Classification with SVMs](https://csegrecorder.com/articles/view/machine-learning-in-geoscience-v-introduction-to-classification-with-svms)** â€” *The Recorder* (CSEG), expert-reviewed.
+
+**[Keep on improving your geocomputing projects](https://curvenote.github.io/testing-jupyter-export-52things/niccoli-keep-on-improving-geocomputing-projects.html)** â€” Chapter in *52 Things You Should Know About Geocomputing*, 2019.
+
+---
+
+## Community
+
+**Software Underground** â€” Board Member (2024-present)
+
+**[mycarta blog](https://mycartablog.com)** â€” 65+ technical posts on geoscience, visualization, data science, and AI.
+
+**Conference talks:** [Transform 2020](https://www.youtube.com/watch?v=rUbvueIF5f8&t=510s) (colormap tool), [TRANSFORM 2021](https://github.com/mycarta/t21-hack-footprint) (FRIDA hackathon)
+
+**Stack Exchange:** [Land percentage in Northern Hemisphere](https://earthscience.stackexchange.com/a/15139/144) â€” combining map projections with Python to answer a deceptively simple question.
+
+---
+
+## GitHub Stats
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=mycarta&theme=blue-green&show_icons=true&custom_title=)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
 <details>
-  <summary>Click here to expand/collapse the roadmap section</summary> 
+<summary><b>Previous Work & Additional Projects</b></summary>
 
-### Management
-- [x] [Project Management Skills for Leaders](https://www.linkedin.com/learning/certificates/712a6099da116abc52b2f66b4517b03c8883d61ed82ba27e11211b45fee03220), Linkedin Learning
-- [x] [Decision Intelligence](https://www.linkedin.com/learning/certificates/63634e29508a927cd70844c71f66383b561224c664f2e26e16854bf36eb2d38d), Linkedin Learning
+### Integrated Geophysical Workflows *(professional work)*
 
-### Python development, unit testing, and debugging
-- [x] [Test-Driven Development With PyTest](https://realpython.com/certificates/96ecff0f-2d92-422f-b3d8-f6790a03f872/), Real Python
-- [x] [Enhance your Python unit testing using Coverage](https://www.coursera.org/account/accomplishments/certificate/TGYBNFKE3DJW), Coursera Project Network
+Multi-scale characterization for unconventional resources: regional lineament analysis, seismic attribute extraction, 3D morphological segmentation, multivariate analysis. Workflows refined to inform drilling prioritization. Methods transfer to geothermal, groundwater, COâ‚‚ sequestration, and infrastructure stability.
 
-### Foundations of Data Science [Professional Certificate](https://credentials.edx.org/credentials/3ff1fe712ebe4e6bb47093928883d765/) (edX)
-- [x] [Computational Thinking with Python](https://courses.edx.org/certificates/a5d76bfe8eff4a43bfc70c356745b3f6)
-- [x] [Inferential Thinking through Simulations](https://courses.edx.org/certificates/5ad5a7c792c04d5a9371b2f7fc97d253)
-- [x] [Machine Learning and Predictions](https://courses.edx.org/certificates/02807f521af04f3db11ce95e01e62625)
+Links: [Lineament mapping](https://pubs.geoscienceworld.org/seg/tle/article/34/8/948/136625/Mapping-and-validating-lineaments) | [Fault proximity](https://github.com/mycarta/faults/blob/master/fun_with_faults.ipynb) | [Seismic tutorial](https://github.com/equinor/segyio-notebooks/blob/master/notebooks/basic/01_basic_tutorial.ipynb)
 
-### Intermediate Data Science
-- [x] [Pandas](https://www.kaggle.com/learn/certification/mycarta/pandas), Kaggle
-- [x] [Intermediate Machine Learning](https://www.kaggle.com/learn/certification/mycarta/intermediate-machine-learning), Kaggle
-- [x] Pandas short course (as a beta tester), DeepLearning.AI
-- [x] [Intro to SQL](https://www.kaggle.com/learn/certification/mycarta/intro-to-sql), Kaggle
-- [x] [Relational Databases Essential Training](https://www.linkedin.com/learning/certificates/55968c78f13a8f7a7cdd0ec188842aa8ee75fe956f17435565fcde9b374e1e51), LinkedIn Learning
+### FRIDA â€” Acquisition Footprint Removal *(personal project, professionally applied)*
 
-### Analytics
-- [x] [Spotfire Essentials I](https://support.ruths.ai/support/solutions/articles/6000191001-kickstart-how-to-schedule-training), Ruths.ai (now Petro.ai)
-- [x] [Spotfire Essentials II](https://support.ruths.ai/support/solutions/articles/6000191001-kickstart-how-to-schedule-training), Ruths.ai (now Petro.ai)
-- [x] [15 Mistakes to Avoid in Data Science](https://www.linkedin.com/learning/certificates/80c3a9379c2a96b55083dab7f651cf99ea2b01d52c56ea4684e22befeb06cfdb?trk=share_certificate), LinkedIn Learning
+10+ year project: interactive removal of acquisition footprint noise from 3D seismic data using FFT-based methods. Evolved from MATLAB (2010) through Python port (2014-2018) to Transform 2021 hackathon prototype.
 
-### GIS and Geospatial
-- [x] [Climate Geospatial Analysis in Python with Xarray](https://www.coursera.org/account/accomplishments/certificate/VMKXGAQKGGFP),  Coursera Project Network
-- [x] ARSET - Fundamentals of Remote Sensing, NASA Applied Science
-- [x] ARSET - Introduction to Synthetic Aperture Radar, NASA Applied Science
-- [x] ARSET - Humanitarian Applications Using NASA Earth Observations, NASA Applied Science
-- [x] [Basic Principles of Radar Backscattering](https://eo-college.org/courses/basic-principles-of-radar-backscatter/), EO College
-- [x] [Synthetic Aperture Radar (SAR): Applications - Professional Certificate](https://credentials.edx.org/credentials/a4f172b89b5043a7b0282b3b289fe838/), edX
+Links: [Transform 2021 demo](https://github.com/mycarta/t21-hack-footprint) | [Tutorial notebooks](https://github.com/mycarta/Footprint-removal-using-multiple-windows) | [52 Things chapter](https://curvenote.github.io/testing-jupyter-export-52things/niccoli-keep-on-improving-geocomputing-projects.html)
 
+### Hackathon Projects
 
-### AI, Deep Learning, Ethics, ML explainability
-- [x] [AI for Everyone](https://www.coursera.org/account/accomplishments/certificate/W9V3WB6GADC4), Coursera
-- [x] [Basics of AI Python Coding](https://learn.deeplearning.ai/accomplishments/22bc794a-e168-45d3-a778-03aab98f2d2f?), DeepLearning.AI
-- [x] [Machine learning explainability](https://www.kaggle.com/learn/certification/mycarta/machine-learning-explainability), Kaggle
-- [x] [Intro to AI Ethics](https://www.kaggle.com/learn/certification/mycarta/intro-to-ai-ethics), Kaggle
-- [x] [AI and Public Health](https://www.coursera.org/account/accomplishments/certificate/HMG12IIO95GI) - AI for Good Coursera Specialization, DeepLearning.AI
-- [x] [Ai and Climate Change](https://www.coursera.org/account/accomplishments/certificate/TU8C1SM71OIY) - AI for Good Coursera Specialization, DeepLearning.AI
-- [x] [AI and Disaster Management](https://www.coursera.org/account/accomplishments/certificate/W80PC3ECESXF) - AI for Good Coursera Specialization, DeepLearning.AI
-- [x] [TensorFlow: Neural Networks and Working with Tables](https://www.linkedin.com/learning/certificates/2c6a1947d69f738ac6afecc03635bd07b1a1aed31c39a2fa9a380fb574cf810c), LinkedIn Learning
-- [x] [TensorFlow: Working with NLP](https://www.linkedin.com/learning/certificates/683eb4ef9b3dfa5a73cc8b97eb3381551a4a2ce19dcc1146edd8b866207416b1), LinkedIn Learning
-- [x] [TensorFlow 2.0: Working with Images](https://www.linkedin.com/learning/certificates/5e57eadefad9f19661cc24118d326d794db853bf1b9c781bccff213312fe0001), LinkedIn Learning
-- [x] [Advanced AI: Transformers for Computer Vision](https://www.linkedin.com/learning/certificates/a3cb2e6ddef5f76122b0703ba4db00de629391db254b6c45330bfab6170d51e1), LinkedIn Learning)
-- [x] [Agentic AI](https://learn.deeplearning.ai/certificates/df930a7d-ccde-4f42-8dc0-12b4c1e53535), DeepLearning.AI
+**[Sketch2model](http://sketch2model.ca/)** â€” 2015 Calgary Geoconvention, Honorary Mention. Hand-drawn sketches â†’ geological models â†’ synthetic seismic.
 
-### Diversity, Equity, Inclusion
-- [x] [Understanding Gender Equity](https://courses.edx.org/certificates/a052cc54020b465096d2cf5c1c557877) - Race, Gender, and Workplace Equity certificate, edX
-- [x] [Facing Racism and Emotional Tax in the Workplace](https://courses.edx.org/certificates/ab3dc247ac9149bfb20ead074daf22ed) - Race, Gender, and Workplace Equity certificate, edX
-- [x] [Communication Skills for Dialoguing Across Difference](https://courses.edx.org/certificates/e73a19e937274de1b790cf3dcc02fc7a) - Race, Gender, and Workplace Equity certificate, edX
-- [x] [Unconscious Bias: From Awareness to Action](https://courses.edx.org/certificates/62d405fb03794ae4bdc4d05bf53d757d) - Race, Gender, and Workplace Equity certificate, edX
-- [x] [Understanding and Supporting LGBTQ+ Employees](https://www.linkedin.com/learning/certificates/e46cd51a3754b5f1578d625df5bbb4dfbe7c162749dc62d504ec483bab3e03ab?trk=share_certificate), LinkedIn Learning
-- [x] [Understanding and Supporting Asian Employees](https://www.linkedin.com/learning/certificates/a5e8bedb31c98b833d8bfd9809e5da1dbe4d112bace930aa58970ac93c07d286?trk=share_certificate), LinkedIn Learning
-- [x] [Dealing with Microaggression as an Employee](https://www.linkedin.com/learning/certificates/5b56f000c5043d7543ced9b437a89439a28ae007cf968c6b45bbd7087fc8d96f?trk=share_certificate), LinkedIn Learning
-- [x] [The Value of Employee Resource Groups](https://www.linkedin.com/learning/certificates/ac28ce0382cd2ef1b6765c1ee0465e6c43b33911edc238a614b592cc9e4d5267?trk=share_certificate), LinkedIn Learning
-  
+**[SEG 2016 ML Contest](https://github.com/seg/2016-ml-contest/blob/master/MandMs/02_Facies_classification-MandMs_plurality_voting_classifier.ipynb)** â€” Top-performing facies classification using shallow ML.
 
-### Communication tools
-- [x] [Enhance Organizational Communications with Slack](https://www.coursera.org/account/accomplishments/certificate/JEBLDLJQLSZN), Coursera Project Network
+**[FORCE 2020](https://github.com/mycarta/Force-2020-Machine-Learning-competition_predict-lithology-EDA)** â€” GMM clustering for lithology prediction.
+
+### Wind Calculator *(professional work)*
+
+Swept area method calculator adapted for East Coast North Atlantic offshore conditions. [Repository](https://github.com/mycarta/wind-calculator)
+
+### Additional Repositories
+
+- [Useful-color-related-tools-and-info](https://github.com/mycarta/Useful-color-related-tools-and-info) â€” Curated colormap resources (66 stars)
+- [Computer-vision-in-geoscience](https://github.com/mycarta/Computer-vision-in-geoscience) â€” Recovering data from published images
+- [Enhanced Seaborn pairgrid](https://mycarta.wordpress.com/2019/04/10/data-exploration-in-python-distance-correlation-and-variable-clustering/) â€” Distance correlation matrix with clustering
+
+### Earth Observation & Remote Sensing Training
+
+InSAR SAR Applications Professional Certificate (edX) â€¢ Radar Backscattering (EO College) â€¢ NASA ARSET: Fundamentals of Remote Sensing â€¢ NASA ARSET: SAR for Disaster & Humanitarian Applications â€¢ Climate Geospatial Analysis with Xarray (Coursera) â€¢ AI For Good Specialization (Coursera/DeepLearning.AI)
+
+### About Me
+
+**Hobbies:** Drawing and art projects, juggling, longboarding
+**Current fixation:** Card tricks and Rubik's cube
+
 </details>
-📕
 
------
-## Book library
-It looks like it has become very trendy these days to post a picture your datascience library. I admit it, I could not resist doing it too! Here is my collection of books, with a focus on Machine Learning and Data Exploration
-<p align="center">
-  <img width="650" src="https://github.com/user-attachments/assets/0f0cde45-11d3-42b0-9dcd-4067ef8abf3b">
-</p>
+---
 
-
------
-
-## Community engagement
-- Present: board member of [Software Underground](https://github.com/softwareunderground)
-
-- Past: Student mentor, Canadian Society of Exploration Geophysicists (volunteer); Co-founder and coordinator of the Calgary GeoPy group;  Editor, Canadian Society of Exploration Geophysicists (THe Recorder publication).
-
------
-## Stuff I would do differently
-- These days I would definitely build this one in Python: [A study of Ricker wavelets in MS Excel (2016)](https://mycarta.wordpress.com/2016/02/04/a-study-of-ricker-wavelets-in-ms-excel/)
+*Last updated: March 2026*
