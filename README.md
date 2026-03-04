@@ -76,6 +76,8 @@ Connected to bullshit-detector as the "Fermi sanity" tier — order-of-magnitude
 
 **Blog series:** [Part 1: The Problem That Wouldn't Compute](https://mycartablog.com/2026/02/07/teaching-an-ai-to-think-like-fermi-part-1-the-problem-that-wouldnt-compute/) | [Part 2: Permission to Guess](https://mycartablog.com/2026/02/25/teaching-an-ai-to-reason-like-fermi-part-2-permission-to-guess/)
 
+**Framework:** [The Laws of Fermi Problem-Solving v4](https://gist.github.com/mycarta#the-laws-of-fermi-problem-solving-v4)
+
 ---
 
 ### LLM Discipline *(personal project)*
