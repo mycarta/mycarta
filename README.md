@@ -143,7 +143,7 @@ Links: [Play](https://mycarta.github.io/Dandelions) | [GitHub](https://github.co
 
 **[How to evaluate and compare color maps](https://library.seg.org/doi/10.1190/tle34080948.1)** — *The Leading Edge* 34(8), 2015. Top 30 most-downloaded SEG papers (2010-2020).
 
-**[Mapping and validating lineaments](https://pubs.geoscienceworld.org/seg/tle/article/34/8/948/136625/Mapping-and-validating-lineaments)** — *The Leading Edge* 34(8), 2015.
+**[Mapping and validating lineaments](https://pubs.geoscienceworld.org/seg/tle/article/34/8/948/136625/Mapping-and-validating-lineaments)** — *The Leading Edge* 34(8), 2015. Top 5 most-downloaded TLE papers in 2015-2016
 
 **[Introduction to Classification with SVMs](https://csegrecorder.com/articles/view/machine-learning-in-geoscience-v-introduction-to-classification-with-svms)** — *The Recorder* (CSEG), expert-reviewed.
 
