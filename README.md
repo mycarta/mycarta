@@ -80,6 +80,23 @@ Connected to bullshit-detector as the "Fermi sanity" tier — order-of-magnitude
 
 ---
 
+### Beyond GDP: What Really Correlates with World Happiness? *(personal project)*
+*Kinship structures, Church history, and climate as independent predictors of national well-being*
+
+Most analyses of the World Happiness Report stay within its six standard variables — and conclude that GDP dominates. Building on Jesper Dramsch's Kaggle EDA, I merged WHR 2017 with the Schulz et al. (2019, *Science*) Kinship Intensity Index, historical Church exposure data, Yale Environmental Performance Index, Women Peace & Security Index, and World Bank climate data. Then applied distance correlation and variable clustering to map the structure.
+
+**Key findings:**
+- Kinship intensity sits in a **different variable cluster from GDP** — it's not a development proxy. Polygyny (ρ = −0.66) and lineage rules (ρ = −0.54) predict lower happiness independently of wealth.
+- **Western Church exposure** correlates strongly with happiness (ρ = 0.65); Eastern Church is much weaker (0.28) — consistent with the Schulz thesis that medieval kinship-dissolving policies fostered individualism and trust.
+- Trust in government shows a **threshold nonlinearity** that Spearman misses but distance correlation catches (ρ = 0.30 vs DC = 0.50).
+- Democracy, environmental performance, and gender security are **collinear with GDP** (ρ > 0.75) — they measure facets of the same construct.
+
+155 countries, 34 variables. Explanatory framework (Shmueli 2010) — no LASSO, no random forests, no SHAP. Regression analysis forthcoming.
+
+Links: [Kaggle Dataset](https://www.kaggle.com/datasets/mycarta/world-happiness-2017-kinship-and-climate) | [Kaggle Notebook](https://www.kaggle.com/code/mycarta/beyond-gdp-kinship-climate-and-world-happiness)
+
+---
+
 ### LLM Discipline *(personal project)*
 *Anti-sycophancy guardrails and structured prompting for rigorous AI work*
 
