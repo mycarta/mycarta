@@ -83,17 +83,18 @@ Connected to bullshit-detector as the "Fermi sanity" tier — order-of-magnitude
 ### Beyond GDP: What Really Correlates with World Happiness? *(personal project)*
 *Kinship structures, Church history, and climate as independent predictors of national well-being*
 
-Most analyses of the World Happiness Report stay within its six standard variables — and conclude that GDP dominates. Building on Jesper Dramsch's Kaggle EDA, I merged WHR 2017 with the Schulz et al. (2019, *Science*) Kinship Intensity Index, historical Church exposure data, Yale Environmental Performance Index, Women Peace & Security Index, and World Bank climate data. Then applied distance correlation and variable clustering to map the structure.
+Most analyses of the World Happiness Report stay within its six standard variables — and conclude that GDP dominates. Building on Jesper Dramsch's Kaggle EDA, I merged WHR 2017 with the Schulz et al. (2019, *Science*) Kinship Intensity Index, historical Church exposure data, Yale Environmental Performance Index, Women Peace & Security Index, and World Bank climate data. Then applied distance correlation and variable clustering to map the structure, followed by hierarchical block regression to test what survives multivariate control.
 
 **Key findings:**
-- Kinship intensity sits in a **different variable cluster from GDP** — it's not a development proxy. Polygyny (ρ = −0.66) and lineage rules (ρ = −0.54) predict lower happiness independently of wealth.
-- **Western Church exposure** correlates strongly with happiness (ρ = 0.65); Eastern Church is much weaker (0.28) — consistent with the Schulz thesis that medieval kinship-dissolving policies fostered individualism and trust.
-- Trust in government shows a **threshold nonlinearity** that Spearman misses but distance correlation catches (ρ = 0.30 vs DC = 0.50).
-- Democracy, environmental performance, and gender security are **collinear with GDP** (ρ > 0.75) — they measure facets of the same construct.
+- GDP alone explains 66% of cross-country happiness variation. Adding freedom and trust raises this to 75%. Adding kinship intensity and temperature reaches **80% with just five predictors** — all VIFs below 1.7, no collinearity concerns.
+- Kinship intensity sits in a **different variable cluster from GDP** — it's not a development proxy. **Polygyny** (β = −0.274, p = .007) is the specific kinship norm driving the effect after multivariate control. It's a direct marker of gender inequality in household structure.
+- **Western Church exposure** partially mediates the kinship effect (17% attenuation of the KII coefficient), consistent with the Schulz thesis that medieval kinship-dissolving policies fostered individualism and trust. But kinship remains highly significant — it operates through channels beyond church history.
+- Democracy, environmental performance, and gender security are **collinear with GDP** (ρ > 0.75) and add essentially nothing after GDP is controlled (p = .408, .724, .050 respectively).
+- Trust in government shows a **threshold nonlinearity** that Spearman misses but distance correlation catches (ρ = 0.30 vs DC = 0.50) — though all three functional forms (linear, quadratic, threshold) are indistinguishable in the multivariate model.
 
-155 countries, 34 variables. Explanatory framework (Shmueli 2010) — no LASSO, no random forests, no SHAP. Regression analysis forthcoming.
+155 countries, 34 variables. Explanatory framework (Shmueli 2010) — no LASSO, no random forests, no SHAP. Includes a companion HARKing tutorial demonstrating how a seductive GDP satiation pattern fails bootstrap and Davies permutation testing.
 
-Links: [Kaggle Dataset](https://www.kaggle.com/datasets/mycarta/world-happiness-2017-kinship-and-climate) | [Kaggle Notebook](https://www.kaggle.com/code/mycarta/beyond-gdp-kinship-climate-and-world-happiness)
+Links: [Kaggle Dataset](https://www.kaggle.com/datasets/mycarta/world-happiness-2017-kinship-and-climate) | [Kaggle EDA Notebook](https://www.kaggle.com/code/mycarta/beyond-gdp-kinship-climate-and-world-happiness) | [Kaggle Regression Notebook](https://www.kaggle.com/code/mycarta/02-kinship-climate-and-world-happiness-regression) | [Kaggle HARKing Tutorial](https://www.kaggle.com/code/mycarta/03-a-mini-tutorial-on-harking)
 
 ---
 
