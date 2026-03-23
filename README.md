@@ -96,6 +96,20 @@ Most analyses of the World Happiness Report stay within its six standard variabl
 
 Links: [Kaggle Dataset](https://www.kaggle.com/datasets/mycarta/world-happiness-2017-kinship-and-climate) | [Kaggle EDA Notebook](https://www.kaggle.com/code/mycarta/beyond-gdp-kinship-climate-and-world-happiness) | [Kaggle Regression Notebook](https://www.kaggle.com/code/mycarta/02-kinship-climate-and-world-happiness-regression) | [Kaggle HARKing Tutorial](https://www.kaggle.com/code/mycarta/03-a-mini-tutorial-on-harking)
 
+**Sub-national extension: 353 European regions**
+
+Took the Schulz kinship framework from country level to regional level by building a custom crosswalk linking Schulz's internal region codes to NUTS codes via Eurostat classification tables and fuzzy name matching. Merged ESS rounds 1–8 life satisfaction (weighted regional means) with Church exposure, trust, individualism, and cousin marriage across 31 countries.
+
+**Key findings:**
+- **ICC = 0.87** — 87% of happiness variation is between countries, only 13% within.
+- Germany's **East-West gap persists** 35 years after reunification (exact permutation p = 1/3003).
+- Italy's north-south Church exposure gradient is **confounded with the Mezzogiorno divide** (ρ = −0.28, n.s.).
+- First-cousin marriage shows a **Simpson's paradox**: raw ρ = +0.59 across 3 countries, within-country ρ ≈ 0.
+- Within countries, **trust** is the strongest candidate predictor (p = 0.07, marginal). The "deep history" variables don't reach significance at the regional scale.
+
+353 regions, 31 countries, novel merged dataset. CC BY-NC-SA 4.0 (ESS license).
+
+Links: [Kaggle Dataset](https://www.kaggle.com/datasets/mycarta/european-regions-happiness-kinship-2017) | [Kaggle Analysis Notebook](https://www.kaggle.com/code/mycarta/european-regions-happiness-kinship-church-exposure)
 ---
 
 ### LLM Discipline *(personal project)*
