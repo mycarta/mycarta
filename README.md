@@ -101,11 +101,11 @@ Links: [Kaggle Dataset](https://www.kaggle.com/datasets/mycarta/world-happiness-
 Took the Schulz kinship framework from country level to regional level by building a custom crosswalk linking Schulz's internal region codes to NUTS codes via Eurostat classification tables and fuzzy name matching. Merged ESS rounds 1–8 life satisfaction (weighted regional means) with Church exposure, trust, individualism, and cousin marriage across 31 countries.
 
 **Key findings:**
-- **ICC = 0.87** — 87% of happiness variation is between countries, only 13% within.
-- Germany's **East-West gap persists** 35 years after reunification (exact permutation p = 1/3003).
-- Italy's north-south Church exposure gradient is **confounded with the Mezzogiorno divide** (ρ = −0.28, n.s.).
-- First-cousin marriage shows a **Simpson's paradox**: raw ρ = +0.59 across 3 countries, within-country ρ ≈ 0.
-- Within countries, **trust** is the strongest candidate predictor (p = 0.07, marginal). The "deep history" variables don't reach significance at the regional scale.
+- **Your country matters more than your region** — 87% of the happiness variation across Europe is between countries, only 13% within (ICC = 0.87).
+- **Germany's East-West happiness gap persists** 35 years after reunification — every former DDR state ranks below every western state (permutation p = 1/3003).
+- **Italy's north-south divide looks like a Church effect but isn't** — GDP, employment, and governance run on the same axis and can't be separated (ρ = −0.28, n.s.).
+- **Cousin marriage correlation is a statistical mirage** — it looks strong across 3 countries (ρ = +0.59) but vanishes within each country (Simpson's paradox).
+- **Trust is the best within-country predictor**, though only suggestive (p = 0.07). Medieval Church history doesn't predict happiness differences between regions of the same country.
 
 353 regions, 31 countries, novel merged dataset. CC BY-NC-SA 4.0 (ESS license).
 
