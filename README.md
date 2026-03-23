@@ -110,6 +110,7 @@ Took the Schulz kinship framework from country level to regional level by buildi
 353 regions, 31 countries, novel merged dataset. CC BY-NC-SA 4.0 (ESS license).
 
 Links: [Kaggle Dataset](https://www.kaggle.com/datasets/mycarta/european-regions-happiness-kinship-2017) | [Kaggle Analysis Notebook](https://www.kaggle.com/code/mycarta/european-regions-happiness-kinship-church-exposure)
+
 ---
 
 ### LLM Discipline *(personal project)*
