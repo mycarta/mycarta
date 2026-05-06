@@ -80,6 +80,26 @@ Connected to bullshit-detector as the "Fermi sanity" tier — order-of-magnitude
 
 ---
 
+### GeoHab 2026 MLWG Competition: Benthic Habitat Classification *(competition, methodology contribution)*
+*Spatial CV discipline, per-class indicator variograms, and pre-flight screening for honest evaluation*
+
+9th place out of 52 competitors in the GeoHab 2026 MLWG benthic habitat classification competition (Refuge Cove, Victoria, Australia). Five habitat classes from multibeam echosounder bathymetry and backscatter, evaluated on weighted F1. Positive public-to-private leaderboard delta (+0.009), validating that cross-validation discipline held on unseen data. Published pipeline notebook independently replicated by two other competitors (byte-identical predictions on all 98 test points).
+
+<img width="600" alt="CV scheme comparison: StratifiedKFold vs BlockKFold vs per-class variogram LOOCV exclusion geometry" src="assets/cv_scheme_comparison.png">
+
+**Methodological contributions shared as competition discussion posts:**
+
+- **Per-class indicator variogram protocol.** Fit indicator variograms at three lag windows (160 m, 240 m, 400 m) to separate local autocorrelation from nonstationarity. Substrate-controlled habitats (reef, bare sand) showed longer correlation lengths (278 m, 414 m) than biologically-driven ones (seagrass, microbial mats: 186 m, 190 m), an ecological signal, not a statistical artifact.
+- **Pre-flight screening for spatial LOOCV.** Documented two failure modes: class-level structural failure (rare class with 98.8% self-exclusion) and point-level degenerate folds. Proposed a five-step screening protocol.
+- **Spatial optimism quantification.** StratifiedKFold F1 of 0.989 vs. BlockKFold F1 of 0.635: a 0.35 gap attributable to spatial leakage on a 0.72 km² site.
+- **Negative result on object-based features.** Segment-level backscatter statistics fed to a point-level tabular model created pseudoreplication. The paper's approach worked at the segment level; importing it into a point pipeline without adjusting for the change in support made things worse.
+
+Upcoming: model confidence report (Monarch framework), negative results writeup, random walker segmentation exploration.
+
+Links: [Competition](https://www.kaggle.com/competitions/geohab-mlwg-competition-2026) | [Pipeline notebook](https://www.kaggle.com/code/mycarta/geohab-2026-solution-write-up) | [LOOCV post](https://www.kaggle.com/competitions/geohab-mlwg-competition-2026/discussion/697545) | [Ecological hypotheses post](https://www.kaggle.com/competitions/geohab-mlwg-competition-2026/discussion/695461) | [Wave-ray null post](https://www.kaggle.com/competitions/geohab-mlwg-competition-2026/discussion/696680) | [Public repo](https://github.com/mycarta/geohab-2026-public)
+
+---
+
 ### Beyond GDP: What Really Correlates with World Happiness? *(personal project)*
 *Kinship structures, Church history, and climate as independent predictors of national well-being*
 
