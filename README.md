@@ -80,7 +80,7 @@ Connected to bullshit-detector as the "Fermi sanity" tier — order-of-magnitude
 
 ---
 
-### GeoHab 2026 MLWG Competition: Benthic Habitat Classification *(competition, methodology contribution)*
+### Kaggle GeoHab 2026 MLWG Competition: Benthic Habitat Classification *(competition, methodology contribution)*
 *Spatial CV discipline, per-class indicator variograms, and pre-flight screening for honest evaluation*
 
 9th place out of 52 competitors in the GeoHab 2026 MLWG benthic habitat classification competition (Refuge Cove, Victoria, Australia). Five habitat classes from multibeam echosounder bathymetry and backscatter, evaluated on weighted F1. Positive public-to-private leaderboard delta (+0.009), validating that cross-validation discipline held on unseen data. Published pipeline notebook independently replicated by two other competitors (byte-identical predictions on all 98 test points).
