@@ -96,7 +96,7 @@ Connected to bullshit-detector as the "Fermi sanity" tier — order-of-magnitude
 
 Upcoming: model confidence report (Monarch framework), negative results writeup, random walker segmentation exploration.
 
-Links: [Competition](https://www.kaggle.com/competitions/geohab-mlwg-competition-2026) | [Pipeline notebook](https://www.kaggle.com/code/mycarta/geohab-2026-solution-write-up) | [LOOCV post](https://www.kaggle.com/competitions/geohab-mlwg-competition-2026/discussion/697545) | [Ecological hypotheses post](https://www.kaggle.com/competitions/geohab-mlwg-competition-2026/discussion/695461) | [Wave-ray null post](https://www.kaggle.com/competitions/geohab-mlwg-competition-2026/discussion/696680) | [Public repo](https://github.com/mycarta/geohab-2026-public)
+Links: [Competition](https://www.kaggle.com/competitions/geohab-mlwg-competition-2026) | [Pipeline notebook](https://www.kaggle.com/code/mycarta/geohab-2026-solution-write-up) | [LOOCV post](https://www.kaggle.com/competitions/geohab-mlwg-competition-2026/discussion/697545) | [Ecological hypotheses post](https://www.kaggle.com/competitions/geohab-mlwg-competition-2026/discussion/695461) | [Wave-ray null post](https://www.kaggle.com/competitions/geohab-mlwg-competition-2026/discussion/696680) | [Public repo](https://github.com/mycarta/geohab-2026-public](https://github.com/mycarta/GeoHab26-Kaggle-solution)
 
 ---
 
