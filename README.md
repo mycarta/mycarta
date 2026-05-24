@@ -214,6 +214,8 @@ Links: [Play](https://mycarta.github.io/Dandelions) | [GitHub](https://github.co
 
 **Stack Exchange:** [Land percentage in Northern Hemisphere](https://earthscience.stackexchange.com/a/15139/144) — combining map projections with Python to answer a deceptively simple question.
 
+**[Lunenburg Events](https://mycarta.github.io/lunapp/)** — free, ad-free community events app for Lunenburg, NS. Music, theatre, arts, and community — for the next two weeks.
+
 ---
 
 <details>
@@ -242,10 +244,6 @@ Links: [Transform 2021 demo](https://github.com/mycarta/t21-hack-footprint) | [T
 ### Wind Calculator *(professional work)*
 
 Swept area method calculator adapted for East Coast North Atlantic offshore conditions. [Repository](https://github.com/mycarta/wind-calculator)
-
-### Community Projects
-
-- [Lunenburg Events](https://mycarta.github.io/lunapp/) — free, ad-free community events app for Lunenburg, NS. Music, theatre, arts, and community — for the next two weeks.
 
 ### Additional Repositories
 
