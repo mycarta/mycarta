@@ -243,6 +243,10 @@ Links: [Transform 2021 demo](https://github.com/mycarta/t21-hack-footprint) | [T
 
 Swept area method calculator adapted for East Coast North Atlantic offshore conditions. [Repository](https://github.com/mycarta/wind-calculator)
 
+### Community Projects
+
+- [Lunenburg Events](https://mycarta.github.io/lunapp/) — free, ad-free community events app for Lunenburg, NS. Music, theatre, arts, and community — for the next two weeks.
+
 ### Additional Repositories
 
 - [Useful-color-related-tools-and-info](https://github.com/mycarta/Useful-color-related-tools-and-info) — Curated colormap resources (66 stars)
